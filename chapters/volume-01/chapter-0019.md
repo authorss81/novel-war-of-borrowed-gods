@@ -38,7 +38,7 @@ The yard went quiet enough to hear the feeder.
 
 Nobody said anything.
 
-“A person held that credential,” Sable said. “My institution's bookkeeping threw the name away eleven years ago, during a project I signed off as a junior duty officer, and no offence, Tomas.”
+“A person held that credential,” Sable said. “My institution's bookkeeping threw the name away seven years ago, during a project I signed off as a junior duty officer, and no offence, Tomas.”
 
 “Elias told me about the renumbering on Sunday,” Tomas said. “I did not know about the holder field.”
 
@@ -62,7 +62,7 @@ Mara went first. “The medical ledger does not leave this building. I will read
 
 Tomas went second, with the stop plan in his hand. “I am giving you a survey threshold that was written before the survey and enforced on it, and I am telling you that the number stopped four millimetres of movement on a slab and that the person who called the stop was not me. That is either a system working or a system that was lucky. I cannot tell you which, and neither can I, and that is exactly why I would like somebody with your authority looking at the same instruments.”
 
-Joon went third, and he did not go third quietly. “I have the raw audio, the paper manifest, the measurements, the photograph of your terminal offering to delete the 05:42 entries, the card image, the bell impression, the eleven witness statements, and the Bell file. Five copies in five buildings, one of which is a lock-box in a union hall that you do not have a warrant for. You get copies. You get a supervised reading, room, table, two witnesses, and the survivors told first. If one copy walks out of my hands, four of them do not, and one of them is a name on a wall in a neighbourhood you have a truck parked in.”
+Joon went third, and he did not go third quietly. “I have the raw audio, the paper manifest, the measurements, the photograph of your terminal offering to delete the 05:42 entries, the card image, the bell impression, the eleven witness statements, and the Bell file. Five copies in five buildings, one of which is a lock-box in a union hall that you do not have a warrant for. You get copies. You get a supervised reading, room, table, two witnesses, and the survivors told first. If one copy walks out of my hands, four of them do not, and one of them is a name on a wall in a neighborhood you have a truck parked in.”
 
 Inez went fourth, and she read from her clipboard. “The feeder is ours. The residents' power log is ours. You get a one-page summary that says the refuge drew two point one kilowatts between nine and three and that the clinic had priority at all times. You do not get the log, you do not get the lamp cards, and you do not get the thirty-one consent cards, and the reason is that twenty-three of the people in this building are not Quarter residents and they are not my responsibility to your investigation, and the eight that are, I am not handing to a building that files them under a column.”
 
@@ -128,7 +128,7 @@ Then she said one more thing, to Elias, quietly, while the crew were loading the
 
 “That is fair.”
 
-“It is not fair at all,” Sable said. “It is my job.” She looked back at the hall, at the paper on the tables, at the twenty-three people and the seam glass and the lamps on their last hours of battery. “They are not a rescue, Mr. Rook. They are a neighbourhood that is holding a person up, and in nine days I am going to have to explain to somebody why I let them.”
+“It is not fair at all,” Sable said. “It is my job.” She looked back at the hall, at the paper on the tables, at the twenty-three people and the seam glass and the lamps on their last hours of battery. “They are not a rescue, Mr. Rook. They are a neighborhood that is holding a person up, and in nine days I am going to have to explain to somebody why I let them.”
 
 Then she was in the van, and the van went up Ash Street, and the generator truck left with it, and the gate was open again.
 

@@ -8,7 +8,7 @@ The boiler door at the back of the union hall opened onto a concrete step and a 
 
 Elias sat.
 
-“The east leg signal cabinet,” Tomas said. “At 05:40 yesterday morning, before anything else, you said it was drawing power it should not have. You said it to your sister in the relay room. Do you remember what you told Control about it?”
+“The east leg signal cabinet,” Tomas said. “At 05:40 on Saturday morning, before anything else, you said it was drawing power it should not have. You said it to your sister in the relay room. Do you remember what you told Control about it?”
 
 “I said the cabinet was drawing power it should not have.”
 
@@ -16,7 +16,7 @@ Elias sat.
 
 “No.”
 
-“I did,” Tomas said. “I heard it in your voice at about nine o'clock the following evening, over the repeater, when you were telling Joon to log the relay room as a location of interest. And I sat here and did not say anything, and then I went to bed, and I have been carrying it for about a day and a half.”
+“I did,” Tomas said. “I heard it in your voice at about nine o'clock on Saturday night, over the repeater, when you were telling Joon to log the relay room as a location of interest. And I sat here and did not say anything, and then I went to bed, and I have been carrying it for just over three days.”
 
 He unfolded the paper. It was a photocopy of a page from an incident report, and it was very old, and the header read **KESTREL TUNNEL / STRUCTURAL AND ROUTING REVIEW / 2034**, and half the body of it had been blacked out with a marker in a hand that was not Tomas's.
 

@@ -1,5 +1,7 @@
 # Volume 01 — Batch 0002 Writing Prompt
 
+> **COMPLETED.** Chapters 11–20 are written, audited at `reviews/volume-01/batch-0002.md`, and canon. If this prompt is dispatched again, do not write or rewrite chapter prose. Confirm the completed status in `state/current.md` and make one small accurate state edit, then stop.
+
 ## Assignment
 
 Write **Chapters 11–20** of *The War of Borrowed Gods* as complete finished scenes in chapter order. This is the second prose batch of Volume 01, not an outline exercise. Read `AGENTS.md`, `NOVEL_SPEC.md`, `outline/series.md`, `outline/ending.md`, `outline/volume-01.md`, `outline/batches/volume-01-batch-0001.md`, `outline/batches/volume-01-batch-0002.md`, this prompt, Chapters 1–10, `workspace/volume-01/batch-0001/SUMMARY.md`, the rolling state files, the character bible, the power-system bible, and the relevant terminology/world files before drafting.

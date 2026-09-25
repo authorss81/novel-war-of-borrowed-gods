@@ -32,7 +32,7 @@ Then a man she called **Teodor** said that the Office was parked on his street, 
 
 Then Perry Dunne.
 
-“I want to say the other thing,” he said, and the room went quieter than it had been all evening. “I am not angry at the rescue team. I am angry that the second day of my life back I am sitting here having this conversation, because a road came apart under a railway nobody uses. My shop has no power. My freezer is on my neighbour's and my neighbour is in a bad way. And every day this building has a reason, the reason is the tunnel, and when the tunnel is finished the building will have had its whole life reorganised around a hole in the ground.”
+“I want to say the other thing,” he said, and the room went quieter than it had been all evening. “I am not angry at the rescue team. I am angry that the second day of my life back I am sitting here having this conversation, because a road came apart under a railway nobody uses. My shop has no power. My freezer is on my neighbor's and my neighbor is in a bad way. And every day this building has a reason, the reason is the tunnel, and when the tunnel is finished the building will have had its whole life reorganized around a hole in the ground.”
 
 “No,” Inez said.
 
@@ -90,7 +90,7 @@ Three refused the survey load on the feeder. Six refused the rescue team inside 
 
 Perry Dunne stepped forward. “I want the crew gone by Friday,” he said. “Not out of spite. Because every morning after you go there is another morning somebody from outside tells me what my quarter needs, and I would like a week where nobody tells me anything. You are not bad at it. You are just here.”
 
-“All right,” Elias said. “Friday. I will tell the Office that the neighbourhood has declined and the neighbourhood decides its own calendar.”
+“All right,” Elias said. “Friday. I will tell the Office that the neighborhood has declined and the neighborhood decides its own calendar.”
 
 “You do not have to take that on.”
 

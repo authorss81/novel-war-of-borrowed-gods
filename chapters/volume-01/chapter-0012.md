@@ -32,7 +32,7 @@ The not-quite-oral admission sat badly in him. He let it sit.
 
 The first contradiction had arrived with the survivors, and it had arrived before anyone opened a terminal.
 
-The young woman from Car 3 — Petar's neighbour, who had refused to move at first and then crossed — stood up when Joon asked for the corridor.
+The young woman from Car 3 — Petar's neighbor, who had refused to move at first and then crossed — stood up when Joon asked for the corridor.
 
 “There was a stair,” she said. “Concrete, with a green sign. It said NINE. And there was a fire cabinet on the left, and it was red, and I remember the handle because the paint had gone at the bottom of it.”
 
@@ -157,7 +157,7 @@ Elias read it twice.
 
 “Which means at four o’clock it goes into a box we cannot open without a warrant and a supervisor and eleven days.”
 
-The clock on the wall said 03:12. There were twelve hand-written names in a notebook in Elias's right hand, four of them just recovered from an old man who could not hold them in his head, and twenty-three people in the hall behind him who had spent the afternoon being told that the record belonged to them, and a maintenance cabinet out past the west apron that was about to be closed by people who were not lying to him and would still take the only copy of the question.
+The clock on the wall said a quarter to three. There were twelve hand-written names in a notebook in Elias's right hand, four of them just recovered from an old man who could not hold them in his head, and twenty-three people in the hall behind him who had spent the afternoon being told that the record belonged to them, and a maintenance cabinet out past the west apron that was about to be closed by people who were not lying to him and would still take the only copy of the question.
 
 He looked at the page with the three columns, at the photograph of the terminal's suggested deletion, at the twenty-three names on the manifest, and at the sealed envelope in his coat pocket with a note to his sister in it that nobody had read.
 

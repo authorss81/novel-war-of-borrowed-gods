@@ -116,7 +116,7 @@ The last twenty minutes were about what to write, and Joon fought for it in the 
 
 “I am protecting twenty-three people from a headline that is wrong, and I am protecting the version of this we can defend in a room. And I am protecting the depot clerk who signs sector transfers from having her name printed in a district bulletin because a code came out of a box.”
 
-Elias wanted to argue. What he actually wanted was to be the one who put the sharpest thing on the table first, and he had wanted that since the tunnel, and he recognised the wanting as a kind of vanity dressed in a work jacket.
+Elias wanted to argue. What he actually wanted was to be the one who put the sharpest thing on the table first, and he had wanted that since the tunnel, and he recognized the wanting as a kind of vanity dressed in a work jacket.
 
 “Then put it in a form that is true and does not accuse,” he said. “Write the code. Write the sector. Write the sequence and the time and the bell. Write *holder unknown — roster held at the Spine depot, not in this cabinet.* Write *no individual identified.* Put all of that on the public sheet, and keep the raw card image in the working file with my notebook.”
 

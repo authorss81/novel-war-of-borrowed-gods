@@ -39,7 +39,7 @@
 
 ## Inez Sato
 
-- **Professional position:** Cinder Quarter Electrical Cooperative organiser and local power steward. Sole holder of the residents’ lock-box, the power budget, the consent cards, and the right to cut the feeder. Holds local power and the right to cut it.
+- **Professional position:** Cinder Quarter Electrical Cooperative organizer and local power steward. Sole holder of the residents’ lock-box, the power budget, the consent cards, and the right to cut the feeder. Holds local power and the right to cut it.
 - **Emotional position:** Firmly allied, on conditions, and unimpressed. She refused to let Elias brief the meeting, made the crew sign cards individually, read every refusal aloud, and wrote the cost of the ninety-six-hour hold on the board in the same hand as the gain. She told him he had not given an order to a person with a clipboard all evening and that he still has work to do.
 - **Active want:** Keep the refuge locally controlled, keep the Quarter’s residents from being turned into infrastructure, and make sure the team knows that a blackout means the team goes dark.
 - **Live problem:** Perry Dunne wants the crew gone by Friday, the Friday has not moved, and it is written on the board.

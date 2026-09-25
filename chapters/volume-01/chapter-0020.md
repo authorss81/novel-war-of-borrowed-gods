@@ -148,7 +148,7 @@ At seven in the evening Inez read the day's board out to the hall, all of it, in
 
 Thirty-four cards came back. Twenty-six consent, seven refusal, one abstention, and one card that had been filled in and handed in and then handed back and refilled, which Inez counted once and told everybody about.
 
-Two of the seven refusals were from people who had consented yesterday, and one of them was Lena Mir, and Inez read her line out as well because the room had earned it.
+Two of the seven refusals were from people who had consented at the last count, and one of them was Lena Mir, and Inez read her line out as well because the room had earned it.
 
 Then they hung the listening plan's stop page on the wall beside the split authority, with the expiry date already filled in, and the hall was quiet for a moment in the way a hall is quiet when something has been decided properly and nobody can think of anything to add.
 

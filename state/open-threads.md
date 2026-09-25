@@ -21,4 +21,4 @@ These are active handoff questions after the completed second batch. The first S
 
 ## Next-batch handoff
 
-Chapters 21–30 build the ward with the neighbourhood, alternate care, investigation, politics, and consequence, and must deliver the Chapter 25 reversal. Do not reopen or reuse the first Still Hand loan. Do not resolve the Bell row, the credential, the second dispatch signature, Nell, or the possible-Elias voice. Preserve the refusal of Halla Dren as a refusal that was honoured.
+Chapters 21–30 build the ward with the neighborhood, alternate care, investigation, politics, and consequence, and must deliver the Chapter 25 reversal. Do not reopen or reuse the first Still Hand loan. Do not resolve the Bell row, the credential, the second dispatch signature, Nell, or the possible-Elias voice. Preserve the refusal of Halla Dren as a refusal that was honoured.

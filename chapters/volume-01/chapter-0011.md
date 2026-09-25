@@ -184,7 +184,7 @@ Nobody argued with Mara. Elias, who had spent a night wishing he had a person to
 
 At half past eleven Inez read the power budget out loud, three banks on the medical circuit, one on the lamps, one held in reserve for the radio, and a fourth bank that was going warm and would need replacing before the evening.
 
-Joon was already clearing the middle of the long table. He put the paper manifest in the centre, the route measurements beside it, the raw recorder on a chair at the end, and the Civic Spine terminal at the other end where the screen showed a blank count field and the words **AWAIT CONSOLIDATED RESPONSE LIST**.
+Joon was already clearing the middle of the long table. He put the paper manifest in the center, the route measurements beside it, the raw recorder on a chair at the end, and the Civic Spine terminal at the other end where the screen showed a blank count field and the words **AWAIT CONSOLIDATED RESPONSE LIST**.
 
 “The names are in here,” he said. “The numbers are in here. The index is in here, and the index is the thing that says nobody came out of that carriage.” He put his hand flat on the table. “I am not comparing any of it in a back office. If we are going to argue about which record is right, we argue about it where the twenty-three can watch us do it.”
 
