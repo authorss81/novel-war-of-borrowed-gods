@@ -1,13 +1,29 @@
 {
-  "currentPhase": "phase-000-bootstrap",
+  "currentPhase": "phase-002-batch-plan",
   "novel": "novel-war-of-borrowed-gods",
   "version": 1,
   "phases": [
     {
       "id": "phase-000-bootstrap",
-      "status": "planned",
+      "status": "done",
       "fallbackUsed": false,
       "range": null,
+      "attempts": 1,
+      "actualModel": "opencode/space-bunny-free"
+    },
+    {
+      "id": "phase-001-outline",
+      "status": "done",
+      "fallbackUsed": false,
+      "range": "Volume 01 outline and Batch 0001 cards",
+      "attempts": 1,
+      "actualModel": "opencode/space-bunny-free"
+    },
+    {
+      "id": "phase-002-batch-plan",
+      "status": "planned",
+      "fallbackUsed": false,
+      "range": "Chapters 1-10",
       "attempts": 0,
       "actualModel": null
     }
