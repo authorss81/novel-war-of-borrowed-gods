@@ -144,7 +144,7 @@ He said it in a room with twenty-eight people in it, and then said the other thi
 
 “I do not know what I will do. I know what I have done thirty-three times. Thirty-four is not mine to give away, and I am not going to hand a man I have never met a promise about a man I am going to be.” He put his right hand flat on the table, because the left one was gone. “And if that is the same as no, then somebody who is not me can write that down.”
 
-Petar Lisk picked up the pencil. His hand was not steady either. He wrote it at the bottom of the wall in the ninth-year-old capitals and read it out.
+Petar Lisk picked up the pencil. His hand was not steady either. He wrote it at the bottom of the wall in the nine-year-old capitals and read it out.
 
 **HE DID NOT MAKE THE PROMISE. HE ALSO DID NOT SAY NO. HE SAID HE DID NOT KNOW, AND HE SAID THIRTY-FOUR IS NOT HIS TO GIVE AWAY, AND HE ASKED SOMEBODY ELSE TO WRITE IT DOWN.**
 
