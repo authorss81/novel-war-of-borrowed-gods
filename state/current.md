@@ -1,8 +1,8 @@
 # Current State
 
-Current phase: **Volume 01 complete.** The Batch 0005 prose phase is finished, the volume-close handoff exists, and the next phase is the Volume 02 outline and batch planning.
+Current phase: **Volume 01 complete, and the Volume 02 plan is written.** The volume-close handoff has been executed: `outline/volume-02.md` (the Volume 02 outline) and `outline/batches/volume-02-batch-0001.md` (the Chapters 51–60 cards) both exist.
 
-Next active phase: **Volume 02 — Chapters 51–100, *The Quiet Registry*.** Its assignment lives in one file only: `workspace/volume-01/volume-close/PROMPT.md`. There is no `batch-0006` and none should be created.
+Next active phase: **Volume 02, Batch 0001, Chapters 51–60, *The Notice*.** Read `outline/volume-02.md` and `outline/batches/volume-02-batch-0001.md` before any prose. **Friday, day thirty-four to Sunday, day forty-three**; the collapse and Chapters 1–10 are Saturday, day zero and Chapter 50 is Thursday, day thirty-three. There is no `batch-0006` in Volume 01 and none should ever be created. The Volume 02 batch prompt is dispatched by the controller, not created here.
 
 Current volume: 1 (complete)
 
