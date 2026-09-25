@@ -40,6 +40,20 @@ A limit set by the future lender. A boundary can be about use, target, timing, r
 
 The future lender’s requested present act or state that keeps the exchange honest. “Return” does not mean that the power is repaid with time, lifespan, or points. It can be a route completed, a person treated, a promise kept, or a choice not made on another person’s behalf.
 
+### Withdrawal of a named field
+
+A named subject in an existing record keeps the right to read, limit, or withdraw the **named field** of that record without withdrawing the underlying event. The record survives; the name comes out of it. The withdrawal must itself be entered as a record, in the same file, in the same hand, and **as a finding rather than as an absence** — because an absence asserts that the material does not exist, and the material does exist and is held by somebody.
+
+This is an institutional record practice, not a power. It was established in Volume 01 as Finding 3 of the Havenport Continuity Office archivist’s four findings, and it was used twice in the same room: a survivor withdrew the field naming him as the body a lent capacity was applied to, and a second survivor withdrew a page whose note had been softened without his agreement. A return condition, an offer, a boundary, and a countersignature survive the withdrawal, because a fact does not need a name on it in order to be a fact.
+
+The distinction this rule depends on, and which a later batch must not blur:
+
+- **A field that does not exist** cannot be blank. It is clean, unfixable, and every report for years has said the same honest nothing.
+- **A field that can be blank** can be filled later by somebody who was not there, who will be entirely accurate about their own act and entirely silent about somebody else’s.
+- **A field that was never designed for the thing in question** never receives a name at all, and nobody has to decide anything for the name to be missing.
+
+All three are ways an institution loses a name without deciding to.
+
 ### Anchor
 
 A present-day person or place that stabilizes a seam and helps carry the physical and civic cost of a loan. A fully stable anchor consents, understands the likely cost, and can withdraw. Violence can create an unstable anchor, never genuine consent.
@@ -157,8 +171,13 @@ The interface may use short headings such as:
 - **Warning: the branch is changing**
 - **No answer**
 - **Aftermath ahead**
+- **Recommended re-entry**
+- **Suggested correction**
 
 Messages should be sparse, concrete, and tied to the scene. Do not use “experience,” “level,” “stats,” “skill tree,” “cooldown,” “quest,” “shop,” “drop,” “buff,” “debuff,” “API,” “protocol,” “backend,” “runtime,” “token,” or “deployment.” “Protocol” is permitted only when a human institution names its own administrative or safety procedure, never as a substitute for a fictional world rule.
+
+**`Recommended re-entry` and `Suggested correction` are the coercion talking, not the seam.** Both are legitimate terminal output and both may be refused. A terminal may recommend a route or offer to delete the entries that make a route disagree with the index, because the network was built to suppress contradictory reports. Neither output knows a future, selects a loan, or carries a lender's wish. Treat them the way the team treats them: as evidence of what an institution would prefer, which is real evidence, and never as instruction.
+
 
 ## Terms to avoid in narration
 
