@@ -1,12 +1,12 @@
 # Chapter 13 — MNT-4C-17
 
-The west apron relay sat on a steel frame behind the old fuel line, thirty metres outside the yellow line, where it had been taking the damp for eleven years. Joon had been feeding it battery for two days. It did not need power to be interesting.
+The west apron relay sat on a steel frame behind the old fuel line, thirty meters outside the yellow line, where it had been taking the damp for eleven years. Joon had been feeding it battery for two days. It did not need power to be interesting.
 
 Nobody opened it quickly. Elias wanted to. Tomas made him stand on the far side of the frame with his hands visible while Joon worked, and when Elias asked why, Tomas said, “Because you are going to want to fix something in there, and there is nothing in there to fix. There is only paper, a card, and one bell that has been ringing for forty-four years without anybody listening to it.”
 
 They had a little under three hours.
 
-The cabinet was a steel box the size of a bread locker, painted the same dull green as the tunnel, with a mechanical fault bell on top, a wax-tape recorder inside the door, and a card reader at chest height with a green light that had gone amber. Water had run down the back of it for a decade and had come to rest as a grey crust along the bottom lip.
+The cabinet was a steel box the size of a bread locker, painted the same dull green as the tunnel, with a mechanical fault bell on top, a wax-tape recorder inside the door, and a card reader at chest height with a green light that had gone amber. Water had run down the back of it for a decade and had come to rest as a gray crust along the bottom lip.
 
 Joon had the door open in four minutes. Inside: a printed circuit card on a sliding rail, a strip of terminals, the wax tape under a hinged glass, and a folded card holder clipped to the inside of the door.
 
@@ -72,7 +72,7 @@ Elias looked at the printed field again and felt the ground shift very slightly 
 
 The wax tape was the thing that made the afternoon worth the walk out.
 
-Under its hinged glass, the fault recorder's arm had been drawing a line on a paper strip for forty-four years, dropping a blunt tick whenever the relay annunciated anything at all. Most of the tape was the flat grey of a machine with nothing to say. The last forty centimetres was not flat.
+Under its hinged glass, the fault recorder's arm had been drawing a line on a paper strip for forty-four years, dropping a blunt tick whenever the relay annunciated anything at all. Most of the tape was the flat gray of a machine with nothing to say. The last forty centimeters was not flat.
 
 Three ticks clustered near the start of the marked section, then a gap, then two more, close together, and then a long unmarked run.
 

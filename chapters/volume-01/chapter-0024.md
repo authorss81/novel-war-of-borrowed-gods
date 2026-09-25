@@ -110,6 +110,10 @@ Joon read it three times and then said, quietly, to nobody, “It has a field.�
 
 Nobody in the room liked that sentence and everybody wrote it down.
 
+Brauer did the Office's own copy while they were still arguing about it. She did not ask and she did not explain, and when Elias looked up she said, “I am the supervisor of this floor. That book goes back on a cart at twelve thirty and after twelve thirty anybody can say they did not see you. My copy either exists before the book moves or it does not exist at all.”
+
+It took about ninety seconds. The ledger is bound and single-sided, so the bed takes one page at a time and the operator does not turn the book over, and the fourth column sits on the right-hand side of a spread that runs past the edge of the glass. Brauer initialed the scan time and did not look at the frame, because she was filing it and not reading it, and nobody else in the room was either.
+
 “When,” Elias said. “When was the box put back and when was the 14:12 entry compared to the transfer?”
 
 “Box out at eleven oh four, back at eleven forty-one today, both on this camera and both on Mr. Park's. It was in the depot already on Saturday afternoon — Saturday's dispatch sheets go to the day file, and the day file is this box, and the crates from the west apron went to a different aisle entirely. Whoever came at fourteen twelve on Saturday came for this box and not for the site records, and the site records are on the same aisle four boxes down, and they are still sealed.”
@@ -124,7 +128,7 @@ Hollis Vane walked with them to the top of the ramp, which was more than the rul
 
 “Which thing.”
 
-“I am going to give you a copy.” He said it like a man picking up something hot. “The board ordered production. Production means production, and I have made my copy and the copy is in your dispatcher's hand and it is going into five buildings, and the Office has one too, and the room said four out loud before anybody had to count, because the Office had a legal right to one the moment the board ordered the document out of a depot. I am not doing it because I think you are right. I am doing it because a finding that exists in my building only is a finding that my building can revise without anybody noticing.”
+“I am going to give you a copy.” He said it like a man picking up something hot. “The board ordered production. Production means production, and I have made my copy and the copy is in your dispatcher's hand and it is going into four places, and I counted them out loud before anybody had to ask, because the Office had a legal right to one the moment the board ordered the document out of a depot. I am not doing it because I think you are right. I am doing it because a finding that exists in my building only is a finding that my building can revise without anybody noticing.”
 
 “Fine,” Elias said, and then, because he could not help it, “Thank you.”
 
@@ -134,7 +138,7 @@ He got back down the ramp. Joon watched him go and then said, quietly, “He is 
 
 ---
 
-The block wall came down off a pallet truck at two o'clock because the hall's end door is thirty-one inches wide and a pallet of concrete block is not, and because the loading lip at the near end is the only way a hand truck gets in there, and that is the only reason the corridor is on any map at all.
+The block wall came down off a pallet truck at three o'clock because the hall's end door is thirty-one inches wide and a pallet of concrete block is not, and because the loading lip at the near end is the only way a hand truck gets in there, and that is the only reason the corridor is on any map at all.
 
 Emil Baros walked in front of it. **Anja Ro** walked behind it with a clipboard she had not been issued and had taken from a table, and she counted as she went and said the number out loud at every stop, and at the last stop she said, “Thirty-one,” and then went to the inspection niche at twelve meters, where they had clipped the Saturday survey sheet inside a plastic sleeve on Saturday afternoon, and read the number off it twice.
 

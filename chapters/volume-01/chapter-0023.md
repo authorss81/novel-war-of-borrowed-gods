@@ -113,7 +113,7 @@ The words came out plainly, with no drama in them at all, and Elias found that h
 
 “How many people.”
 
-“I told you. The number is not a number you can use. What I am telling you is that it is not empty, and that it was not empty on Saturday when I came this way, and that this afternoon I watched a man of sixty-eight go down it with a clipboard and sign his own name at the bottom, and that there was a woman from the Office at the top of the ramp with a camera. That is all I can see from here. I cannot see your hall. I can tell you that a man who walks a road and signs it is a man who has decided the road is a fact, and that is worth more to me than your instruments, and I suspect it is worth more to you than your instruments, and I would not say so out loud if I were you.”
+“I told you. The number is not a number you can use. What I am telling you is that it is not empty, and that it was not empty on Saturday when I came this way, and that yesterday afternoon I watched a man of sixty-eight go down it with a clipboard and sign his own name at the bottom, and that there was a woman from the Office at the top of the ramp with a camera. That is all I can see from here. I cannot see your hall. I can tell you that a man who walks a road and signs it is a man who has decided the road is a fact, and that is worth more to me than your instruments, and I suspect it is worth more to you than your instruments, and I would not say so out loud if I were you.”
 
 Elias looked up the ramp toward the daylight, and could not see anything.
 
@@ -123,9 +123,9 @@ Elias looked up the ramp toward the daylight, and could not see anything.
 
 “And the day after tomorrow somebody could close it anyway.”
 
-“Somebody could,” the man said. “The Office could. The board could. Something in the ground two hundred meters from your clinic could turn into an emergency in a month, and the emergency would not care whose name is on the keeper line. So do not expect me to say the system is on your side. The system is a list. You have spent a week being honest with lists. I have spent eleven days on the other side of one, and the difference between the two of us is not courage, it is which side of the concrete we happen to be on.”
+“Somebody could,” the man said. “The Office could. The board could. Something in the ground two hundred meters from your clinic could turn into an emergency in a month, and the emergency would not care whose name is on the keeper line. So do not expect me to say the system is on your side. The system is a list. You have spent a week being honest with lists. I have spent eight days on the other side of one, and the difference between the two of us is not courage, it is which side of the concrete we happen to be on.”
 
-Then he said: “You should say something now so that I know it was a person and not a machine reading my words back,” and Elias said, “This is Elias Rook, and it is forty minutes to my hard cut, and I am not coming in, and the corridor is on the paper in three places and it will be in five by Tuesday, and I have a notebook and my name is on all of it,” and the man said, “Good,” and the talking stopped, and the concrete went back to being concrete.
+Then he said: “You should say something now so that I know it was a person and not a machine reading my words back,” and Elias said, “This is Elias Rook, and it is forty minutes to my hard cut, and I am not coming in, and the corridor is on the paper in three places and it will be in four by Tuesday, and I have a notebook and my name is on all of it,” and the man said, “Good,” and the talking stopped, and the concrete went back to being concrete.
 
 ---
 
@@ -139,7 +139,7 @@ He put the pen down.
 
 “Nothing in that says *almost*,” he said.
 
-“Nothing in it says *almost*,” Elias said. “It says a man is alive and he is on his feet and he has been for eleven days, and he has asked us for one thing, and the one thing is that we do not make him into a rescue.”
+“Nothing in it says *almost*,” Elias said. “It says a man is alive and he is on his feet and he has been for eight days, and he has asked us for one thing, and the one thing is that we do not make him into a rescue.”
 
 Inez wrote the finding on the board in chalk, and underneath it she wrote the want, in the man's words, and did not tidy them.
 

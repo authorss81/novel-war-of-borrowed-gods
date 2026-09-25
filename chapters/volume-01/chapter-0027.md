@@ -48,7 +48,7 @@ Joon put two dates on the board under Perry's, in his own hand, because nobody h
 
 By the end of the day the hall was running itself and running it badly, and everybody agreed that both of those things had been true since Wednesday.
 
-Anja Ro found the error. She was reconciling the witness statements against the custody log because somebody had to and because she had been doing it unpaid since the second day, and on Friday afternoon she came to the long table with a page and said, “Your Monday entry for the depot says the box came out at eleven oh four and back at eleven forty-one, and the time on the aisle ledger in the photograph is eleven oh two, and the two are two minutes apart, and one of them is wrong and it is not the photograph.”
+Anja Ro found the error. She was reconciling the witness statements against the custody log because somebody had to and because she had been doing it unpaid since the second day, and on Friday afternoon she came to the long table with a page and said, “Your Monday entry for the depot says the box came out at eleven oh four and back at eleven forty-one, and it says you photographed the aisle log at eleven oh four as well, and the camera stamp in the corner of that frame is eleven oh two, and the two are two minutes apart, and one of them is wrong and it is not the photograph.”
 
 “I read it off the camera,” Joon said.
 

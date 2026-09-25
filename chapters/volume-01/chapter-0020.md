@@ -82,7 +82,7 @@ Nobody contradicted him.
 
 He looked up.
 
-“If you find somebody behind that wall, and you put a rope in, then you have made a thing where leaving is a decision they have to make about you. And you will have made it for them at six in the morning from two hundred metres away. I am not saying do not. I am saying that if you go back down there, the thing you go down there for is not *a person*.”
+“If you find somebody behind that wall, and you put a rope in, then you have made a thing where leaving is a decision they have to make about you. And you will have made it for them at six in the morning from two hundred meters away. I am not saying do not. I am saying that if you go back down there, the thing you go down there for is not *a person*.”
 
 He was quiet for a second.
 

@@ -60,7 +60,7 @@ She came to Elias with a stack.
 
 “Rafi, Kellan, Tomas, Mara, Joon, and you. Inez does not count herself; I hold the power and I do not get a vote on my own power.”
 
-Elias took a card. He looked at it for longer than a card deserved, because he had realised that he did not know what he personally wanted done with the Quarter's electricity, as opposed to what he wanted the survey to be able to do, and those were different things and the room could tell them apart.
+Elias took a card. He looked at it for longer than a card deserved, because he had realized that he did not know what he personally wanted done with the Quarter's electricity, as opposed to what he wanted the survey to be able to do, and those were different things and the room could tell them apart.
 
 He ticked **CONSENT**, signed, and handed it in.
 

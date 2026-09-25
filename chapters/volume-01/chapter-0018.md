@@ -30,13 +30,13 @@ Below the junction, the platform slab was where Tomas had spent the first forty 
 
 Kellan gave him the other end. Nobody made an event of it, which was its own kind of event, and Elias noticed that he had started to be able to bear it for about nine seconds at a time.
 
-Mara set up at the top of the ramp with the oxygen cylinder and a monitor and a hard rule: nobody goes further than the line, and nobody who is not on the line goes at all. Joon sat on an upturned crate with the recorder, the gas meter, and a paper sheet, and he wrote the time at every reading because he had learned that a number without a time is a rumour.
+Mara set up at the top of the ramp with the oxygen cylinder and a monitor and a hard rule: nobody goes further than the line, and nobody who is not on the line goes at all. Joon sat on an upturned crate with the recorder, the gas meter, and a paper sheet, and he wrote the time at every reading because he had learned that a number without a time is a rumor.
 
 The readings did not agree, and they had never agreed, and by ten o'clock they had agreed to disagree in a documented way.
 
-The first thermal camera, the one from the platform, put two human-sized signatures behind the wall at the lower junction, four and a half metres in, weak, separated by about three metres.
+The first thermal camera, the one from the platform, put two human-sized signatures behind the wall at the lower junction, four and a half meters in, weak, separated by about three meters.
 
-The second camera, borrowed from a depot in the Meridian and older than the first, put one signature at the same depth and a second bloom at nine metres that might have been a person and might have been a hot pipe.
+The second camera, borrowed from a depot in the Meridian and older than the first, put one signature at the same depth and a second bloom at nine meters that might have been a person and might have been a hot pipe.
 
 “Two or one and a bloom,” Joon said, writing both.
 
@@ -71,7 +71,7 @@ Elias read it aloud for the record, because that was the practice now, and then 
 
 “Where is the concrete?”
 
-“There is a second pour in the apron slab. Nineteen thirty-one repair work, different aggregate, laid against the original because the original was lifted. It runs eleven metres, north-north-east, and it stops six metres short of where you are pointing your cameras. Your heat is not behind the original slab. It is behind the repair.”
+“There is a second pour in the apron slab. Nineteen thirty-one repair work, different aggregate, laid against the original because the original was lifted. It runs eleven meters, north-north-east, and it stops six meters short of where you are pointing your cameras. Your heat is not behind the original slab. It is behind the repair.”
 
 Elias looked down. The slab under his boots had a seam in it that he had walked over twice that morning and had not looked at, because it was a repair, and repairs are the least interesting things in a tunnel.
 
@@ -115,7 +115,7 @@ Nobody asked her a second question. Elias found, when he went back over the next
 
 They put her wants on the page, exactly as stated, with her name and the time and the words *No loan offered* and nothing paraphrased, and then Tomas did something Elias had not expected: he read the page back to himself out loud before they moved, so that whatever happened next could not later be described as a team that had not been told.
 
-“Eleven o'clock,” Joon said. “Camera one: two. Camera two: one and a possible bloom. Second pour found at eleven-forty, thirty-one repair, aggregate differs. Second pour terminates six metres short of the camera target. Warning from a possible person, nineteen years ahead, name given as Halla Dren, who declines to lend and states a boundary: the shaft is not to be named in any consolidated list. We have recorded the request. We have not accepted it. The entry stands as a request and not as an instruction.”
+“Eleven o'clock,” Joon said. “Camera one: two. Camera two: one and a possible bloom. Second pour found at eleven-forty, thirty-one repair, aggregate differs. Second pour terminates six meters short of the camera target. Warning from a possible person, nineteen years ahead, name given as Halla Dren, who declines to lend and states a boundary: the shaft is not to be named in any consolidated list. We have recorded the request. We have not accepted it. The entry stands as a request and not as an instruction.”
 
 “And?” Elias said.
 
@@ -139,17 +139,17 @@ They ran the scope.
 
 ---
 
-The bore scope went down the existing inspection bore on a line with a wax flag every two metres, because there was no other way to look without opening anything, and finding the second pour had changed the target by six metres in a direction nobody had argued for.
+The bore scope went down the existing inspection bore on a line with a wax flag every two meters, because there was no other way to look without opening anything, and finding the second pour had changed the target by six meters in a direction nobody had argued for.
 
-The concrete came up pale grey and then, at four metres, pale and coarse, and there was a lip at the interface, and Elias saw it on the monitor and put his hand on Rafi's arm before he said anything, because Rafi was feeding line.
+The concrete came up pale gray and then, at four meters, pale and coarse, and there was a lip at the interface, and Elias saw it on the monitor and put his hand on Rafi's arm before he said anything, because Rafi was feeding line.
 
 “That is the repair. Hold.”
 
-The line went on. At six and a half metres the scope passed a gap that was not a gap, an absence with a shape, and the picture went grainy and warm, and at seven metres the scope found a wall about a metre and a half on, made of brick.
+The line went on. At six and a half meters the scope passed a gap that was not a gap, an absence with a shape, and the picture went grainy and warm, and at seven meters the scope found a wall about a meter and a half on, made of brick.
 
 “Brick,” Joon said. “Not concrete. That is a shaft lining, or a pump house, or a chamber somebody built inside a repair.”
 
-“Do not guess yet.” Tomas ran the line back to the lip at four metres, took a forty-millimetre coupon off the bar exposed there, wrapped it in a paper twist, and put it in his breast pocket like a man pocketing a receipt.
+“Do not guess yet.” Tomas ran the line back to the lip at four meters, took a forty-millimeter coupon off the bar exposed there, wrapped it in a paper twist, and put it in his breast pocket like a man pocketing a receipt.
 
 They went back. The second camera was put on the bore line and aimed down the same hole, and for eleven minutes it read one human-sized signature, steady, at the wall.
 
@@ -165,13 +165,13 @@ They waited.
 
 Three came back. Then two. Then one.
 
-The recorder was running and the microphone was against the concrete and the whole relief crew heard it, and the relay that Joon had left open carried it four hundred metres to the union hall, where Nadi Bell heard it and stood up off a cot. Joon's pencil stopped and stayed stopped.
+The recorder was running and the microphone was against the concrete and the whole relief crew heard it, and the relay that Joon had left open carried it four hundred meters to the union hall, where Nadi Bell heard it and stood up off a cot. Joon's pencil stopped and stayed stopped.
 
 “Route unsafe,” Elias said, into the recorder, so that it would be on the file. “Somebody is using the code. That is a person. That is one person and I am not going to say how many more, because one camera says one and one camera says two and I have been told all week not to make a number up.”
 
 “Do you want me to knock again?” Rafi asked.
 
-Elias looked at the wall, and at the gap, and at the dark, and he thought about his sister saying *do not let the green lamp choose*, and about a voice on a relay asking for a location to stay unnamed, and about a signature nine metres deep that might be a person and might be a pump.
+Elias looked at the wall, and at the gap, and at the dark, and he thought about his sister saying *do not let the green lamp choose*, and about a voice on a relay asking for a location to stay unnamed, and about a signature nine meters deep that might be a person and might be a pump.
 
 “Yes,” he said. “Knock again.”
 
@@ -181,11 +181,11 @@ They knocked again. Nothing came back for ninety seconds, and then three, very f
 
 The slab moved at twelve-forty.
 
-Tomas's gauge did not do anything dramatic. It moved from a mark to a mark, four millimetres, over about a minute and a half, and it was the number in his own handwriting on a piece of paper that the team had signed in a hall two days earlier.
+Tomas's gauge did not do anything dramatic. It moved from a mark to a mark, four millimeters, over about a minute and a half, and it was the number in his own handwriting on a piece of paper that the team had signed in a hall two days earlier.
 
 He did not say it. He turned the gauge so that Elias could see it, and then he turned it so Mara could see it, and then he looked at Elias, because the page said that anybody could call the stop and that the stop was not a discussion.
 
-Elias's left hand was on the scope line, because his left hand was on everything, because his left hand did not know enough to stay away from things. It went open. The line jumped two metres through the bore, snagged, and Rafi shouted and hauled it back and the flag came up covered in fresh grey dust.
+Elias's left hand was on the scope line, because his left hand was on everything, because his left hand did not know enough to stay away from things. It went open. The line jumped two meters through the bore, snagged, and Rafi shouted and hauled it back and the flag came up covered in fresh gray dust.
 
 The wall in the screen flexed, and the picture grain went, and the range read nothing.
 
@@ -209,11 +209,11 @@ They were all on the ramp and accounted for in eleven minutes.
 
 ---
 
-They brought back a sounding map, a gas curve, a camera disagreement, forty millimetres of a thirty-one rebar coupon, and a recording of somebody knocking in code.
+They brought back a sounding map, a gas curve, a camera disagreement, forty millimeters of a thirty-one rebar coupon, and a recording of somebody knocking in code.
 
 They did not bring back a person.
 
-“Write it exactly like that,” Elias said to Joon, at the top, with his hand shaking and his left hand still open. “We did not reach them. We did not open anything. We have one confirmed living person at a wall and an unconfirmed second reading nine metres in, and we stopped on a number that was written down before we went, by a man who wanted us to go, which is the only reason that number is worth anything.”
+“Write it exactly like that,” Elias said to Joon, at the top, with his hand shaking and his left hand still open. “We did not reach them. We did not open anything. We have one confirmed living person at a wall and an unconfirmed second reading nine meters in, and we stopped on a number that was written down before we went, by a man who wanted us to go, which is the only reason that number is worth anything.”
 
 “The boundary,” Joon said. “The unopened shaft. Halla Dren’s request, refused, recorded as refused.”
 

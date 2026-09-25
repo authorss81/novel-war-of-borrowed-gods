@@ -68,7 +68,7 @@ Elias stood there for a long time with his notebook closed on the table in front
 
 “Write it exactly like that,” Ansel said, “with the *and he does not have to be right* in it, because in five weeks there will be a version of this where that clause has been dropped for being inconvenient, and I want the inconvenient one on the paper.”
 
-Petar Lisk wrote it out in full, and read it back, and made Elias initial it, and then made Ansel initial it, and then made Inez initial it as the person who holds the copy, which is a thing that had never happened in nine days and cost nobody anything and took two minutes.
+Petar Lisk wrote it out in full, and read it back, and made Elias initial it, and then made Ansel initial it, and then made Inez initial it as the person who holds the copy, which is a thing that had never happened in fifteen days and cost nobody anything and took two minutes.
 
 ---
 
@@ -92,6 +92,6 @@ The room went quiet.
 
 At seven Inez read the board, all of it, in order, and the hall listened, and the last line was the one Petar had put there at his own initiative without being asked, which he had started doing on Thursday and which was now, in the estimation of a nine-year-old with a clipboard, the most important job in the building.
 
-**NEXT: TUESDAY. THE REFUSAL GOES IN WITH ITS REASONS. THE AISLE LOG GETS SCANNED AGAIN WITH ALL FOUR COLUMNS. AND WE GO BACK DOWN THE RAMP ON SUNDAY AND ASK A MAN BEHIND A WALL WHAT HE WANTS TO DO ABOUT A ROAD THAT IS NOW ELEVEN METERS LONG, AND THEN WE DO WHAT HE SAYS.**
+**NEXT: MONDAY. WE GO BACK DOWN THE RAMP AND ASK A MAN BEHIND A WALL WHAT HE WANTS TO DO ABOUT A ROAD THAT IS NOW ELEVEN METERS LONG, AND THEN WE DO WHAT HE SAYS. TUESDAY AFTER THAT: THE REFUSAL GOES IN WITH ITS REASONS, AND THE AISLE LOG GETS SCANNED AGAIN WITH ALL FOUR COLUMNS.**
 
 **AND WHATEVER HE SAYS, WE DO NOT GO AND GET HIM.**

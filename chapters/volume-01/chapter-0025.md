@@ -34,7 +34,7 @@ Elias put his palm against it. It was cold in the ordinary way and solid in the 
 
 The residue was on the floor, in the last two meters, and it was not residue of a disaster. It was residue of use.
 
-The concrete from nine meters to eleven was polished to a dull shine, the shine a wet week of boots makes in a corridor this narrow, and there was a scuff arc at the ten-meter mark where a loaded dolly had been turned every day for a week and a hand truck, nose down, for eleven years. There was a floor anchor hole at ankle height with dust in it, and a clean crescent in the dust where a boot had been braced. There was a handprint in the dust on the wall at about one meter forty, a right hand, greasy, and it was not small.
+The concrete from nine meters to eleven was polished to a dull shine, the shine a wet week of boots makes in a corridor this narrow, and there was a scuff arc at the ten-meter mark where a loaded dolly had been turned every day for a week and where a hand truck, nose down, had been turned for eleven years. There was a floor anchor hole at ankle height with dust in it, and a clean crescent in the dust where a boot had been braced. There was a handprint in the dust on the wall at about one meter forty, a right hand, greasy, and it was not small.
 
 Higher up, a length of emergency-strip conduit came out of the wall and stopped in midair, its end face bright and unweathered, with a loop of wire hanging out of it like a dropped stitch.
 
@@ -84,7 +84,7 @@ Emil Baros had stayed at the eleven-meter mark the entire time, and had not touc
 
 “No.”
 
-“Tell me what you remember and I will write it down tonight and it will be on paper in five places.”
+“Tell me what you remember and I will write it down tonight and it will be on paper in four places.”
 
 “You are not writing it down,” Emil Baros said, without any edge at all, which was worse. “You are going to write down what the instrument says and put my memory in a second column so that when the two disagree you can decide which one to believe. And the instrument is going to win, because the instrument is what you trust, and I am an old man who lost four names in the first week and has never got them back.”
 
@@ -167,7 +167,7 @@ The new page went up in the same place, and it had two columns, and neither of t
 | --- | --- |
 | Usable span 31.0 m, laser, two passes, second reader P. Lisk | Usable span 11.0 m, same datum, same laser |
 | Keeper's line signed, E. Baros, in his own hand, in the presence of P. Lisk | Keeper's line unsigned. He could not reach it |
-| Two frames with a scale in each, in four buildings, and a copy in the Office node | Conduit end face bright and unweathered. Paint band cut square. No break, no fall, no rubble |
+| Two frames with a scale in each, in three places, and a copy in the Office node | Conduit end face bright and unweathered. Paint band cut square. No break, no fall, no rubble |
 | Nine pallets of block, counted twice at 31.0 m, E. Baros and A. Ro, Monday | Handprint at 1.40 m, right hand, grease. Anchor hole with a boot brace in the dust |
 | Sixteen people came out of Car 3 and the pocket below it, by paper count | Sixteen people still remember walking it |
 

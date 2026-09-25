@@ -1,6 +1,6 @@
 # Chapter 29 — What the Records Can Bear
 
-The three copies of Saturday's corridor survey were on the hall table at ten on Saturday morning, and two of them agreed with each other and the third one did not, and the third one was the one in a building the team could not walk into.
+The three paper copies of Saturday's corridor survey were on the hall table at ten on Saturday morning, and two of them agreed with each other and the third one did not, and the third one was the one in a building the team could not walk into.
 
 Joon had the node's query printed, because he had learned on Friday to print everything.
 
@@ -62,7 +62,7 @@ Nobody spoke for a while.
 
 “What time,” Elias said.
 
-“Two oh four. My time and the relay's time, and the relay and I agree inside a second, which is the only agreement in this hall that has held for nine days.”
+“Two oh four. My time and the relay's time, and the relay and I agree inside a second, which is the only agreement in this hall that has held for fourteen days.”
 
 “Read it back.”
 
@@ -96,7 +96,7 @@ Elias put his right hand flat on the notebook.
 
 Nobody said anything.
 
-“Reason two,” he said. “If I file it, it becomes a record. And a record can be answered. And I have spent nine days watching what a record does to the people inside it, and the answer to this record will not come from my sister. It will come from a building, and a building can answer a record with a form, and the form will be *no response available*, and then I will have a document that says I asked, and I will have nothing.”
+“Reason two,” he said. “If I file it, it becomes a record. And a record can be answered. And I have spent fourteen days watching what a record does to the people inside it, and the answer to this record will not come from my sister. It will come from a building, and a building can answer a record with a form, and the form will be *no response available*, and then I will have a document that says I asked, and I will have nothing.”
 
 Joon said, “No.”
 
@@ -116,7 +116,7 @@ Mara was slower and colder and she took longer.
 
 “I have not asked anybody to look for her.”
 
-“You have been sitting in a hall for eleven days describing a carrier to people who are not you,” Mara said, “and last Sunday a man told you the far run is the only road he has, and on Friday at two in the morning the road he has was named in a voice from the other side of it. File it. Then read your own notebook back to yourself and tell me which of those three facts is about you.”
+“You have been sitting in a hall for fourteen days describing a carrier to people who are not you,” Mara said, “and last Sunday a man told you the far run is the only road he has, and on Saturday at two in the morning the road he has was named in a voice from the other side of it. File it. Then read your own notebook back to yourself and tell me which of those three facts is about you.”
 
 ---
 
@@ -124,7 +124,7 @@ Elias did not file it.
 
 He took the envelope out of the notebook in front of them, and he did not open it, and he said the reason out loud with his right hand flat on the table and his left one lying useless beside it, which was a habit now and not a choice.
 
-“I am not sending it and I am not filing it, and the honest reason is the worst one, which is this. The only line in the world that could carry a reply is the one she just told me in her own voice not to use. And this envelope is the only version of me that can still get to her without a crew, without a route, and without breaking a boundary that she stated. If I file it, then the way it reaches her becomes somebody else's decision, and somebody else's decision will involve a search, and I have spent nine days learning that a search is a thing that happens to people.”
+“I am not sending it and I am not filing it, and the honest reason is the worst one, which is this. The only line in the world that could carry a reply is the one she just told me in her own voice not to use. And this envelope is the only version of me that can still get to her without a crew, without a route, and without breaking a boundary that she stated. If I file it, then the way it reaches her becomes somebody else's decision, and somebody else's decision will involve a search, and I have spent fourteen days learning that a search is a thing that happens to people.”
 
 He put it back in the notebook and closed the cover with his right hand.
 
@@ -138,4 +138,4 @@ The last line was Joon's and it was a question nobody in the room could answer a
 
 Elias stood at the long table after the hall had gone and put the notebook in his coat, and his right hand closed the cover, and his left one lay open on the table beside the page where he had written three lines in a tunnel: **WHO USED THE CREDENTIAL BEFORE THE COLLAPSE / AND WHO WAS THE SECOND NAME ON THE 05:02 DISPATCH SHEET / AND WHO DECIDED AT 05:24 THAT THIS WAS AN EQUIPMENT FAILURE — AND WAS IT A PERSON, OR A TEMPLATE THAT A PERSON OPENED EARLY?**
 
-The second answer had turned out to be a credential, and the envelope was still in the same notebook, and Joon's question was still on the wall upstairs, and Elias Rook, who had spent four weeks learning that a promise made in good faith is not a license to choose another person's outcome, went up the stairs without turning the light on.
+The second answer had turned out to be a credential, and the envelope was still in the same notebook, and Joon's question was still on the wall upstairs, and Elias Rook, who had spent two weeks learning that a promise made in good faith is not a license to choose another person's outcome, went up the stairs without turning the light on.

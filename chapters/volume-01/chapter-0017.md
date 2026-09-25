@@ -28,11 +28,11 @@ He put a finger on the unblacked top third of the page.
 
 Elias said nothing. It was one of the harder things he had done in a week.
 
-“The pressure cycles,” Tomas went on. “In 2034 we called them *structural breathing* and we were half right. Breathing is what it looked like from the platform. It was not the structure. There is a node under the west apron, paired to the relay you have been living on top of since Saturday, and when the two of them talk to each other through whatever they talk through, the ground under Kestrel moves on a cycle you can set your watch by. In 2034 we lost two hundred metres of platform slab in four minutes. Same cycle. Same interval as the tape on that cabinet, if your bell man is as honest as he sounds.”
+“The pressure cycles,” Tomas went on. “In 2034 we called them *structural breathing* and we were half right. Breathing is what it looked like from the platform. It was not the structure. There is a node under the west apron, paired to the relay you have been living on top of since Saturday, and when the two of them talk to each other through whatever they talk through, the ground under Kestrel moves on a cycle you can set your watch by. In 2034 we lost two hundred meters of platform slab in four minutes. Same cycle. Same interval as the tape on that cabinet, if your bell man is as honest as he sounds.”
 
 “Why did nobody go and look at it?”
 
-“Because it is not in the index,” Tomas said. “It was written off in 2035. There is a line in the report about legacy communications equipment of unknown configuration, and the line is one of the ones somebody marked, and after that the node is not a device, it is a rumour that a man who used to hold a post has told a tunnel. My mark on the 2035 write-off is the second signature. The first is not visible from here.”
+“Because it is not in the index,” Tomas said. “It was written off in 2035. There is a line in the report about legacy communications equipment of unknown configuration, and the line is one of the ones somebody marked, and after that the node is not a device, it is a rumor that a man who used to hold a post has told a tunnel. My mark on the 2035 write-off is the second signature. The first is not visible from here.”
 
 Elias felt the sentence arrive and sit down heavily in the middle of everything he had assumed about this week.
 

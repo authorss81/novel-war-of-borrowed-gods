@@ -16,11 +16,11 @@ Sable listened to all four, which Elias had not expected.
 
 She took a folded sheet out of her coat and gave it to Tomas, not Elias, and Tomas opened it and read it and his face did something Elias had never seen it do.
 
-“This is a 2031 rehabilitation survey,” Sable said. “An independent contractor, not the Office. Nine days ago, at their own cost, because I asked them to look at a question of mine. They found a second void behind the west apron, and it is not a void in the tunnel. It is a void in the ground, and it is moving, and it is currently two hundred and ten metres from the Quarter's clinic wall.” She let that sit for exactly as long as it needed and no longer. “In March of 2019 an unlicensed crew opened an outfall shaft at Salt Crossing to reach a family of four. Two of the four came out. The crew did not. Six people died in a hole that had been shut for nineteen years, and the Office’s official position for two years afterwards was that a registered responder had done something reckless, because that is what the official position had to be, and because the crew had no licence and no insurance and no way to be heard.”
+“This is a 2031 rehabilitation survey,” Sable said. “An independent contractor, not the Office. Nine days ago, at their own cost, because I asked them to look at a question of mine. They found a second void behind the west apron, and it is not a void in the tunnel. It is a void in the ground, and it is moving, and it is currently two hundred and ten meters from the Quarter's clinic wall.” She let that sit for exactly as long as it needed and no longer. “In March of 2019 an unlicensed crew opened an outfall shaft at Salt Crossing to reach a family of four. Two of the four came out. The crew did not. Six people died in a hole that had been shut for nineteen years, and the Office’s official position for two years afterwards was that a registered responder had done something reckless, because that is what the official position had to be, and because the crew had no license and no insurance and no way to be heard.”
 
 “That is not a reason to seal a district,” Elias said.
 
-“It is a reason to stop arguing with me from inside a building that is two hundred and ten metres away from a hole in the ground.” Sable looked at him steadily. “I am not offering you a form. I am offering you a place in a containment order, with my name on it, that puts a crew on that ground tonight instead of a debate about records.”
+“It is a reason to stop arguing with me from inside a building that is two hundred and ten meters away from a hole in the ground.” Sable looked at him steadily. “I am not offering you a form. I am offering you a place in a containment order, with my name on it, that puts a crew on that ground tonight instead of a debate about records.”
 
 Elias understood that she had just made an offer, and that it was a good one, and that the reason he did not accept it was the same reason he had refused the controlled re-entry and the same reason he would have given on the tunnel floor, which was that a place in her order was a place inside her answer.
 
@@ -38,7 +38,7 @@ The yard went quiet enough to hear the feeder.
 
 Nobody said anything.
 
-“A person held that credential,” Sable said. “My institution's bookkeeping threw the name away seven years ago, during a project I signed off as a junior duty officer, and no offence, Tomas.”
+“A person held that credential,” Sable said. “My institution's bookkeeping threw the name away seven years ago, during a project I signed off as a junior duty officer, and no offense, Tomas.”
 
 “Elias told me about the renumbering on Sunday,” Tomas said. “I did not know about the holder field.”
 
@@ -60,7 +60,7 @@ Mara went first. “The medical ledger does not leave this building. I will read
 
 “Yes.”
 
-Tomas went second, with the stop plan in his hand. “I am giving you a survey threshold that was written before the survey and enforced on it, and I am telling you that the number stopped four millimetres of movement on a slab and that the person who called the stop was not me. That is either a system working or a system that was lucky. I cannot tell you which, and neither can I, and that is exactly why I would like somebody with your authority looking at the same instruments.”
+Tomas went second, with the stop plan in his hand. “I am giving you a survey threshold that was written before the survey and enforced on it, and I am telling you that the number stopped four millimeters of movement on a slab and that the person who called the stop was not me. That is either a system working or a system that was lucky. I cannot tell you which, and neither can I, and that is exactly why I would like somebody with your authority looking at the same instruments.”
 
 Joon went third, and he did not go third quietly. “I have the raw audio, the paper manifest, the measurements, the photograph of your terminal offering to delete the 05:42 entries, the card image, the bell impression, the eleven witness statements, and the Bell file. Five copies in five buildings, one of which is a lock-box in a union hall that you do not have a warrant for. You get copies. You get a supervised reading, room, table, two witnesses, and the survivors told first. If one copy walks out of my hands, four of them do not, and one of them is a name on a wall in a neighborhood you have a truck parked in.”
 
@@ -106,11 +106,11 @@ And then Sable made her counter-offer, and it was the best thing anybody had put
 
 “Why the hold at all?” Elias asked, and it was a real question and not a rhetorical one, and Sable answered it as though he had asked it in good faith, which he had.
 
-“Because a provisional classification is a thing I can defend to a review board when the hold expires, and an equipment-failure closure is not, and because my contractor's void is two hundred and ten metres from a clinic and I need the ground data from your survey more than I need a piece of paper from your coat.” She almost smiled. “I am trading your team’s measurements for my timeline. It is not a favour to you and I would like it minuted as a transaction.”
+“Because a provisional classification is a thing I can defend to a review board when the hold expires, and an equipment-failure closure is not, and because my contractor's void is two hundred and ten meters from a clinic and I need the ground data from your survey more than I need a piece of paper from your coat.” She almost smiled. “I am trading your team’s measurements for my timeline. It is not a favor to you and I would like it minuted as a transaction.”
 
 Elias looked at Inez. Inez looked at the feeder key.
 
-“If it goes into an Office node under seal,” Inez said, “then one day somebody in a warm building can produce a version of my survey that I have never seen, and then my thirty-one people will be told that they consented to something they did not consent to. So the copy goes in with the measurements and with the refusal and with Halla Dren's request, and it goes in with a note that says *this record contains a request that was refused and a stop that was honoured*, and if any of that is missing, the copy is not the same copy and the hold is void.”
+“If it goes into an Office node under seal,” Inez said, “then one day somebody in a warm building can produce a version of my survey that I have never seen, and then my thirty-one people will be told that they consented to something they did not consent to. So the copy goes in with the measurements and with the refusal and with Halla Dren's request, and it goes in with a note that says *this record contains a request that was refused and a stop that was honored*, and if any of that is missing, the copy is not the same copy and the hold is void.”
 
 “Agreed,” Sable said, without hesitating, and Elias understood that she had been waiting for exactly that condition and had expected to be asked for it by somebody.
 
@@ -136,7 +136,7 @@ Then she was in the van, and the van went up Ash Street, and the generator truck
 
 Ninety-six hours bought three things and cost four, and Inez put the tally on the board in her own hand so that nobody in the hall would have to guess what had been traded and by whom.
 
-Bought: the site stayed open, the equipment stayed in the building, and the classification stayed provisional with the stop page travelling with the survey data.
+Bought: the site stayed open, the equipment stayed in the building, and the classification stayed provisional with the stop page traveling with the survey data.
 
 Cost: the data existed in an Office node from tonight, an archivist would read the originals on Thursday, and a review board would sit on the fourth day with a hole in the file where a holder's name should have been. And Perry Dunne's Friday had not moved, and four days of ninety-six hours did not make five, and that was going to be a conversation and not a decision.
 

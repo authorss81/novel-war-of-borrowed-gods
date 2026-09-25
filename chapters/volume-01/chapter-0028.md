@@ -4,7 +4,7 @@ R. Adare came at ten past ten on Friday night, on foot, with his coat over his a
 
 He had picked a hall with forty-two people in it, which he had clearly expected to be smaller.
 
-“The Service recalled two of you this morning,” he said, before he was asked. “It is in the Quarter Sheet, because the Quarter Sheet prints everything and pretends not to. So I will not insult you by pretending I do not know that the rope work in this building is now you and one other man, and that one other man is sixty-four and is a safety instructor, and that neither of you is a confined-space technician.”
+“The Service recalled two of you this morning,” he said, before he was asked. “It is in the Quarter Sheet, because the Quarter Sheet prints everything and pretends not to. So I will not insult you by pretending I do not know that three of the four rope tickets in this city were in this hall on Thursday, and that one of them is asleep upstairs at the moment and does not know, and that the two who went are not coming back this week. What is left of your rope work is one ticket and one man who is sixty-four and is a safety instructor, and one ticket does not make a pair. I know what a pair is worth. I have spent eleven years being the second one.”
 
 “You read a paper,” Elias said.
 
@@ -42,7 +42,7 @@ He took his hand off the card.
 
 Elias opened his mouth to say the sentence he had said on Tuesday, and Nadi Bell got there first.
 
-She was sitting at the back with the child's school coat over her knees where she had sat every day for nine days, and she stood up, and she did not raise her voice, and the hall went quiet in a way that had nothing to do with authority.
+She was sitting at the back with the child's school coat over her knees where she had sat every day for thirteen days, and she stood up, and she did not raise her voice, and the hall went quiet in a way that had nothing to do with authority.
 
 “Say the offer again,” she said, “but say the part about the row.”
 
@@ -52,7 +52,7 @@ Adare looked at her.
 
 “It is.”
 
-“I have had nine days to think about what a person is worth who can put a name back on a list,” Nadi said. “And I have decided he is worth exactly what it costs the people who have to stand in a line to be found. That is his price. Not his fee. His price. And the fee is four hundred and the price is every person in this room who would have to be somewhere else instead of here, and you do not get to sell the fee and pretend the price is somebody else's decision.”
+“I have had thirteen days to think about what a person is worth who can put a name back on a list,” Nadi said. “And I have decided he is worth exactly what it costs the people who have to stand in a line to be found. That is his price. Not his fee. His price. And the fee is four hundred and the price is every person in this room who would have to be somewhere else instead of here, and you do not get to sell the fee and pretend the price is somebody else's decision.”
 
 The hall did not make a sound.
 
@@ -68,9 +68,9 @@ Adare looked at her for a while, and then he took a pen out of his coat, and he 
 
 ---
 
-They refused him at eleven, and it took forty minutes and it was not one refusal, it was six, because the room had learned something in nine days about what a refusal is for.
+They refused him at eleven, and it took forty minutes and it was not one refusal, it was six, because the room had learned something in thirteen days about what a refusal is for.
 
-Petar's exit drill went off at half past ten with nobody expecting it, because Petar had decided that a man who can build a door in a form can also build a scarecrow and put it outside the gate, and the scarecrow had a form on it and a description of the service and a weekly fee. It was made of a mop handle and a coat and it was extremely funny and it was the most frightening object anybody had put on that street in nine days.
+Petar's exit drill went off at half past ten with nobody expecting it, because Petar had decided that a man who can build a door in a form can also build a scarecrow and put it outside the gate, and the scarecrow had a form on it and a description of the service and a weekly fee. It was made of a mop handle and a coat and it was extremely funny and it was the most frightening object anybody had put on that street in thirteen days.
 
 Osei voted to keep it up for another week.
 
@@ -78,7 +78,7 @@ And the six refusals were read out, and Nadi's was the third, and every one of t
 
 He said: we are not doing this tonight, or on any of the eleven days, and we are not using anybody in this hall, or on this street, or in this clinic, as part of a tension, and if a license comes through I would like the record to show that we were asked and we said no in front of forty-two people who can read it, and I am not going to pretend that saying it again is easy, because it is not, it is just repeated.
 
-Then Inez read the count, and the count was that no card in this hall had been withdrawn in nine days in order to take an offer like this one, and she said so, and it was the only number in the whole argument that she had asked for.
+Then Inez read the count, and the count was that no card in this hall had been withdrawn in thirteen days in order to take an offer like this one, and she said so, and it was the only number in the whole argument that she had asked for.
 
 ---
 
@@ -86,7 +86,7 @@ Joon walked Adare out to the gate, which was the only polite thing anybody did f
 
 “Who do we tell?”
 
-“He is licensed,” Elias said. “That is the thing I have been not saying for an hour. He is not a criminal. Everything he has offered is a service with a form, a consent, a witness and a return, which is more paperwork than we have ever done, and the reason we have called him a broker for nine days is that we did not have a better word and because he is frightening and useful and neither of those is the same as illegal.”
+“He is licensed,” Elias said. “That is the thing I have been not saying for an hour. He is not a criminal. Everything he has offered is a service with a form, a consent, a witness and a return, which is more paperwork than we have ever done, and the reason we have called him a broker for thirteen days is that we did not have a better word and because he is frightening and useful and neither of those is the same as illegal.”
 
 “So it is a licensing question.”
 

@@ -20,7 +20,7 @@ Niko Senn watched Mara count from the chair he had claimed beside the radiator.
 
 At seven the Office's staff member set a printed demand on the long table, weighted down with a carabiner.
 
-It required one number, one route status, and the full legal name of every person recovered. It had a box for the time of the first alarm, a box for the time of the last exit, and a box labelled **CAUSE**, and the first two of those boxes were already filled.
+It required one number, one route status, and the full legal name of every person recovered. It had a box for the time of the first alarm, a box for the time of the last exit, and a box labeled **CAUSE**, and the first two of those boxes were already filled.
 
 Joon read it and put it face down.
 
@@ -162,7 +162,7 @@ The rest of the morning was water, soup, dressings, a mattress for Ansel that Pe
 
 Petar Lisk, the boy who had come out of the alcove carrying a fire extinguisher as though it were a prize, asked three times whether he could keep it. Elias told him the extinguisher belonged to the City and could be logged out for the use of the hall, and Petar became the hall's fire marshal, which gave him a clipboard, a nightly walk-through, and the authority to shout at adults about blocked exits. He took the job with a seriousness that made everyone nearby uncomfortable in a way that was probably healthy.
 
-Emil Baros, the white-haired man who had handed Nadi a child's school coat, sat by the kitchen door for two hours and could not stop apologising.
+Emil Baros, the white-haired man who had handed Nadi a child's school coat, sat by the kitchen door for two hours and could not stop apologizing.
 
 “I keep losing their names,” he said, when Elias finally crouched beside him. “The six of us. I had them all in my head at nine o'clock and now I have four and one of those four is a man from the train and one of them is a woman called something with an R.”
 

@@ -2,7 +2,7 @@
 
 Lena Mir lent them the clinic's day line between nine and ten, and she lent it with a condition that she was in the room for the whole of it.
 
-“I am not lending you the clinic,” she said, keying the wall phone through to the side room and pulling the door half shut. “I am lending you the wall. I have a man in the back with a dislocated shoulder who has been waiting since seven, and if I stand up, this call is over and I do not apologise to anybody for it.”
+“I am not lending you the clinic,” she said, keying the wall phone through to the side room and pulling the door half shut. “I am lending you the wall. I have a man in the back with a dislocated shoulder who has been waiting since seven, and if I stand up, this call is over and I do not apologize to anybody for it.”
 
 They took the handset into the corridor. Nadi Bell went first, because a call made by somebody else would be a call about somebody else.
 
@@ -92,7 +92,7 @@ Bex turned to the screen. “Give me the date and the service.”
 
 Bex's fingers stopped.
 
-“I can do routine,” he said. “I cannot do it with a Kestrel reference anywhere near the query, because the moment the two touch, the enquiry attaches to the incident file and locks for review, and then it is not mine to answer, and you get a letter.”
+“I can do routine,” he said. “I cannot do it with a Kestrel reference anywhere near the query, because the moment the two touch, the inquiry attaches to the incident file and locks for review, and then it is not mine to answer, and you get a letter.”
 
 “Then do it without.”
 
@@ -128,7 +128,7 @@ Elias felt the offer land in him as something uncomfortably close to relief. Six
 
 “How much,” Nadi said.
 
-“Four hundred for the list work. Sixty a month for the line. And nothing for the rest, because the rest is not a sale, it is a favour.” He said it kindly. “The favour is: I do not report this conversation to a Continuity Office that will write your address somewhere. You are not interesting to them. You are a footnote with an allergy. I am the only person in this city who will look at a wrong record and be able to leave it alone.”
+“Four hundred for the list work. Sixty a month for the line. And nothing for the rest, because the rest is not a sale, it is a favor.” He said it kindly. “The favor is: I do not report this conversation to a Continuity Office that will write your address somewhere. You are not interesting to them. You are a footnote with an allergy. I am the only person in this city who will look at a wrong record and be able to leave it alone.”
 
 “Why would you do that for free?” Elias said.
 
@@ -172,7 +172,7 @@ Then Nadi said, “You did not ask her name. When you could have. You could have
 
 “Why.”
 
-“Because the moment her name is in a document, she is in the record, and the record is the thing that lost her.” He heard how it sounded, coming out of him, and it sounded like a rule rather than a decision, which was the direction he was trying to stop travelling in. He tried again. “I will not put her in. If that costs us the argument, it costs us the argument.”
+“Because the moment her name is in a document, she is in the record, and the record is the thing that lost her.” He heard how it sounded, coming out of him, and it sounded like a rule rather than a decision, which was the direction he was trying to stop traveling in. He tried again. “I will not put her in. If that costs us the argument, it costs us the argument.”
 
 Nadi looked at him. “It is not only the argument. It is her.”
 

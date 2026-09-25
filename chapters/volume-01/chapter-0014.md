@@ -2,7 +2,7 @@
 
 At four o'clock the Office took the site.
 
-They did it in eleven minutes, which was the part that stayed with Elias. Three grey archive crates came off the truck, and a young records clerk named Hoyt walked the apron with a clipboard and a wax pencil, marking each cable cabinet and relay box with a numbered tag. Tag 14 went on the west apron relay, whose door was standing open because Elias had asked them to leave it open after they finished.
+They did it in eleven minutes, which was the part that stayed with Elias. Three gray archive crates came off the truck, and a young records clerk named Hoyt walked the apron with a clipboard and a wax pencil, marking each cable cabinet and relay box with a numbered tag. Tag 14 went on the west apron relay, whose door was standing open because Elias had asked them to leave it open after they finished.
 
 Hoyt came back to the frame, looked at the empty card holder, and wrote **LOG ABSENT PRIOR TO TRANSFER** on the transfer sheet in full capitals, which took eight seconds and turned out to be the single most useful sentence anyone produced that afternoon.
 

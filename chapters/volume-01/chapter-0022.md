@@ -24,17 +24,17 @@ He was perhaps sixty, sunburned, with a nose that had been broken and reset by s
 
 “How much,” Inez said.
 
-“There is a number for a cooperative and it is not the number on the card. Cut to length and delivered, eight hundred and ten. The card says eleven hundred and forty. The three hundred and thirty is that I am standing here on a Saturday and my own yard has two hundred people in it who are not getting anything this month, and because a woman I know ran your laundrette's electric for six days without asking anybody and my whole street talked about it for a week.”
+“There is a number for a cooperative and it is not the number on the card. Cut to length and delivered, eight thousand eight hundred. The card says eleven thousand one hundred. The two thousand three hundred is that I am standing here on a Saturday and my own yard has two hundred people in it who are not getting anything this month, and because a woman I know ran your laundrette's electric for six days without asking anybody and my whole street talked about it for a week.”
 
 Ru Sabar, who had come down to the gate without being asked, said, “It was six days and not nine, and I would like the number correct this time.”
 
-“It is six days. I was told nine by a man who likes you. Eighty-eight hundred.”
+“It is six days. I was told nine by a man who likes you. Eight thousand eight hundred.”
 
-The whole transaction took about a quarter of an hour. Innez paid it out of the cooperative's fund in front of four witnesses and made him initial the receipt twice, once for the sum and once for the rating, and Prokop laughed at the second one and signed both. Then he said, at the gate, to nobody in particular, “There is a man on the west bank who sells cable at half that.” Inez said, “I know.” He said, “His is a different length and a different year, and I have seen the jacket on a length of it, and you know that too.” Inez said, “I know,” and he got in his van.
+The whole transaction took about a quarter of an hour. Inez paid it out of the cooperative's fund in front of four witnesses and made him initial the receipt twice, once for the sum and once for the rating, and Prokop laughed at the second one and signed both. Then he said, at the gate, to nobody in particular, “There is a man on the west bank who sells cable at half that.” Inez said, “I know.” He said, “His is a different length and a different year, and I have seen the jacket on a length of it, and you know that too.” Inez said, “I know,” and he got in his van.
 
 ---
 
-What they had by ten o'clock was this: two hundred and forty meters of good cable bought at a price that included somebody else's rent; batteries; two anchor lamps; a wooden frame with four panels of seam glass that Ru Sabar had made out of a door and a grain store window; two mattresses; a cylinder; a records desk Petar Lisk had carried in himself and would not let be unloaded anywhere but the corner with the least traffic; and a hole in the money of two thousand three hundred.
+What they had by ten o'clock was this: two hundred and forty meters of good cable bought at a price that included somebody else's rent; batteries; two anchor lamps; a wooden frame with four panels of seam glass that Ru Sabar had made out of a door and a grain store window; two mattresses; a cylinder; a records desk Petar Lisk had carried in himself and would not let be unloaded anywhere but the corner with the least traffic; and a hole in the money of one thousand one hundred.
 
 “What is the hole,” Elias said, because somebody had to ask and it was his job to ask questions in a room.
 
@@ -42,7 +42,7 @@ What they had by ten o'clock was this: two hundred and forty meters of good cabl
 
 “How much is a wall.”
 
-“Eleven hundred. And a door, and a lock, and somebody who can build it, and the somebody is my cousin, and my cousin is not available, and the second somebody is a man in the Third Ward who will take cash on a Sunday and is not good.” She looked at the board for a while. “That is what the ward costs. Not batteries. A wall, so the paper is a room and not a table under a radiator. And the wall is a quarter of what this building needs to be a building.”
+“Eleven hundred. And a door, and a lock, and somebody who can build it, and the somebody is my cousin, and my cousin is not available, and the second somebody is a man in the Third Ward who takes cash and does not ask what it is for and is not good.” She looked at the board for a while. “That is what the ward costs. Not batteries. A wall, so the paper is a room and not a table under a radiator. And the wall is a quarter of what this building needs to be a building, which is four thousand four hundred, and I have the other three thousand three hundred written down in a list you would not enjoy reading.”
 
 ---
 
@@ -68,7 +68,7 @@ It was issued under the standing designation's own survey clause, which has been
 
 “Why,” Elias said. “Why now, after four days of nothing.”
 
-“Because your archivist has written that this office cannot presently show the moment at which a classification was decided,” Brauer said, “and a board is going to be asked this afternoon to accept a cause or admit it has none, and the ground that cause would be about is a ground with a documented route across it that belongs to no current survey and turned up on your own measurements three days after your tunnel stopped.” She folded her hands. “I am refusing to have a survey imposed on a structure that has never been photographed by the party imposing it. If that corridor is on your paper and not on mine, then any finding this afternoon about the ground is a finding by a team that is its own only baseline. And I am issuing this at eleven forty rather than after the board, because a survey the board has already heard of is a survey, and a survey it hears about for the first time in the afternoon is an imposition, and I would like this one on the minutes as the first.”
+“Because your archivist has written that this office cannot presently show the moment at which a classification was decided,” Brauer said, “and a board is going to be asked this afternoon to accept a cause or admit it has none, and the ground that cause would be about is a ground with a route across it that belongs to no current survey and that nobody in this building has ever walked, including me, including the man who drew it in 2029.” She folded her hands. “I am refusing to have a survey imposed on a structure that has never been photographed by the party imposing it. If that corridor is on your paper and not on mine, then any finding this afternoon about the ground is a finding by a team that is its own only baseline. And I am issuing this at eleven forty rather than after the board, because a survey the board has already heard of is a survey, and a survey it hears about for the first time in the afternoon is an imposition, and I would like this one on the minutes as the first.”
 
 Elias did not want to give the data up. He felt the wanting arrive before he had made an argument for it, and he had almost made one.
 
@@ -110,13 +110,13 @@ At the end Emil stood in front of the door and did not touch it.
 
 “This is the one that was not on the plan,” Elias said, and then, to Brauer, who was six meters back with her camera up: “You have that on your camera.”
 
-“I have that on my camera,” Brauer said, “and I have got the date on it, because I have been photographing structures for twenty-two years and a photograph without a date is a rumour.”
+“I have that on my camera,” Brauer said, “and I have got the date on it, because I have been photographing structures for twenty-two years and a photograph without a date is a rumor.”
 
 The measurements took most of an hour. Elias ran the laser himself down the full usable length and then again with Petar reading the far end, because Petar's eyes were better than his and because a nine-year-old holding the far end of a tape is the most reliable optical instrument in the building. Emil Baros signed the keeper's line in his own hand, with his name and the date, and then made himself read it back, because he had watched Tomas do it twice and had decided the practice was worth stealing.
 
 **LOWER SERVICE RUN — SECTOR 4C — USABLE SPAN 31.0 M — KEEPER: EMIL BAROS — RESIDENT**
 
-It went in three places. The survey sheet, with the laser readings and two photographs and Brauer's initialed remarks page attached. Joon's custody log, with the time and the two witnesses. And the hall board, in Inez's hand, in chalk, where a resident could read it from a cot without standing up.
+It went in three places. The survey sheet, with the laser readings and two photographs and Brauer's initialed remarks page attached. Joon's custody log, with the time and the two witnesses. And the hall board, in Inez's hand, in chalk, where a resident could read it from a cot without standing up. The Office had one too, and under the terms of the instrument it went into the sealed node that night, and nobody in the hall counted it as ours.
 
 And then, at three o'clock, they used it, and they were finished before the board convened.
 

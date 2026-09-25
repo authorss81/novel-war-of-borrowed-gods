@@ -6,7 +6,7 @@ Joon had ruled the surface with a broom handle and hung the paper map over the r
 
 Elias stood at the head of the table with his notebook open and a pencil in his right hand, and he discovered within two minutes that he could not do what he had come to do.
 
-The service door was forty-one inches at the frame, twenty-seven at the narrowest point, set in a lintel that leaned about six degrees toward the corridor. It had two handles at two heights. It had a scrape mark along the lintel that was bright metal on old grey concrete, and it had eleven wet footprints in the trough of the floor, and it had a mechanical anchor scar where his own wedge had bitten. All of that was in his notebook in his own handwriting.
+The service door was forty-one inches at the frame, twenty-seven at the narrowest point, set in a lintel that leaned about six degrees toward the corridor. It had two handles at two heights. It had a scrape mark along the lintel that was bright metal on old gray concrete, and it had eleven wet footprints in the trough of the floor, and it had a mechanical anchor scar where his own wedge had bitten. All of that was in his notebook in his own handwriting.
 
 All of it, if he drew it, was going to be a picture of a door instead of a measurement of a wall.
 
