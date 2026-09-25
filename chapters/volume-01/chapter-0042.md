@@ -42,7 +42,7 @@ Then she said, “I have heat.”
 
 “How much heat,” Elias said.
 
-“There is no such thing as how much heat.” She did not look up. “I have bodies. I am going to tell you what I can tell you and then what I cannot, and I am saying the second part out loud in front of witnesses, because the second part is the one that kills people.”
+“There is no such thing as how much heat.” She did not look up. “I have bodies. I am going to tell you what I can tell you and then what I cannot, and I am saying the second part in front of witnesses, because the second part is the one that kills people.”
 
 “Tell me the first part.”
 
@@ -62,7 +62,7 @@ She swept the chamber nine times. On the third pass she turned the gain down so 
 
 “I did not say eight.” She looked up, and she was not being dramatic, she was being exact, which was worse. “Eight discrete sources. Four are large and roughly the shape of a person lying down. Two are smaller at the far end, and I will not put a name to the smaller ones on my own film, and a smaller one is a child or it is a dog, and I cannot tell you and I am not going to guess in a document.”
 
-“That's two,” Elias said. “Eight sources, six people. Where are the other two.”
+“Two children,” Elias said. “Eight sources and I have got six people off them. Where are the other two.”
 
 “One is on the left-hand wall a meter and a half up. A rectangle, about the size of a small stove, and it has been warm for a long time, because you cannot get that temperature out of a brick wall in a sealed chamber in twenty-five days without something in the chamber making it or without air coming in and carrying heat from somewhere else.” She put the camera on a ledge. “And one is a man sitting up against the far end, who is not the same temperature as the other four and has not been for three passes. The man sitting up is the only source in that chamber my camera can see moving.”
 
@@ -70,7 +70,7 @@ Nobody said anything for about a minute and a half.
 
 “Number of persons,” Joon said from the top, in the flat voice he used for a count. “Four confirmed, one probable, one unknown, and a chamber with moving air in it. Is that the whole of it.”
 
-“That is the whole of it and I would like it written in that order,” Ruzicka said, “because *eight* is what the machine says and *four* is what I will sign, and the difference between them is a stove and a man who will not lie still. I have been in this job long enough to know that the difference between the number and the count is where a person goes, and that a stove in a record is a thing that later becomes a person.”
+“That is the whole of it and I would like it written in that order,” Ruzicka said, “because *eight* is what the machine says and *six* is what I will sign, and the difference between them is a stove and a man who will not lie still. I have been in this job long enough to know that the difference between the number and the count is where a person goes, and that a stove in a record is a thing that later becomes a person.”
 
 ---
 
@@ -112,4 +112,4 @@ Mara made the triage decision at ten past ten in the morning, in public, with th
 
 Lena Mir wrote it down, in her own handwriting, on the ward page, at the top, under the day.
 
-The number nobody wanted was four confirmed, one probable, one unknown, and a chamber with air moving in it, and it had been under a street for twenty-five days, and the graph said the air was being replaced, and there was one person in that chamber whose body heat had changed three times in forty minutes and who was sitting up against the far end, nine meters past a brick lining that no drawing in four buildings holds.
+The number nobody wanted was four confirmed, one probable, one unknown, and a chamber with air moving in it, and it had been under a street for twenty-five days, and the graph said the air was being replaced, and the seventh person in that arithmetic was the one whose body heat had changed three times in forty minutes and who was sitting up against the far end, nine meters past a brick lining that no drawing in four buildings holds.

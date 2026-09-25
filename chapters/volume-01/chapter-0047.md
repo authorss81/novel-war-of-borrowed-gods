@@ -1,12 +1,12 @@
 # Chapter 47 — Monday
 
-The sixth person was the reason Doss had not slept on Sunday and the reason he had slept on Monday, and the difference was a phone call from Sable Arden's office at seven in the morning that said Ruzicka and Ohno would be on Ash Street by eleven and not before, because the regional pool had held them overnight on a fault in the Ninefold Basin and had not told the hall until the pool's own clerk remembered that there was a hall.
+The fifth person was the reason Doss had not slept on Sunday and the reason he had slept on Monday, and the difference was a phone call from Sable Arden's office at seven in the morning that said Ruzicka and Ohno would be on Ash Street by eleven and not before, because the regional pool had held them overnight on a fault in the Ninefold Basin and had not told the hall until the pool's own clerk remembered that there was a hall.
 
 “That is the correct answer,” Doss said at seven fifteen. “Two men asked for by a house that pays them went where the fault is. I am not glad about a gas main. I am a man who cannot go past nine and a half meters until eleven o'clock, and there is a person under that floor.”
 
 “How long does he have,” Mara said.
 
-“He is not the worst of the six,” Ruzicka said. She had come at half past six to hand over a print she did not have to hand over. “The fifth was the worst of the six and the fifth is the one we lost. The sixth is the one who was sitting up at the far end, and he has been sitting up for twenty-five days, and sitting up is what a person does when lying down has become the thing that hurts most. Be very careful and do not be in a hurry.”
+“He is not the worst of the six,” Ruzicka said. She had come at half past six to hand over a print she did not have to hand over. “The fourth was the worst of the six and the fourth is the one we lost. The fifth is the one who was sitting up at the far end, and he has been sitting up for twenty-five days, and sitting up is what a person does when lying down has become the thing that hurts most. Be very careful and do not be in a hurry.”
 
 “You are saying the same thing Mara said in two different words,” Elias said.
 
@@ -26,7 +26,7 @@ Petar Lisk, who was nine, said, “I have it,” and everybody let him say it, a
 
 ---
 
-At ten past four on the afternoon of the thirtieth day, Elias Rook put a handset on a line and fed it down the run while a man on a board went the length of a corridor, and Doss was on the other end of the rope and not on the line, and that was the price and Inez priced it out loud before he did it.
+At ten past four on the afternoon of the thirtieth day, Elias Rook put a handset on a line and fed it down the run while a man on a board went the length of a corridor, and Doss was on the other end of the rope and not on the line, and that was the price, and Inez named it in the room before he did it.
 
 “Twenty minutes of Doss off the board,” she said. “That is four minutes of the corridor slower and I am not going to pretend it is four minutes of a person slower, because on Sunday it was four minutes a person and there are four people on that board.”
 
@@ -68,7 +68,7 @@ The line was quiet for a long time. Then the man said, “It is not warm.”
 
 “What.”
 
-“Your warm side. Under the water. You asked me last Monday and I told you it is warm on that side, in February, under the water, and I told you that because you had come down on a Monday and nobody had ever done that.” His voice had not changed and the words had not got slower. “It is not warm today. I noticed at about eleven this morning and I have been sitting here with it since, and I am telling you because you told me a number and I do not have a number for you, so this is what I have got.”
+“Your side. Under the water. The last time I asked, you told me it was warm over there in February, and I have had three weeks since to think about that sentence, and I want you to know that I have not spent one hour of it deciding what it means.” His voice had not changed and the words had not got slower. “It is not warm today. I noticed at about eleven this morning and I have been sitting here with it since, and I am telling you because you told me a number and I do not have a number for you, so this is what I have got.”
 
 Elias Rook stood in a corridor eleven meters long and did not ask the question.
 
@@ -86,24 +86,24 @@ He put the handset down. Elias fed the line back, four minutes, and went to the 
 
 ---
 
-Joon Park said the thing out loud in front of nine people, which is what he does.
+Joon Park said the thing where the room could hear every word of it, because that is the only way he knows to refuse something and be legible about it.
 
-“He said *it is not warm today*. That is a report from a man in a room heard through concrete on a cable, at eleven o'clock this morning, and it is the third such thing anybody in this building has ever heard from him, and he has never given us a measurement and he has told us himself that he does not measure himself and nobody measures him.” Joon put a hand flat on the wall. “I am not going to write a meaning next to that. I refused a meaning for four tenths of a second in the second week and I am holding that line now, and I am saying so out loud instead of just not writing, because I have learned in this room that silence looks exactly like a decision. It is not a decision. It is a refusal, and a refusal has to be legible.”
+“He said *it is not warm today*. That is a report from a man in a room heard through concrete on a cable, at eleven o'clock this morning, and it is the third such thing anybody in this building has ever heard from him, and he has never given us a measurement and he has told us himself that he does not measure himself and nobody measures him.” Joon put a hand flat on the wall. “I am not going to write a meaning next to that. I refused a meaning for four tenths of a second in the second week and I am holding that line now, and I am saying so in a room instead of just not writing, because I have learned in this room that silence looks exactly like a decision. It is not a decision. It is a refusal, and a refusal has to be legible.”
 
 Petar Lisk wrote it in his own hand and read it out at seven.
 
 **IT IS NOT WARM TODAY. HE TOLD US BECAUSE WE GAVE HIM A NUMBER. WE DO NOT KNOW WHY IT IS NOT WARM. WE ARE NOT GUESSING.**
 
-Then somebody asked whether the relay was involved, and Joon said no out loud before anybody had finished asking it, and then said that *no* was the same word he had used nineteen days ago about a quarter of a second, and it did not mean that nothing was happening, it meant he was not going to be the second person.
+Then somebody asked whether the relay was involved, and Joon said no before anybody had finished asking it, and then said that *no* was the same word he had used nineteen days ago about a quarter of a second, and it did not mean that nothing was happening, it meant he was not going to be the second person.
 
 ---
 
-Ruzicka and Ohno came onto Ash Street at ten past eleven, which was four hours late and two hours before anybody believed they were coming, and the sixth person came out of that chamber at twenty past eight in the evening on the thirtieth day, on a board, in a corridor, with the hall dark at two and a lamp by the door and a nine-year-old sitting beside it the whole time.
+Ruzicka and Ohno came onto Ash Street at ten past eleven, which was four hours late and two hours before anybody believed they were coming, and the fifth person came out of that chamber at twenty past eight in the evening on the thirtieth day, on a board, in a corridor, with the hall dark at two and a lamp by the door and a nine-year-old sitting beside it the whole time.
 
 He was fifty-eight and he could not lift his arms, and he said his own name twice, once into Lena Mir's ear and once to nobody in particular, and Lena Mir wrote it down both times because she has never once trusted a name once.
 
 He weighed fifty-one pounds. Ruzicka's camera had been the only reason anybody in the city knew he was in there, and the man behind the wall was the reason a man with a cart knew the ground had changed, and neither of those facts was going to be in anybody's sentence about what happened next.
 
-Ruzicka's conservative number was four confirmed and what she signed was six, and the difference between her six and the machine's eight is a stove and a man who will not lie still. Seven people in a chamber. Four came out on Sunday, and one of the four died in this building at ten past one that afternoon with his name in Lena Mir's hand, and a fifth came out at twenty past eight tonight, and two are still on that floor.
+Ruzicka's machine said eight and her signature said six, and the difference between her six and the machine's eight is a stove and a man who will not lie still. Seven people in a chamber. Four came out on Sunday, and one of the four died in this building at ten past one that afternoon with his name in Lena Mir's hand, and a fifth came out at twenty past eight tonight, and two are still on that floor.
 
-The operation was still moving at twenty past eight on Monday night, because the plan expired at six the next morning and it expired on the fourth person a long time ago, and nobody had written a new one yet, and there were eleven meters of corridor, a 2038 pour nobody was allowed to touch, a brick lining that was now an opening, and a district underneath all of it with a Tuesday left in it.
+The operation was still moving at twenty past eight on Monday night, because the plan had expired at ten minutes to six on Sunday morning, ten minutes before the brick came down, and it was not noticed until ten past one that afternoon, and it had not carried over, and nobody had written a second one, and there were eleven meters of corridor, a 2038 pour nobody was allowed to touch, a brick lining that was now an opening, and a district underneath all of it with a Tuesday left in it.

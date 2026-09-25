@@ -42,7 +42,7 @@ Elias wrote to Sable at ten past ten on the hall's own paper, dated it, and read
 
 The answer came at ten past four, in nine lines.
 
-*Ruzicka and Ohno are assigned. Wednesday, first light, the same vehicle, the same chain number, three copies, the residents' copy travelling with the observer. Four conditions. One: no movement at the loading lip beyond 0.4 mm for the duration. Two: the survey stops at the stated depth and stops at the stated time, whichever comes first, and neither can be extended by anybody on this site including this office. Three: every frame the instruments produce is delivered to the residents' observer before it leaves the vehicle. Four: the Office pays for the instruments' power.*
+*Ruzicka and Ohno are assigned. Wednesday, first light, the same vehicle, the same chain number, three copies, the residents' copy traveling with the observer. Four conditions. One: no movement at the loading lip beyond 0.4 mm for the duration. Two: the survey stops at the stated depth and stops at the stated time, whichever comes first, and neither can be extended by anybody on this site including this office. Three: every frame the instruments produce is delivered to the residents' observer before it leaves the vehicle. Four: the Office pays for the instruments' power.*
 
 Nobody argued about the first three.
 
@@ -70,7 +70,7 @@ The room went very quiet.
 
 “I am not asking you to take it back,” Ru Sabar said. “I said I would not ask again, and I meant it, and I would like everybody in here to notice that nobody asked me.”
 
-“Nobody asked you,” Inez said. “I am going to ask you on Thursday at seven, after the survey, and give you the reason then and not now. And if you say no, the instruments run on a Bell Row cooler, and I will explain that to those two households myself, tonight, at their doors.” She put both hands flat on the chain. “That is the cost and it is mine, and I am naming it out loud in advance so nobody can tell me afterwards that I did not know, and because this hall has spent a month finding out that the things that cost something are the ones somebody wrote down first.”
+“Nobody asked you,” Inez said. “I am going to ask you on Thursday at seven, after the survey, and give you the reason then and not now. And if you say no, the instruments run on a Bell Row cooler, and I will explain that to those two households myself, tonight, at their doors.” She put both hands flat on the chain. “That is the cost and it is mine, and I am naming it in advance so that nobody can tell me afterwards that I did not know, and because this hall has spent a month finding out that the things that cost something are the ones somebody wrote down first.”
 
 ---
 
@@ -78,7 +78,7 @@ Mara brought the medical standard to the table unread.
 
 “The shape of it and not the words. What the crew may carry, when somebody is stopped, who holds the stop, at what hour the crew comes out. It does not say what happens if the survey finds a person, or what category they would be, or how long they have. It does not have a contingency section, and I have written *no contingency* across it in my own hand so a clerk in a hurry does not help me.”
 
-“Elias,” Lena said. “She has done the thing where nobody said a number out loud and it is going to be in a form for the Office.”
+“Elias,” Lena said. “She has done the thing where nobody said a number where the room could hear it, and it is going to be in a form for the Office.”
 
 “I know what she has done. I want it in a different place, that is all. That page tells a man in a corridor that the answer to the question he is about to ask was considered in advance and found not to be a medical matter. That is a sentence about a man he has never met, written by somebody who has never met him.”
 
@@ -104,7 +104,7 @@ Petar Lisk got up off the bench and read the limit out, because Elias had asked 
 
 “That is the whole limit,” Petar said. “I know it has no depth in it. Tomas has the depth. I have that one.”
 
-“It is a good limit,” Tomas said, and meant it. And Elias Rook, standing in a hall that had been running for a month with a left hand that had been numb for three weeks, understood that a nine-year-old's sentence covered him and did not cover Tomas, and said so out loud, which took him longer than it should have.
+“It is a good limit,” Tomas said, and meant it. And Elias Rook, standing in a hall that had been running for a month with a left hand that had been numb for three weeks, understood that a nine-year-old's sentence covered him and did not cover Tomas, and said so where the room could hear it, which took him longer than it should have.
 
 ---
 
@@ -118,7 +118,7 @@ At half past ten that night, with the terminal on the records table and nothing 
 
 Joon did not soften it.
 
-“What is the survey for,” he said. “Is it for them, or is it for the file. Those are not the same, they want opposite things, and the second one is a document. I have sat here four days waiting for somebody to say which one it is, and nobody has, and I have checked, and I am not going to check again. So I am going to say the last part out loud, because that part is a fact.”
+“What is the survey for,” he said. “Is it for them, or is it for the file. Those are not the same, they want opposite things, and the second one is a document. I have sat here four days waiting for somebody to say which one it is, and nobody has, and I have checked, and I am not going to check again. So I am going to say the last part in front of the room, because that part is a fact.”
 
 He read it off his own hand.
 

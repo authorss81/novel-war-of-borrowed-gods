@@ -1,6 +1,6 @@
 # Chapter 45 — Saturday
 
-Saturday was antibiotics and laundry and one argument, and the argument was about what the building was for, and it was won by a nineteen-year-old who was lying on a powered frame he got because the physician gave a generator away.
+Saturday was antibiotics and laundry and one argument, and the argument had two halves, and a nineteen-year-old on a powered frame won the first one and a woman with a movement record won the second, and the second is the reason this building is what it is on Monday.
 
 Lena Mir did the round in forty-nine minutes and wrote it on one page in plain sentences, and the page is the only clinical document in that building anybody can read without a key. Oren Pike walked to the end of the hall and back and was not winded and told two people about it. Anja Ro did the same carrying a full water can. Ruta Amsel had the brace off for the ninth day. Tarin Voss asked, once, whether anybody had put his name back, and was told no, and said good, and went back to reading.
 

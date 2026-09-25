@@ -77,7 +77,7 @@ She put her hand on the line.
 
 ---
 
-Nobody said the sentence out loud, and it was available, and it was in the room, and everybody in that hall had heard a nineteen-year-old say it twice about Elias and once on himself, and it hung there for about eleven seconds.
+Nobody said the sentence, and it was available, and it was in the room, and everybody in that hall had heard a nineteen-year-old say it twice about Elias and once on himself, and it hung there for about eleven seconds.
 
 Elias Rook stood up. His left hand was on the table and it had been numb since the fourth day and it was going to be numb on Thursday, and he put his right hand flat instead, and he did not use it.
 
@@ -89,7 +89,7 @@ He put his hand on the terminal, not on the keys.
 
 “It says *the order is obeyed, not answered*. Not one person in this building is a problem it has to solve, because a person who can be asked is a person who can say no, and that line is in the boundary field because this is an offer that would work, and it works by removing the only thing this hall has spent a month proving it can do, which is that a person may say no and the sentence still stands.”
 
-He stopped, and then he said the part that cost him, out loud, in front of the whole room, and it is in the log.
+He stopped, and then he said the part that cost him, in front of the whole room, and it is in the log.
 
 “The first refusal that goes under something like that will not be Mara's, because Mara is difficult and loud and there are eleven of us. It will not be Inez's, because Inez owns a lock-box. It will be Teodor's, because he holds a stop without a card and does not live here and is the cheapest person in this building to overrule, and it will go in a day, and after that it will be Osei, and after that it will be Lena, and I have watched every one of those refusals in this month cost somebody something, and this thing on that screen would make them all into a malfunction, and a malfunction is a thing you correct.”
 
@@ -103,7 +103,7 @@ Joon Park wrote it for nine minutes, read it back twice, was corrected four time
 
 **Declined. Not because the order is wrong. Because an order that is obeyed is not made of anybody. E. Rook, and the hall stands behind it, and two of the twenty-two did not sign it and neither did the man with the stop and no card.**
 
-The terminal took it, and the tone changed, and the four-C local route line — the physical path that the 05:17 maintenance entry runs on, the line that carried a forty-one-second carry on a Sunday afternoon, the line that carried a woman's voice at twenty-two minutes past ten the Sunday before — went out of a socket in the records room and did not come back for nineteen hours.
+The terminal took it, and the tone changed, and the four-C local route line — the physical path that the 05:17 maintenance entry runs on, the line that carried a forty-one-second carry on a Sunday afternoon, the line that carried a woman's voice at twenty-two minutes past ten the Sunday before — went out of a socket in the records room and did not come back for twenty-seven hours and thirty-nine minutes.
 
 Joon sat down.
 
@@ -119,4 +119,4 @@ The second entry went in at one in the afternoon and it went in at the pace a bo
 
 The second one did not come out that night.
 
-And the offer on the screen had said fourteen meters, and the corridor was at eleven, and the plan on the wall expired at six in the morning, and nobody had written a new one, and the hall was dark at two, and the operation was going to keep going anyway at the speed of a thing that is not being told what to do.
+And the offer on the screen had said fourteen meters, and the corridor was at eleven, and the plan on the wall had expired at ten minutes to six on Sunday morning, ten minutes before anybody put a tool in it, and nobody had written a second one, and the hall was dark at two, and the operation was going to keep going anyway at the speed of a thing that is not being told what to do.

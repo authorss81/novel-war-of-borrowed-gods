@@ -2,9 +2,9 @@
 
 The order came up on the Spine at ten past nine on Thursday morning with a seal number on it, and under the seal number was a single phrase: *catastrophic progressive structural failure attributable to legacy installation condition*, which is nine words that mean *equipment failed*.
 
-Sable Arden signed it at eleven forty with the door shut, on the evidence she holds, and she is right on the evidence she holds, and everybody in that hall has known that for a month and nobody ever enjoyed it. Hollis Vane entered it into the site file by hand, in the fourth column, in a file that held his own Finding 1, accepted nine days ago with a mechanism that takes nine weeks to clear the desks. He did not remark on that. Joon Park wrote down that nobody had asked him to.
+Sable Arden signed it at eleven forty with the door shut, on the evidence she holds, and she is right on the evidence she holds, and everybody in that hall has known that for a month and nobody ever enjoyed it. Hollis Vane entered it into the site file by hand, in the fourth column, in a file that held his own Finding 1, accepted sixteen days ago with a mechanism that takes nine weeks to clear the desks. He did not remark on that. Joon Park wrote down that nobody had asked him to.
 
-“That figure is not the site’s number and I am not offering it as the site’s number,” Vane said, when he had finished, to nobody. “It is a count of the persons this site produced, and it is a correct count, and it is not the count of the people who were in the ground. Both sentences are now in one file, in two inks, and in four years one of them will be read and the other one will be looked for, and in nineteen years I have never been able to make those two sentences into one sentence and I have stopped trying.”
+“That is not the site’s number and I am not offering it as the site’s number,” Vane said, when he had finished, to nobody. “It is a count of the persons this site produced, and it is a correct count, and it is not the count of the people who were in the ground. Both sentences are now in one file, in two inks, and in four years one of them will be read and the other one will be looked for, and in nineteen years I have never been able to make those two sentences into one sentence and I have stopped trying.”
 
 “Do not let them be consolidated,” Nadi Bell said.
 
@@ -16,7 +16,7 @@ They carried eleven cardboard boxes out of the building between nine and eleven 
 
 Two copies of every measurement, including the eleven meters, the day it changed, and a man's own account of finding out with a cart. Every patient name in Lena Mir's hand, including Perpetua Oyelaran's and the man who died on Sunday, whose card on the wall says *he was alive when he came through*. Every survey frame, including three that were never printed. The nine-line disclosure and the nine-line arithmetic, both in Tomas Vale's handwriting. The refusal log, complete. And a sheet with eleven words on it, a relay stamp seen twice, and a line saying the meaning is not written down.
 
-One of those boxes went out of the city on a bus on the Sunday morning by an ordinary road, on the Chapter 21 precedent, carried by a man who had left for his sister and come back and would not say what was in it and did not have to.
+One of those boxes went out of the city on a bus on the Sunday morning by an ordinary road, carried by a man who had left for his sister and come back and would not say what was in it and did not have to, on the second-week precedent, which is that a man may dictate the exact wording of a thing that is about himself and have it stick.
 
 ---
 
@@ -50,7 +50,7 @@ The line hissed.
 
 Elias did not argue. That is in the log, and the log says it is the only moment in thirty-three days when he was asked for something and took it.
 
-“All right,” he said, “and nobody in my building is going to write it, and I am going to say out loud what I am doing instead, so that it is a thing you know rather than a thing you find out later.” He said it into a handset in the cold. “On the thirty-third day, at four o'clock, a man at the end of eleven meters was asked whether the hall would record him, and he declined, and the hall did not record him, and the seal went on at six, and the reason is in our book with the date on it and no name on it and my name on it and the initials of a nine-year-old who writes down what people do not say.”
+“All right,” he said, “and nobody in my building is going to write it, and I am going to say what I am doing instead, in a place where you can hear it, so that it is a thing you know rather than a thing you find out later.” He said it into a handset in the cold. “On the thirty-third day, at four o'clock, a man at the end of eleven meters was asked whether the hall would record him, and he declined, and the hall did not record him, and the seal went on at six, and the reason is in our book with the date on it and no name on it and my name on it and the initials of a nine-year-old who writes down what people do not say.”
 
 “You are going to write down that I exist,” the man said, in a level voice, “and leave out the only part that would let anybody find me.”
 
@@ -98,7 +98,7 @@ Mara said it faster, because she had been holding it since Tuesday night, and Pe
 
 He put the pen down and said the other half of it to the room, because she had a rule about things being said to a room and not to a person and he was going to observe it.
 
-“My name goes under hers on the board in the morning, and my half is four things I cannot do any more and do not miss. I cannot call a future person. I cannot get back to the woman who lent me a hand on Sunday, and if a voice that sounds like mine comes up out of a corridor tomorrow, the answer is that I am not the person who asks. I cannot make the anchors carry anything. And I cannot turn nineteen people with a function each into an answer to the question the City keeps asking, which is who is in charge of this. The answer is going to keep being *the twenty-two*, and I am going to have to live in a building run by people I have not met.” He put his hand flat on the table. “That is where I am. I cannot reach anybody from here and never could, and the difference is that I know it now in a sentence I can say out loud.”
+“My name goes under hers on the board in the morning, and my half is four things I cannot do any more and do not miss. I cannot call a future person. I cannot get back to the woman who lent me a hand on Sunday, and if a voice that sounds like mine comes up out of a corridor tomorrow, the answer is that I am not the person who asks. I cannot make the anchors carry anything. And I cannot turn nineteen people with a function each into an answer to the question the City keeps asking, which is who is in charge of this. The answer is going to keep being *the twenty-two*, and I am going to have to live in a building run by people I have not met.” He put his hand flat on the table. “That is where I am. I cannot reach anybody from here and never could, and the difference is that I know it now in a sentence I can say in a room.”
 
 Mara looked at him for a while.
 
@@ -118,7 +118,7 @@ He wrote the notebook up at half past nine, at the table, with the lamp. He wrot
 
 And then, on the same page, beneath the signal, in ballpoint, he wrote the name of a man who came out of a chamber under Kestrel Station on the thirtieth day at twenty minutes past nine in the evening, on a board carried the length of a corridor by four people, and who said his own name twice — once into Lena Mir's ear and once to nobody in particular — and who was fifty-eight and weighed fifty-one pounds.
 
-There is no line for her in the classification that went up this morning, because an equipment failure does not carry passengers. There is no field for her in the four columns of the aisle ledger and no row in the sealed node. The Civic Spine terminal in the records room on Ash Street, which has been on since Monday, will not find her name, and neither will the Office's.
+There is no line for him in the classification that went up this morning, because an equipment failure does not carry passengers. There is no field for him in the four columns of the aisle ledger and no row in the sealed node. The Civic Spine terminal in the records room on Ash Street, which has been on since Monday, will not find his name, and neither will the Office's.
 
 The name is in ink, on paper, in a book, on a page beneath a signal from a woman under the water. The envelope is in the front of the notebook under that page, and it is not sent, and the reason under it is not a survey any more and it is not a night of somebody's feet in a ring on Calder Street. It is four words. *The road is sealed.*
 
@@ -134,13 +134,13 @@ He stood up. Nobody else stood up, and that is in the log, and Joon Park wrote t
 
 “Elias Rook. You will be asked for a great many reasonable things over the next while. Here is the one that matters. Promise me that you will not force a future person to answer when that future person says no.”
 
-Elias stood in a hall with twenty-eight people in it and a lamp by the door, and behind him were four things signed on a wall, and the fifth was the one Petar Lisk had written for him in the second week: *he is not the person who asks his own future for anything.*
+Elias stood in a hall with twenty-eight people in it and a lamp by the door, and behind him were four things signed on a wall, and the fourth of the four was the one Petar Lisk had written for him in the third week, on the twenty-first day: *he is not the person who asks his own future for anything.*
 
 And he understood that this had been the trap since the ninth day. A man who had spent thirty-three days learning that a promise is a thing you make before you know the facts had come to the end of a hall where the only door made of words leads into a corridor he cannot walk down, and on the other side of it a man he had never met was asking him to hand over a version of himself who had not been asked.
 
 “I am not going to make that promise,” Elias said.
 
-He said it out loud, in a room with twenty-eight people in it, and then said the other thing, because it was the only true thing available and it was neither an answer nor a refusal.
+He said it in a room with twenty-eight people in it, and then said the other thing, because it was the only true thing available and it was neither an answer nor a refusal.
 
 “I do not know what I will do. I know what I have done thirty-three times. Thirty-four is not mine to give away, and I am not going to hand a man I have never met a promise about a man I am going to be.” He put his right hand flat on the table, because the left one was gone. “And if that is the same as no, then somebody who is not me can write that down.”
 
@@ -150,7 +150,7 @@ Petar Lisk picked up the pencil. His hand was not steady either. He wrote it at 
 
 Nobody else stood up.
 
-And in the records room, on a lamp, there is a page in a paper notebook with a woman's name on it in ballpoint, beneath eleven words from a relay under the water, and there is nowhere in the city to type it in.
+And in the records room, on a lamp, there is a page in a paper notebook with a man’s name on it in ballpoint, beneath eleven words from a relay under the water, and there is nowhere in the city to type it in.
 
 The eleven meters stays eleven meters. The two hundred and ten stays two hundred and ten. One woman stays under Ash Street with her name on a wall. Nine credentials with no names sit in an archive in Cordell that does not answer to Havenport. And a woman on the Meridian is right about all of it, and she is going to keep being right.
 

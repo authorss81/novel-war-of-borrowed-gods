@@ -80,7 +80,7 @@ He put the page down.
 
 Mara filled in the middle line and it took her ninety seconds, and she read it out twice.
 
-*Persons recovered from site to date: four, carried out by this building's crew on the second day. Persons located under this site on the twenty-fifth day: four confirmed, one probable, one unknown, and a heat source of undetermined origin. The machine says nine. The difference is four people.*
+*Persons recovered from site to date: four, carried out by this building's crew on the second day. Persons located under this site on the twenty-fifth day: four confirmed, one probable, one unknown, and one further source that moves. The machine says eight. The difference is a stove and a man who will not lie still.*
 
 “Read the second sentence again,” Joon said, and she did.
 
@@ -92,28 +92,18 @@ Then she took the courier's form and wrote in the last box, in one line, and tur
 
 “What happens to the classification,” Elias said, “when the return carries a sentence.”
 
-“It carries a sentence and a number,” Joon said, “and on Thursday the number is four, and if we go through that wall on Friday or Saturday or Sunday and come out with six, then there is a document in this hall that says four and a chamber that says six, and somebody in an archive in four years is going to sit down with those two numbers and ask which one the hall was told and which one the hall was holding, and I would like it to be on the page that we were told the other one first and wrote it down anyway.”
+“It carries a sentence and a number,” Joon said, “and on Thursday the number recovered is four, and if we go through that wall on Sunday and come out with six of the seven, then there is a document in this hall that says four recovered and a chamber that said seven located, and somebody in an archive in four years is going to sit down with those two numbers and ask which one the hall was told and which one the hall was holding, and I would like it to be on the page that we were told the other one first and wrote it down anyway.”
 
 He wrote that down too.
 
 ---
 
-The plan that came out of the room at four in the afternoon was not a rescue, and Petar Lisk wrote the difference on the board at seven in his own capitals because nobody else had said it out loud.
+The plan that came out of the room at four in the afternoon was not a rescue, and Petar Lisk wrote the difference on the board at seven in his own capitals because nobody else had said it in a room.
 
 **A PLAN HAS A TIME ON IT. A RESCUE HAS A PERSON ON IT.**
 
-Five domains, and each of them said its own piece and nobody else's, and the pieces did not fit and they wrote it anyway.
+Five domains were named in that room before anybody went to bed, and each of them said its own piece and nobody else's, and the pieces did not fit, and the room ran out of evening before it fit them, which was the first honest thing that had happened to any of it all week.
 
-Tomas took the ground: the brick lining at nine-two is a wall somebody built, and it is a wall and not a fault, and the only way seven people come out of that chamber is a hole in it, and the hole has to be a person wide, and the chain says the survey stops at nine and a half and a hole is not a survey. **And the ground above the chamber is the ground with the 2038 pour in it at thirty-eight centimeters, and his number stands, and the 2031 contractor survey puts two hundred and ten meters of migrating void somewhere under this street, and nobody has ever been told where.**
-
-Mara took the person: she will not write a protocol, she will not write a survival window, and she will be the physician at the mouth, and what happens to a person between the chamber and the street she decides in the corridor, out loud, one at a time, and it is not written down first.
-
-Inez took the power: the instruments are a carded draw until eleven, the hall is dark at two, and if the operation is still running at two then the hall is dark at two, and she is not moving the dark hours, and the hall has four carded draws a day and a carded draw is somebody's lamp.
-
-Joon took the record: two copies, one in the hall and one that goes out of the hall on Sunday on a bus by an ordinary road, and the second copy is not in this building and he has not said where and is not going to.
-
-Elias took the rope.
-
-The specific obstacle was on the board at four in the afternoon and it was six words and Petar wrote them and they were the only six words nobody in the room could argue with.
+The obstacle was on the board at four in the afternoon and it was six words and Petar wrote them and they were the only six words nobody in the room could argue with.
 
 **THE WALL IS THE ONLY WAY IN.**

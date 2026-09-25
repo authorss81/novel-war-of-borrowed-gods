@@ -12,17 +12,21 @@ The first person through was the small one, and she came the whole six meters on
 
 She was about eleven. She had been on that floor for twenty-five days, and Lena Mir had her on a table inside four minutes, and the girl was alive. The second came at twenty to nine and could not stand and cried the whole way. The third at ten past ten. The fourth at twenty past twelve, which was six hours, and there were three left.
 
+Petar Lisk read the board at noon and read it again at ten past one, because Emil Baros's plan has two triggers and says it ends at six in the morning or when the fourth person is through the wall, whichever comes first, and nobody had been watching either of them. The first one had gone at ten minutes to six that morning while four men were still getting a door frame out of the back of a truck, and the second one had gone fifty minutes ago while a man was lying in a corridor with a blanket on him.
+
+**PLAN EXPIRED 0600. NOTICED 1310. WE ARE NOT STOPPING. SOMEBODY HAS TO WRITE A NEW ONE AND NONE OF US IS GOING TO.**
+
 Mara did the triage one at a time in the corridor, out loud, and it is in Lena Mir's ward page in plain sentences, and there is no protocol and no order, and nobody in this building has ever been proud of anything more.
 
 At ten past one the fourth person stopped being a person the room was working on and became a name in a line in a corridor, and Mara said it out loud with the room standing there, because that is how she does it.
 
-“He is forty-one. He came through at 12:20 and he died at 13:10 in this building with a blanket on him and me in the room, and he was not the worst of the four we brought out yesterday, and I want that said before anybody in this room starts deciding that it was. I am not going to say a thing about it now. I am going to say the whole of it on Tuesday when I have slept, and everybody who wants to be in that room on Tuesday is welcome.”
+“He is forty-one. He came through at 12:20 and he died at 13:10 in this building with a blanket on him and me in the room, and he was not the worst of the four we brought out this morning, and I want that said before anybody in this room starts deciding that it was. I am not going to say a thing about it now. I am going to say the whole of it on Tuesday when I have slept, and everybody who wants to be in that room on Tuesday is welcome.”
 
 The girl’s name was **Sena Ambrose**, and Lena Mir had it from her own mouth in four minutes. The second was **Othman Bak**. The third was **Halvard Renn**. Three were still under the floor, and Lena Mir has all three of their names on the page, and the room has not read it and the room is not going to tonight.
 
 ---
 
-The offer came at eight minutes past four in the afternoon, on the first day of the wall, six hours after the fifth person came through it and three hours after he died.
+The offer came at eight minutes past four in the afternoon, on the first day of the wall, six hours after the third person came through it and three hours after he died.
 
 ```text
 Loan offered: Mara Okafor, twenty-one years ahead
@@ -46,13 +50,13 @@ Mara said, “Say the four.”
 
 ---
 
-He did not ask a person. He said it out loud in a room with eleven people in it, which is the only channel available to a man near a seam, and what he said was a question, and the room heard the shape of it before the words finished.
+He did not ask a person. He said it in a room with eleven people in it, which is the only channel available to a man near a seam, and what he said was a question, and the room heard the shape of it before the words finished.
 
 “Mara. Twenty-one years. The boundary says one body, and I want to know whether the boundary holds for a second one, and I am asking that before I move anybody and not after, and I am not accepting anything while I ask it.”
 
 “Do not ask that,” present Mara said.
 
-She was standing up. She had been up for nineteen hours.
+She was standing up. She had been up since five that morning.
 
 “You refused it and then you asked, and I have thought about it for four hours and I am not going to accuse you of wanting it. Here is the cost and it is mine. In three weeks somebody will describe this week and they will be able to say that a hand was available on Sunday afternoon for the price of one question, and the question was asked, and the answer was no, and we went back to a camera on a pole and a board and four hands for eleven hours.” She did not raise her voice. “And the man who died at ten past one died before you asked anything, and I want that in the record as well, because in a month somebody will try to make those two things into one thing and they are not one thing. The sentence I have to live with is not that a future person could have saved him. It is that the first time in this month a future person withdrew instead of giving, it was because of something *we* did, and I do not know what to do with a future person who is obedient except for one question, and I do not know what to do with us.”
 
@@ -72,19 +76,17 @@ Nadi Bell said, “Put the question in the record, and put mine on top of it. I 
 
 ---
 
-The answer came at eleven minutes past five and it was four fields, and Joon read them out in a room where four people were asleep in a ward and a fifth person was in a corridor.
+The answer came at eleven minutes past five and it was four fields, and Joon had the room inside ninety seconds again and read it twice, and the second time he read it with the finger on the second field.
 
-```text
-Boundary: One body.
-Return: When the fourth person is through the wall.
-No answer.
-```
+The first was the return, word for word. The second was the boundary, word for word. The third was empty. The fourth was two words.
+
+*No answer.*
 
 “That is not a no,” Doss said.
 
 “That is a no with a condition on the no,” Joon said, “and I want it read the way it is written. It did not say *no*. It said *ask me about a second one and you will not get an answer*, and then it came back with *one body* and *no answer*, and the second field is the boundary coming back unchanged and the fourth field is the offer going away. So the answer to your question is no, and the cost of the no is the offer, and the cost of the offer was forty minutes on a body that has been down there for twenty-five days and that Lena Mir is currently holding together with heat and a plastic bag of saline and her hands.”
 
-Joon read it back from the terminal and wrote it in the log and read the log back, which is what he does.
+Joon read it back from the terminal and wrote it in the log and read the log back to a room where four people were asleep in a ward and a fifth person was in a corridor.
 
 “No loan offered by this hall. No capacity taken. No boundary stretched, and I want that last clause in a different ink, because the reason the boundary was not stretched is that stretching it would have required asking, and the asking is what ended it. One question was asked, in a room, with witnesses, by a man who had already refused in the same hour. The return condition was not invoked, because there was nothing to invoke. **The offer expired in answer to the question, and the question is on the page and the answer is on the page, and neither of them is the refusal, and all three of them are the record.**”
 
@@ -106,18 +108,16 @@ Ansel Duarte, from the frame, said, “You did not need me for that one.”
 
 ---
 
-There was no rope, no shoring and nothing borrowed. A thermal camera on a pole, a lamp on a car battery, a hand line through a hole a mason cut in forty minutes that will not take anybody's weight, and a board carried the length of a corridor by people who could not carry anything else.
+There was one rope pair on the whole street and it was on the board, and there was one man on this side of the hole with permission to put a tool in the ground, and there was nothing borrowed from anybody who was not in the building. A thermal camera on a pole, a lamp on a car battery, a hand line through a hole a mason cut in forty minutes that will not take anybody's weight, and a board carried the length of a corridor by people who could not carry anything else.
 
-Tomas shored the chamber's near face with four jacks and two lengths of scaffold and a piece of road plate, on a number of his own that he wrote on the wall in front of nine people: *anything that moves at the mouth of this hole moves toward the apron*. The apron has the 2038 pour in it, and everybody understood the sentence and nobody asked him to say it twice.
+Tomas shored the chamber's near face with four jacks and two lengths of scaffold and a piece of road plate, on a number of his own that he wrote on the wall where anybody at the lip could read it: *anything that moves at the mouth of this hole moves toward the apron*. The apron has the 2038 pour in it, and everybody understood the sentence and nobody asked him to say it twice.
 
-The route kept the group together, and keeping them together meant moving them in the order the camera could see them, and that order put the sixth person last.
+The route kept the group together, and keeping them together meant moving them in the order the camera could see them, and that order put the man who was sitting up last.
 
 Eleven hours. Two hundred and six hands on a board in the log.
 
-And at twenty past nine on Sunday night, in a corridor, with the logbook on a crate, Mara Okafor said the sentence that was the real cost and then went back to work for four hours and did not say another word to him for two days.
-
-“You refused it and then you asked, and I have thought about it for four hours and I am not going to accuse you of wanting it. Here is the cost and it is mine. In three weeks somebody will describe this week and they will be able to say that a hand was available on Sunday afternoon for the price of one question, and the question was asked, and the answer was no, and we went back to a camera on a pole and a board and four hands for eleven hours.” She did not raise her voice. “And the man who died at ten past one died before you asked anything, and I want that in the record as well, because in a month somebody will try to make those two things into one thing and they are not one thing. The sentence I have to live with is not that a future person could have saved him. It is that the first time in this month a future person withdrew instead of giving, it was because of something *we* did, and I do not know what to do with a future person who is obedient except for one question, and I do not know what to do with us.”
+And at twenty past nine on Sunday night, in a corridor, with the logbook on a crate, Mara Okafor said the rest of it, and then went back to work for four hours and did not say another word to him for two days.
 
 Then she said the other thing, and it was the only thing she said for four hours.
 
-“The sixth person goes at first light. Go and sleep. You are no use to that corridor at four in the morning and neither is your hand.”
+“The fifth goes as soon as the pair from the regional pool is on the street, and it is not going to be tomorrow morning, and I would rather tell you that at nine o'clock on a Sunday than have you find it out at two o'clock on a Monday. Go and sleep. You are no use to that corridor at four in the morning and neither is your hand.”

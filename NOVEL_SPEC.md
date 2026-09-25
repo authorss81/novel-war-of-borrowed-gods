@@ -15,5 +15,9 @@ A modern disaster responder borrows power from future versions of people, and ev
 He prevents the war without erasing the futures that gave him power.
 
 ## Status
-Bootstrap and outline phases are complete: the bible, series outline, ending outline, Volume 01 outline, and the Batch 0001–0003 chapter cards exist. Volume 01 Batches 0001 and 0002 are written as finished prose (Chapters 1–20) and have been audited, and `workspace/volume-01/batch-0003/PROMPT.md` holds the next assignment (Chapters 21–30), with the same cards in canonical form at `outline/batches/volume-01-batch-0003.md`. Rolling state lives in `state/`; the batch audits are at `reviews/volume-01/batch-0001.md` and `reviews/volume-01/batch-0002.md`.
+**Volume 01 is complete.** Bootstrap and the outline phase are done: the bible, the series outline, the ending outline, the Volume 01 outline, and the Batch 0001, 0002, 0003 and 0005 chapter cards exist at `outline/batches/`. All five prose batches of Volume 01 are written as finished prose — **Chapters 1–50** — and each has a batch summary under `workspace/volume-01/batch-000*/SUMMARY.md`. Rolling state lives in `state/`; the batch audits are at `reviews/volume-01/`.
+
+**The next assignment is the Volume 02 prompt and it lives in one file only: `workspace/volume-01/volume-close/PROMPT.md`, for Chapters 51–100, *The Quiet Registry*. There is no `batch-0006` and none should be created.** Volume 01 ends with Kestrel sealed and classified as an equipment failure, one named person still under Ash Street, one man behind a wall who asked not to be recorded and was not, no loan accepted anywhere in the volume, and a question written on a board by a nine-year-old: who edited the Kestrel response record, and what catastrophe does the Continuity Office believe a single approved outcome would prevent?
+
+**Known documentation gaps, recorded rather than papered over:** `outline/batches/volume-01-batch-0004.md` is missing even though Batch 0004 was written, reviewed and completed; `reviews/volume-01/batch-0003.md` is missing because the review phase skipped that batch. Both are logged in `state/current.md`.
 
