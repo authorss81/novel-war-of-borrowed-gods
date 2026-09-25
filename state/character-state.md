@@ -20,7 +20,7 @@
 
 - **Status:** Missing and not extracted. Her direct pre-collapse alarm and later present-day branch-crossed signal prove voice and agency, not location, safety, or desire to return.
 - **Active want within the evidence:** Warn Elias that the north stair is a branch, preserve a route or record, and make people who are erased by official histories remain witnessable. Her exact present objective remains unknown.
-- **Relationship pressure:** Elias’s written response promises to hear her without making her choice for her. The next batches must not turn the signal into a convenient command or retrieval proof.
+- **Relationship pressure:** Elias wrote a reply to her signal, withheld sending it, and sealed it in an envelope marked for filing only with receiver confirmation. It promises to hear her without making her choice for him. No one, including Nell, has received it, and the next batches must not turn the signal into a convenient command or retrieval proof.
 
 ## Tomas Vale
 

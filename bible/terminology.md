@@ -149,6 +149,7 @@ A possible Elias gift that forces emergency actions across an anchor network to 
 The interface may use short headings such as:
 
 - **Loan offered**
+- **Gift name**
 - **Gift**
 - **Boundary**
 - **Return**

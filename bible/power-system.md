@@ -14,6 +14,7 @@ When the emergency network can carry a safe exchange, the borrower receives a sh
 
 ```text
 Loan offered: Mara Okafor, seventeen years ahead
+Gift name: Still Hand
 Gift: Keep one breath from failing while the body is repaired.
 Boundary: Do not use my hand to kill. Do not use my hand to abandon a person.
 Return: When the third wheel stops turning.
@@ -22,6 +23,7 @@ Return: When the third wheel stops turning.
 The fields mean:
 
 - **Loan offered:** The future person is the source, not an item or title.
+- **Gift name:** The conventional name the lending practice already uses for this capacity, when one exists. It is a label for the record, not a title, rank, or source of extra power. It may be absent.
 - **Gift:** The exact capacity being lent. It never expands silently.
 - **Boundary:** A present condition the future person sets. The current borrower must honor it.
 - **Return:** A concrete event, action, or state the future person needs in order to remain a willing participant. It is not a timer written by a game system.

@@ -6,6 +6,18 @@ Write **Chapters 11–20** of *The War of Borrowed Gods* as complete finished sc
 
 The previous batch is canon. Do not restart, summarize, or rewrite Chapters 1–10. Use the immediate chapters for voice and the summaries/state for long-range memory. Do not edit controller files, workflows, or `state/phase-ledger.json`.
 
+### Beats already played in Chapters 1–10 — advance, do not replay
+
+These are canon, not new discoveries for this batch. Each card below must start from the established state and push it forward:
+
+- the Civic Spine’s `CAR 3 PASSENGER LOAD: 0` report against the physical paper count of twenty-three (Chapters 4 and 9);
+- Nadi Bell’s sister, the pre-collapse west-apron shuttle number, and the Bell family row missing from the current digital response list (Chapter 9);
+- the second author code `MNT-4C-17` copied under two signatures with the question who entered the route before the collapse (Chapter 10);
+- future Mara’s refusal to reopen the completed one-body loan (Chapter 9);
+- Elias’s unsent reply to Nell, sealed in an envelope pending receiver confirmation (Chapter 10).
+
+The Still Hand’s conventional name is established in Chapter 2’s offer panel and may be used freely.
+
 ## Batch goal
 
 **The Map Under Dispute:** The team must protect the names and testimony of the twenty-three rescued people, compare the physical route with the Civic Spine index, and build enough honest evidence to decide whether a controlled re-entry is possible. The central conflict is not whether uncertainty feels frightening; it is who gets to decide which contradictory account may become the official one.
@@ -28,6 +40,8 @@ By the end of this batch:
 
 Alternate pressure: survivor care, record investigation, local political argument, recovery, physical survey, and relationship consequence. Give the batch a midpoint around Chapters 15–16 and a climax around Chapters 19–20. Do not make every chapter a fight or a System notice. Let the team disagree about evidence, timing, and acceptable risk. Every chapter must change a practical or emotional situation and end with a decision, discovery, cost, or concrete next question rather than a manufactured interruption.
 
+Aim for roughly 2,200–3,200 words in an ordinary chapter and allow a shorter chapter for a compact reversal. Never pad a finished scene to reach a number.
+
 Use at most one short interface notice in a chapter, and only when it is necessary. Plain language is preferred. A future voice may warn, refuse, or refuse an extension, but **no new loan is accepted in this batch**. If a possible voice is heard, it must have a branch-specific want, a reason for answering, a boundary, and a consequence for refusing. Do not turn a refusal into a malfunction or force a retry merely because the team wants a shortcut.
 
 ## Chapter-by-chapter direction
@@ -42,7 +56,7 @@ Use the refuge table to compare the paper map, measurements, survivor memories, 
 
 ### Chapter 13 — MNT-4C-17
 
-Inspect the 05:17 route entry and identify `MNT-4C-17` as an internal maintenance credential rather than a Civic Spine author record. Tomas should recognize the format or its era without claiming to know the owner. Goal: learn what the second field could have authorized. Resistance: missing paper, copied credentials, a damaged relay, and Joon’s fear of turning suspicion into a public accusation. Turn: the code predates the collapse and points to someone or some system that touched the route before the public alarm. Do not identify Elias, Tomas, Sable, Nell, or a faction. End with the code copied into a duplicate ledger and a bounded question about who held the credential.
+Continue from Chapter 10, where Joon copied `MNT-4C-17` under two signatures and wrote the question **WHO ENTERED THE ROUTE BEFORE THE COLLAPSE?** The code has already been surfaced and preserved; this chapter investigates it and must not stage a second discovery scene or re-reveal the code. Inspect the 05:17 route entry and establish that `MNT-4C-17` is an internal maintenance credential rather than a Civic Spine author record. Tomas should recognize the format or its era without claiming to know the owner. Goal: learn what the second field could have authorized. Resistance: missing paper, copied credentials, a damaged relay, and Joon’s fear of turning suspicion into a public accusation. Turn: the code predates the collapse and points to someone or some system that touched the route before the public alarm. Do not identify Elias, Tomas, Sable, Nell, or a faction. End with the code copied into a duplicate ledger and a bounded question about who held the credential.
 
 ### Chapter 14 — The Form That Was Ready
 
@@ -54,7 +68,7 @@ Bring Inez and the Cinder Quarter residents into the re-entry discussion. Goal: 
 
 ### Chapter 16 — The Bell Row
 
-Continue survivor and family contact work. Nadi gives Joon the family contact and pre-collapse shuttle number; he finds the Bell family on paper but not in the current digital response list. Goal: confirm whether a relative can be reached without exposing Nadi’s group to the Office or an unlicensed broker. Resistance: phone and transit systems route through the Civic Spine, a relative refuses to believe the official list, and Nadi refuses to have her name made into proof of a larger theory. Turn: the family contact confirms that a Bell relative remembers Nadi and the shuttle, but cannot explain who removed the digital row. End with Joon preserving the discrepancy and Elias recognizing that a missing record is a civic injury, not merely a puzzle.
+Continue from Chapter 9, where Nadi already gave Joon her sister’s contact and the pre-collapse west-apron shuttle number, and the paper manifest’s Bell row was found to be missing from the current digital response list. Both facts are established canon; do not stage the handover or the discovery again. This chapter is the consequence: the team tries to reach the relative through phone and transit systems that route through the Civic Spine, and an unlicensed broker offers to restore the row, sell a workaround, or move Nadi’s group through a branch route in exchange for using them as anchors. Goal: confirm a living relative remembers Nadi and the shuttle without exposing her group to the Office or to a broker. Resistance: routed calls, a relative who refuses to believe the official list, Nadi’s refusal to have her name made into proof of a larger theory, and a broker who is polite, useful, and dangerous. Turn: the relative confirms the family and the shuttle from memory; the broker is refused; the digital row stays missing and the discrepancy stays documented. End with Joon preserving both records and Elias recognizing that a missing record is a civic injury, not merely a puzzle.
 
 ### Chapter 17 — The Same Relay
 
@@ -62,7 +76,7 @@ Tomas admits, in a private but consequential conversation, that the 2034 Kestrel
 
 ### Chapter 18 — The Deeper Heat
 
-Conduct a limited thermal and structural survey toward the two deeper heat signatures. Goal: locate enough evidence to decide whether people remain alive without reopening the altered service-door route. Resistance: smoke, water, unstable concrete, contradictory readings, the Office’s single-route instruction, and no active Still Hand. If a future voice answers a request for extension, let the refusal be deliberate and complete; do not accept a gift or let the refusal be retried as a workaround. Turn: the team finds evidence of possible human presence or a changed route but cannot safely reach it in this survey. End with a choice between preserving the refuge and preparing a controlled entry.
+Conduct a limited thermal and structural survey toward the two deeper heat signatures. Goal: locate enough evidence to decide whether people remain alive without reopening the altered service-door route. Resistance: smoke, water, unstable concrete, contradictory readings, the Office’s single-route instruction, and no active Still Hand. If a future voice answers, it must not be future Mara repeating the Chapter 9 one-body refusal; give any answering voice its own branch-specific want, reason for answering, boundary, and consequence for refusing. Do not accept a gift and do not let a refusal be retried as a workaround. Turn: the team finds evidence of possible human presence or a changed route but cannot safely reach it in this survey. End with a choice between preserving the refuge and preparing a controlled entry.
 
 ### Chapter 19 — The Seal at the Gate
 

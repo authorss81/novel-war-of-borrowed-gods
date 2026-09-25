@@ -15,4 +15,4 @@ A modern disaster responder borrows power from future versions of people, and ev
 He prevents the war without erasing the futures that gave him power.
 
 ## Status
-Scaffold pushed. No novel prose has been generated yet. The bootstrap phase must create the bible, series outline, ending outline, and first batch cards.
+Bootstrap and outline phases are complete: the bible, series outline, ending outline, Volume 01 outline, and the Batch 0001 chapter cards exist. Volume 01 Batch 0001 is written as finished prose (Chapters 1–10), and `workspace/volume-01/batch-0002/PROMPT.md` holds the next assignment (Chapters 11–20). Rolling state lives in `state/`; the batch audit is at `reviews/volume-01/batch-0001.md`.

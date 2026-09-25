@@ -166,7 +166,7 @@ It was not absolution. Tomas gave him a small nod and turned back to the support
 
 The refuge lights flickered as Inez’s generators took the load. Mara ordered the new patients onto mats. Joon placed the paper count under the battery lamp and wrote the Civic Spine’s response beneath it: **CAR 3 PASSENGER LOAD: 0**.
 
-Twenty-three people were breathing behind the orange mesh. The terminal said none of them had been there.
+Twenty-three people were breathing behind the orange mesh. Fifteen of them had ridden in Car 3, and seven had never been inside it at all. The terminal had room for one number, and it had chosen zero.
 
 Elias set his palm beside the number, feeling the heat of the lamp. His left hand still did not know if it was touching anything.
 

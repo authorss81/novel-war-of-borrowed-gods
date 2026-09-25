@@ -106,7 +106,7 @@ Rafi pulled him through.
 
 “Clear,” Elias said.
 
-The last two passengers came through. Joon’s count came over the radio, each name clipped in his dispatcher’s clean cadence. Fourteen had crossed. Tarin made fifteen.
+The last two passengers came through. Joon’s count came over the radio, each name clipped in his dispatcher’s clean cadence. He had read Tarin Voss first, wheeled out ahead of everyone on the trolley, and he stopped at fifteen.
 
 The door narrowed again without a slam. The remaining light became a dark seam, then a black line between two concrete faces. One handle vanished. The other remained, polished and ordinary, hanging in a frame that seemed to have shifted deeper into the wall.
 

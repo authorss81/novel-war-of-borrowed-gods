@@ -22,7 +22,7 @@
 
 ## Still Hand lock and aftermath
 
-- The first loan is future Mara’s bounded **Still Hand**: keep one named living body, Tarin Voss, from failing while present Mara repairs him. It cannot heal, resurrect, protect Elias from crushing force, or solve the tunnel.
+- The first loan is future Mara’s bounded **Still Hand**: keep one named living body, Tarin Voss, from failing while present Mara repairs him. It cannot heal, resurrect, protect Elias from crushing force, or solve the tunnel. The Chapter 2 offer names the gift in a **Gift name** field beside the lender, so later chapters may use the term **Still Hand** without reintroducing it.
 - Elias disclosed the offer, target, boundary, and return before acceptance. Present Mara consented to ordinary emergency treatment and her own repair work under emergency rules, explicitly not on behalf of future Mara. Tarin was unresponsive at the time; his later waking comments occur in Chapter 4 and do not create retroactive consent.
 - Future Mara’s branch-specific reason is a rescue in which a living person was left behind while a cleaner route was pursued. Her boundary forbids killing, forced treatment, and abandonment. The third maintenance wheel is the concrete automatic return trigger.
 - Chapters 2–6 are one linked Kestrel operation tied to the active seam and the powered maintenance trolley. The Still Hand fades when the third wheel stops; Elias cannot voluntarily release, extend, or renew it. Chapter 6’s withdrawal is automatic, not a failure or a bargain.
@@ -34,7 +34,7 @@
 
 - The present Mara’s consent covers present treatment and repair, not future Mara’s capacity. Elias’s Chapter 4 incomplete disclosure is a failure to explain the branch-memory effect, not a secret acceptance. The team records the offer, boundary, return, refusal, target, and uncertain perceptual aftermath.
 - The possible-Elias voice appears live from the altered wall at the end of Chapter 6 and in raw relay audio in Chapter 7. It warns Elias not to make the map agree and wants contradictory paper/audio evidence preserved. It offers no gift, route command, identity, or proof of a faction. It is not Elias Forty-Seven and is not identified as the Returning Hand in Volume 01. Elias tells it he will not use it as proof; the raw file remains preserved.
-- Nell’s clipped transmission is a present-day, branch-crossed signal carrying her present voice and a rail engineer’s code. It is not a future Nell echo, not a pre-collapse recording, not a safe location, and not proof that she wants extraction. The pre-collapse analog route entry is a separate source and does not establish her exact location or intent.
+- Nell’s clipped transmission is a present-day, branch-crossed signal carrying her present voice and a rail engineer’s code. It is not a future Nell echo, not a pre-collapse recording, not a safe location, and not proof that she wants extraction. The pre-collapse analog route entry is a separate source and does not establish her exact location or intent. In Chapter 10 Elias writes a reply, tears out the page, and does not send it; the note is sealed in an envelope marked **KESTREL / DO NOT FILE WITHOUT RECEIVER CONFIRMATION** and has reached no one. Later batches may show him considering sending it, but must not treat Nell as having received or answered it.
 - No one is used as an anchor without knowing the risk. Inez’s refuge records resident consent, refusal, and withdrawal; it is not a shared-load circuit or a new power stage.
 
 ## Record and handoff clues

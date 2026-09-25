@@ -46,6 +46,7 @@ A Civic Spine display flickered awake at the triage station. Plain text assemble
 
 ```text
 Loan offered: Mara Okafor, seventeen years ahead
+Gift name: Still Hand
 Gift: Keep one breath from failing while the body is repaired.
 Boundary: Do not use my hand to kill. Do not use my hand to abandon a person.
 Return: When the third wheel stops turning.
@@ -55,7 +56,7 @@ The words did not appear on every screen. They appeared on Elias’s wrist displ
 
 “I only have half the offer,” he said. “Relay’s cutting it apart.”
 
-“That is the whole offer.” Elias read every line aloud. His voice sounded strange in his own ears. “It names Mara Okafor as the lender. The gift is limited to keeping one body from failing while the body is repaired. The boundary forbids killing or abandonment. The return is when the third wheel on that maintenance trolley stops turning.”
+“That is the whole offer.” Elias read every line aloud. His voice sounded strange in his own ears. “It names Mara Okafor as the lender and calls the gift a Still Hand: keep one body from failing while the body is repaired. The boundary forbids killing or abandonment. The return is when the third wheel on that maintenance trolley stops turning.”
 
 Mara looked at him. “Repeat the last part.”
 

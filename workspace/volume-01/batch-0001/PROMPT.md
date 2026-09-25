@@ -1,3 +1,9 @@
+> **Status: COMPLETE.** Chapters 1–10 are finished prose and canon, the rolling state files are updated, and the next assignment is `workspace/volume-01/batch-0002/PROMPT.md`. The batch audit is at `reviews/volume-01/batch-0001.md`.
+>
+> If this prompt is dispatched again, do not write or rewrite chapter prose. Confirm the completed status in `state/current.md` and stop.
+>
+> `.done` / `.blocked` markers are controller-owned. A writer never creates them.
+
 Read AGENTS.md, NOVEL_SPEC.md, the series ending, Volume 01, the current batch outline, and the state files. This is the first batch, so no previous chapters exist yet. Use the bible and rolling state as the long-term memory.
 
 Write Chapters 1–10 as complete finished scenes. Follow the chapter cards. Do not create an outline in place of prose. Keep the protagonist capable but not instantly overpowered. Give every chapter a changed situation, emotional or practical consequence, and an earned ending pull.
