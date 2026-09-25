@@ -16,15 +16,17 @@ The answer did not make the door safe. It made the person who had called part of
 
 Elias moved down the line checking hands, feet, and the ability to follow a simple instruction. A medic stopped him when he reached for the next person.
 
-“Your left grip is gone,” she said. “Let me test the other one.”
+“Your left grip is gone,” she said. “Give me the right.”
 
-“It is fine.”
+He held his hand out flat. “It is fine.”
 
-She put a capped pen in his right hand. He dropped it.
+She pressed a capped pen into his palm and told him to close his fingers. He closed them. Nothing dropped.
 
-“Fine enough to climb stairs,” she said. “Not fine enough to pretend.”
+She took the pen back, set it in his left hand, and let go of his wrist. It fell and rolled off the ramp. He did not feel it leave his fingers.
 
-He put the pen in his pocket instead of arguing. Beyond the triage barrier, Joon sat beneath a temporary canopy with two battery radios, a portable printer, and paper maps spread across a milk crate. The civic terminal beside him showed a clean incident page: **STRUCTURAL ANOMALY / CONTAINMENT IN PROGRESS**.
+“The right is fine enough to climb stairs,” she said. “The left is not fine enough to pretend. Say out loud when it goes, and somebody else takes the job.”
+
+He picked the pen up with his right hand and put it in his pocket instead of arguing. Beyond the triage barrier, Joon sat beneath a temporary canopy with two battery radios, a portable printer, and paper maps spread across a milk crate. The civic terminal beside him showed a clean incident page: **STRUCTURAL ANOMALY / CONTAINMENT IN PROGRESS**.
 
 Elias took the paper manifest from Joon’s hand.
 
@@ -52,9 +54,9 @@ He handed the page to Joon. “Copy this before the terminal refreshes.”
 
 Joon looked at the left hand. “You are not writing anything else without someone checking your grip.”
 
-“Write with your left hand.”
+“Say when it goes.”
 
-“I do. I also wrote the date, the train number, and my name. This is the part where you stop arguing.”
+“I already did. I also wrote the date, the train number, and my name. This is the part where you stop arguing.”
 
 Elias almost smiled. Instead, he looked back at the service door. The ramp opened onto a broad wall of station concrete. No door marked **CAR 3 SERVICE** existed there. Two holes in the wall at shoulder height had been painted over years ago. The threshold was solid. The last Group A survivor had crossed it while the emergency lights made the concrete behind him look thin.
 

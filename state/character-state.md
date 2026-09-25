@@ -3,7 +3,7 @@
 ## Elias Rook
 
 - **External position:** Havenport Rescue Service field technician; Stage 1: First Witness after the completed Kestrel Still Hand loan. No active supernatural capacity remains.
-- **Physical condition:** Left hand has persistent numbness and unreliable fine control. He can work, rig, and observe, but must compensate with his right hand and team support. The branch-memory afterimage is brief and no longer connected to an active loan.
+- **Physical condition:** Left hand has persistent numbness and unreliable fine control. A triage medic's test in Chapter 4 shows the right hand can hold a pen and the left drops one without him feeling it go, and she requires him to announce when the hand fails so someone else can take the job. He can work, rig, and observe, but must compensate with his right hand and team support. The branch-memory afterimage is brief and no longer connected to an active loan.
 - **Emotional position:** He has stopped treating a promise as permission to control every route and has accepted one refusal without forcing it. The loss of the service door, the empty-Car-3 record, and the chance to follow Nell weigh on him; he has not recovered Nell or resolved the seam.
 - **Active want:** Find out what Nell’s branch-crossed signal means without treating it as a retrieval order; identify who used `MNT-4C-17` before the collapse; help decide whether another Kestrel entry is safe.
 - **Working change:** He discloses the offer, boundary, target, return, refusal, and known perceptual cost; delegates movement order, medical priorities, records, and local power. He still reaches for solitary command under pressure, so the change is practiced rather than complete.

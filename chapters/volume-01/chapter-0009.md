@@ -92,7 +92,7 @@ The old maintenance channel opened on the terminal. A route appeared in yellow, 
 
 The route was not a map. It was a possibility.
 
-He looked at Ansel, then at the seven people from the alcove. Nadi’s group had one injured passenger, one cylinder, and a wall that was already changing.
+He looked at Ansel, then past him into the dark of the alcove, where two of the seven were still out of sight. Nadi’s group had one injured passenger, one cylinder, and a wall that was already changing.
 
 Mara called from the gap. “We need the line now.”
 

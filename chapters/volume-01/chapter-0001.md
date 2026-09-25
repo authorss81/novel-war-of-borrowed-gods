@@ -70,7 +70,7 @@ Elias opened them and checked the load path again. The door frame carried weight
 
 He sent the line through the spreader and anchored the spreader against the rail beam. The carriage windows flickered. Behind the glass, a woman in an orange coat lifted her hand. Her mouth opened. No sound came through the radio, but Elias could see the shape of his name.
 
-A second woman stood behind her, close to the rear door. She wore a rescue technician’s orange strip across her chest. Elias did not know her.
+Behind her, close to the rear door, a second figure had both palms flat against the glass. No face showed, and it did not react when he called.
 
 The service door began to open.
 

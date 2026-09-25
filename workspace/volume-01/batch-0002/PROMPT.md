@@ -2,7 +2,9 @@
 
 ## Assignment
 
-Write **Chapters 11–20** of *The War of Borrowed Gods* as complete finished scenes in chapter order. This is the second prose batch of Volume 01, not an outline exercise. Read `AGENTS.md`, `NOVEL_SPEC.md`, `outline/series.md`, `outline/ending.md`, `outline/volume-01.md`, `outline/batches/volume-01-batch-0001.md`, this prompt, Chapters 1–10, `workspace/volume-01/batch-0001/SUMMARY.md`, the rolling state files, the character bible, the power-system bible, and the relevant terminology/world files before drafting.
+Write **Chapters 11–20** of *The War of Borrowed Gods* as complete finished scenes in chapter order. This is the second prose batch of Volume 01, not an outline exercise. Read `AGENTS.md`, `NOVEL_SPEC.md`, `outline/series.md`, `outline/ending.md`, `outline/volume-01.md`, `outline/batches/volume-01-batch-0001.md`, `outline/batches/volume-01-batch-0002.md`, this prompt, Chapters 1–10, `workspace/volume-01/batch-0001/SUMMARY.md`, the rolling state files, the character bible, the power-system bible, and the relevant terminology/world files before drafting.
+
+`outline/batches/volume-01-batch-0002.md` holds the same chapter cards as the section below in canonical card form. The two must agree; if you change a card, change both.
 
 The previous batch is canon. Do not restart, summarize, or rewrite Chapters 1–10. Use the immediate chapters for voice and the summaries/state for long-range memory. Do not edit controller files, workflows, or `state/phase-ledger.json`.
 
@@ -40,7 +42,7 @@ By the end of this batch:
 
 Alternate pressure: survivor care, record investigation, local political argument, recovery, physical survey, and relationship consequence. Give the batch a midpoint around Chapters 15–16 and a climax around Chapters 19–20. Do not make every chapter a fight or a System notice. Let the team disagree about evidence, timing, and acceptable risk. Every chapter must change a practical or emotional situation and end with a decision, discovery, cost, or concrete next question rather than a manufactured interruption.
 
-Aim for roughly 2,200–3,200 words in an ordinary chapter and allow a shorter chapter for a compact reversal. Never pad a finished scene to reach a number.
+Aim for **1,700–2,400 words in an ordinary chapter**, allow a shorter chapter for a compact reversal, and allow a longer one only when a complete scene (a survey, a confrontation, an emotional payoff) cannot honestly be cut shorter. This target is set from the measured Batch 0001 output (1,288–1,948 words per chapter, 16,014 words across ten chapters) and the batch phase timeout, so it is a real budget rather than an aspiration. A finished scene governs length: never pad, never add a paragraph of restatement, and never truncate a beat to hit a number.
 
 Use at most one short interface notice in a chapter, and only when it is necessary. Plain language is preferred. A future voice may warn, refuse, or refuse an extension, but **no new loan is accepted in this batch**. If a possible voice is heard, it must have a branch-specific want, a reason for answering, a boundary, and a consequence for refusing. Do not turn a refusal into a malfunction or force a retry merely because the team wants a shortcut.
 
