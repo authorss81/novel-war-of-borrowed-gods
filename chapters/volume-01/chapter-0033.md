@@ -40,8 +40,6 @@ The third sheet was the license, and she put it on the table face up and did not
 
 “You are going to ask me about that,” Sable said, “so I will answer it. He lodged on Friday night. He had the log and the chain by Saturday morning. I could have refused the application for a defect in the declaration and I did not, and the reason is that the log is the best record of that ground anybody will ever have, and it is in his hands, and it is now in a file with my name on the top of it. If that is corruption I would like to be told which part, and I would like to be told it before the fortieth page, because I have read the first thirty-nine and I have approved all of them.”
 
-
-
 She turned the fourth sheet over.
 
 “I cannot stop him. I want that understood first, because everything after it depends on it. I cannot stop a man from routing people through bad ground. Not with a refusal, because a refusal is a thing a private person does and he is not a private person. Not with a closure, because a closure is a thing the site authority does and the site authority is me, and if I close the classification to a man with a legal right to work in it, I have to close it to the electricians and the gas crew and the four hundred people who use that apron every day, and the classification does not have a shape that lets me do both. So I have done the only instrument available, which is the one Adare told you about on Friday, in a laundrette's worth of better manners than he needed.”
@@ -64,8 +62,6 @@ Consent recorded. Witness recorded. Return recorded. A routing log with a time a
 
 The room went at it for an hour and a half, and the hall did not behave like a room that had been told a no.
 
- that the room had been waiting for and not waiting for.
-
 “Say the thing you actually want to ask for,” Nadi Bell said. “Because you have not asked for anything. In seventeen days you have asked for a notebook, a re-entry, a classification, a signature and a seal, and tonight you have brought me a license I do not want in a building I live in, and nobody hands those out for free at nine o'clock on a Tuesday. So ask.”
 
 Sable put both hands flat on the table, and Elias watched her decide to be honest and thought it might be the first time.
@@ -76,7 +72,7 @@ Sable put both hands flat on the table, and Elias watched her decide to be hones
 
 “Twenty-three. It has been twenty-three since the second day and it has not moved because no person has ever left your building in fifteen days, which I am aware is a sentence with two readings.”
 
-“Twenty-two at four o'clock this afternoon,” Nadi said. “Twenty-two, and it will keep moving, and it is going to move down, because people who get better go and live somewhere, and if your number is the number in your file then every person who walks out of that hall takes a piece of the Kestrel event out of your report, and in ten years this site will read as an event that killed nobody and housed nobody, because the count went down every time somebody got well.”
+“Twenty-two the first time somebody walks out of that door,” Nadi said. “Twenty-two, and it will keep moving, and it is going to move down, because people who get better go and live somewhere, and if your number is the number in your file then every person who walks out of that hall takes a piece of the Kestrel event out of your report, and in ten years this site will read as an event that killed nobody and housed nobody, because the count went down every time somebody got well.”
 
 Nobody in the hall said anything for about a minute.
 

@@ -4,7 +4,7 @@ On Monday morning the notice was still on the terminal, patient, four fields, an
 
 Mara stood up with the ledger closed.
 
-“I am going to say the bad thing first and I am going to say it about a person I am going to refuse to move. There is a second thermal signature at roughly nine meters that has been unconfirmed since the second week and it may be a person and it may be a hot pipe, and the last thermal survey is eight days old, and a person who is alive at nine meters today has had eight days of this.” She put her hand on the table. “There is a road. It is offered by somebody who has walked it. If we do not use it, then at some point I am going to be the physician who watched a road go past a window because of a rule, and I would like that on the record in my own words before anybody else puts it in theirs.”
+“I am going to say the bad thing first and I am going to say it about a person I am going to refuse to move. There is a second thermal signature at roughly nine meters that has been unconfirmed since the fourth day and it may be a person and it may be a hot pipe, and nobody has run a thermal camera down there since, and a person who is alive at nine meters today has had nineteen days of this.” She put her hand on the table. “There is a road. It is offered by somebody who has walked it. If we do not use it, then at some point I am going to be the physician who watched a road go past a window because of a rule, and I would like that on the record in my own words before anybody else puts it in theirs.”
 
 “That is the case for,” Elias said.
 
@@ -18,7 +18,7 @@ The room was quiet, and then Elias Rook stood up and said the thing that was goi
 
 “That is a rescue.”
 
-He said it about himself, out loud, in a hall with forty people in it, and then he put his hand flat on the terminal and kept talking.
+He said it about himself, out loud, in a hall with forty people in it and twenty-two of them living here, and then he put his hand flat on the terminal and kept talking.
 
 “Her sentence, not mine. I am not going down that road to find out what is at the end of it, and I am not putting a name on a document that describes it, and I am not calling it a survey, and I am not accepting it as a loan, and I am not asking her for anything else, and I want all five of those written down separately because four of them are the same thing and one of them is different.”
 
@@ -32,7 +32,7 @@ Ansel Duarte did not look up from the book.
 
 Joon wrote the refusal at ten past ten, and it took four minutes, and then it took twenty because the room would not let him finish it.
 
-**ROUTE DECLINED. 23:14 SUNDAY, OFFER RECEIVED ON A LICENSED BROKER'S BRANCH CIRCUIT, FOUR FIELDS, ONE GIFT NAMED, ONE BOUNDARY, ONE RETURN.**
+**ROUTE DECLINED. 22:14 SUNDAY, OFFER RECEIVED ON A LICENSED BROKER'S BRANCH CIRCUIT, FOUR FIELDS, ONE GIFT NAMED, ONE BOUNDARY, ONE RETURN.**
 
 **NO LOAN OFFERED BY THIS HALL. NO CAPACITY TAKEN. NO BOUNDARY STRETCHED, AMENDED, OR ASKED ABOUT. NOTHING SIGNED BY ANYBODY WHO WAS NOT ASKED.**
 
@@ -46,7 +46,7 @@ And then, because the room had made him say it out loud, the line that Joon Park
 
 Niko Senn was not there. He was on a bus to the east bank with a ticket, on an ordinary road, and he came back at nine in the evening and read it in the dry end standing up, and he said one sentence, which was, “Say *declined* and not *not used*,” and Joon changed it, because Niko Senn had earned that in the second week and the point of a precedent is that it holds when it is inconvenient.
 
-And the envelope was still in the notebook, and on Monday morning a man in this city would have carried a message to his sister for four hundred dollars, and nobody in that hall said so out loud after nine o'clock, because it had been said out loud once, at eleven the night before, in front of witnesses, and it did not need saying again to be true.
+And the envelope was still in the notebook, and on Monday morning a man in this city would have carried a message to his sister for four hundred dollars, and nobody in that hall said so out loud after nine o'clock, because it had been said out loud once, the night before, in front of witnesses, and it did not need saying again to be true.
 
 ---
 

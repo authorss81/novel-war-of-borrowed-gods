@@ -80,7 +80,7 @@ So Elias said it from the bottom of the stairs, to nine people and a man with a 
 
 He said the ring was a load. He said the load was being used to hold a route. He said the people in it had not been told and had signed something about a *group stability arrangement*. He said the number the man with the clipboard was counting was the number of people the route needed and not the number of people who were available. He said the licensed broker was allowed to do this and had a form and had complied with the form. He said the Office could send an observer and had not sent one and was not obliged to on a Thursday, and that the condition in the license is that an observer *may* attend.
 
-He said none of it as an accusation and all of it as information, and he did not once say *get out*, because they were not his and he had learned that in a corridor in April from a boy on a mat.
+He said none of it as an accusation and all of it as information, and he did not once say *get out*, because they were not his and he had learned that in a corridor in May from a boy on a mat.
 
 And the woman who was very kind asked, from the top of the stairs, in a voice that carried perfectly, “What would you do instead, if you were us.”
 

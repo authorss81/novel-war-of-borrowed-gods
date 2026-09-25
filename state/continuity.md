@@ -185,7 +185,7 @@ The Office's daily return for a designated site demands a **count of persons pre
 
 **The Office's population-of-record ask is still open** and is paired with the offer of a named, publishable, unannounced Office observer on the Quarter's street and on any carded draw. It is the volume's genuinely ambiguous institutional offer and it is unanswered.
 
-**The paper count is twenty-two.** **Niko Senn** left for his sister on the east bank on a bus on Chapter 37's Sunday morning, by ordinary road, by his own choice, and Joon updated the record at ten past five in the same room with Niko standing there holding his coat. His stated reason is that every conversation in the hall is about a road that used to be there and he wanted one decision that was his and did not go in a file. **His Chapter 21 precedent held and he used it from a bus: the record says *declined*, not *not used*.**
+**The paper count is twenty-two.** It moved **once, on Chapter 37's Saturday, at five in the afternoon** — Niko Senn said it out loud at four that afternoon and the record was updated at ten past five with him standing there holding his coat — **and not before. He left on the Sunday morning after, day twenty-two**, for his sister on the east bank, on a bus, by ordinary road, by his own choice. His stated reason is that every conversation in the hall is about a road that used to be there and he wanted one decision that was his and did not go in a file. **His Chapter 21 precedent held and he used it from a bus: the record says *declined*, not *not used*.** No chapter may say the count moved on Chapter 33's Tuesday, four days early.
 
 ## The 0.4 seconds, restated after Chapter 38
 

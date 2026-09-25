@@ -78,7 +78,7 @@
 
 ## The survivors and the Quarter
 
-- **The paper count is twenty-two and the movement record is the authoritative document.** Niko Senn left on a bus on Chapter 37's Sunday for his sister's on the east bank, and Joon updated the record in the same room with him standing there, and Niko's Chapter 21 precedent held from a bus: the record says *declined*, not *not used*.
+- **The paper count is twenty-two and the movement record is the authoritative document.** It moved once, on Chapter 37's Saturday at five in the afternoon, and not before: Niko Senn said it out loud at four that Saturday and Joon updated the record in the same room with him standing there, and **he left on the Sunday morning after, day twenty-two, on a bus for his sister's on the east bank**. Niko's Chapter 21 precedent held from a bus: the record says *declined*, not *not used*.
 - **Tarín Voss, Niko Senn, Ansel Duarte, Nadi Bell, Oren Pike, Ruta Amsel, Emil Baros, Anja Ro, Petar Lisk, Ru Sabar, Lena Mir, Perry Dunne, Osei, Teodor, Bess Ferran, Gil Trejo, Wendell Pryce, Ruzicka, Ohno, Bex Amadi, Ilse Brauer, Hollis Vane** — each with an individual choice this batch.
 - **Ansel Duarte**, nineteen, nonwalking, sacral lesion, and now on the one powered frame: he offered his break-power twice and had it used on him once, he keeps count of it, and he required the *and he does not have to be right* clause to stay in the document.
 - **Emil Baros** has written *keeper present, nothing changed since Monday* nine days running, cannot reach a line eleven meters away, and carries a bar of soap out of a niche at twelve meters that no longer exists.
