@@ -42,7 +42,7 @@ The surveyor wrote all three down in a small hardback notebook with a rubber ban
 
 "Yes."
 
-"Then I have four and I wanted one." He closed the notebook and did not say anything else about it, and he did not say anything else about the schedule either, and he went out to the alignment with a hard hat on at the gate and walked to the end of it and back, which took him an hour and ten minutes.
+"Then I have three and I wanted one." He closed the notebook and did not say anything else about it, and he did not say anything else about the schedule either, and he went out to the alignment with a hard hat on at the gate and walked to the end of it and back, which took him an hour and ten minutes.
 
 On his way back through the survey office he looked at Elias Rook, who was standing at the trestle with a tube under his arm, and he said, "Are you the district's something?"
 
