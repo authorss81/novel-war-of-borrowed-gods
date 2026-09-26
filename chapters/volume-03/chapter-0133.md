@@ -40,7 +40,7 @@ There were no door numbers on it. There were four nights, four blocks, four crew
 
 He put the kettle on.
 
-"And there are no door numbers on it," he said, "and before you ask me, that is not because I have been told not to put them on. There are no door numbers on it because I have got four men and about twenty-one doors on the first of them, and if I print twenty-one door numbers on a sheet that a woman in the newsagent's shop will sell or hand out, then a person standing at that gate on Tuesday night can write down which house in that row a crew is going into, and there is a woman of eighty-four on Rennard who opens her door to anybody who knocks and I am not printing her door."
+"And there are no door numbers on it," he said, "and before you ask me, that is not because I have been told not to put them on. There are no door numbers on it because I have got four men and twenty-one lamps in the store and nine doors on the first of them, and if I print nine door numbers on a sheet that a woman in the newsagent's shop will sell or hand out, then a person standing at that gate on Tuesday night can write down which house in that row a crew is going into, and there is a woman of eighty-four on Rennard who opens her door to anybody who knocks and I am not printing her door."
 
 "That is the right decision."
 
@@ -48,7 +48,9 @@ He put the kettle on.
 
 ---
 
-Nerys Hobbs signed the sheet for the sixth of January at half past eleven in the survey office with the terminal running, and she signed it at the bottom with a date and the hour, and then she squared the pen and the cap and put both in her pocket.
+Nerys Hobbs had the sheet for the sixth of January on the trestle in the survey office with the terminal running, and she wrote the date and the crew number on the first line and stopped there, and then she squared the pen and the cap and put both in her pocket.
+
+"That line does not get signed until about half past six on the morning of the seventh," she said. "A sheet about a street gets signed by whoever was standing on it when it was walked. I am not signing a Tuesday on a Wednesday, and if anybody in an office wants my name on a Tuesday night in advance, they can come and watch me write it at ten past seven with the barriers down and the hour on it."
 
 "You have read the notice," she said.
 

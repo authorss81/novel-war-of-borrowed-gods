@@ -52,7 +52,7 @@ Elias Rook did not touch either nail.
 
 "That is the right answer."
 
-"It is the only answer there is," Peart said. "You want to know whether those two are going to be all right on Tuesday and I have told you they are on the block and that I have a card for each of them with a floor and a stair written on it in my own hand, and I have signed both, and I have put a ladder on the lorry for the sixth. That is everything. If I gave you the doors you would be a man with eleven doors and no list, and a man with eleven doors and no list is the most dangerous thing in this district, and there is no form anywhere that says he is not."
+"It is the only answer there is," Peart said. "You want to know whether those two are going to be all right on Tuesday and I have told you they are on the block and that I have a card for each of them with a floor and a stair written on it in my own hand, and I have signed both, and I have put a ladder on the lorry for the sixth. That is everything. If I gave you the doors you would be a man with eleven names and no list, and a man with eleven names and no list is the most dangerous thing in this district, and there is no form anywhere that says he is not."
 
 He picked the kettle up.
 

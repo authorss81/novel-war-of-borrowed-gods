@@ -1,6 +1,6 @@
 # Chapter 131 — Five Door Numbers
 
-Cliff Marner was eighty-four days out of the ground. Della Marner was one hundred and fourteen days at a family-reception desk in Cordell. The man behind the wall was one hundred and fourteen days in, and Elias Rook got the 11 at ten past eight on Monday morning, the twenty-ninth of December, with the tube under his right arm and two pounds seventy-five in his hand, because the run was over and had been over since the Wednesday before Christmas and a man does not start one again because the yard has reopened.
+Cliff Marner was eighty-four days out of the ground. Della Marner was one hundred and fourteen days at a family-reception desk in Cordell. The man behind the wall was one hundred and fourteen days in, and Elias Rook got the 11 at ten past eight on Monday morning, the twenty-ninth of December, with the tube under his right arm and five pounds fifty in his hand, because the run was over and had been over since the Wednesday before Christmas and a man does not start one again because the yard has reopened.
 
 The closure card was still in its frame behind the glass on the yard gate, and the typed line along the bottom of it was still in it, and the yard behind it was open and had two lorries in and a third waiting at the barrier for a slot.
 
@@ -12,7 +12,7 @@ Nobody had taken it down. It had been typed in a hurry in December and it was no
 
 Nerys Hobbs had the booking open on the trestle in the survey office when he came in, and it was a Monday, and the yard was doing the thing it did on a Monday, which was everything at once and badly.
 
-"Six till the fifth of February," she said, before he had got his coat off. "Twenty-eight working days. Four nights in it and the first of them is Tuesday the sixth, and that is nine days from now, and this morning I have had a contractor on the phone asking me whether the street has to be shut on the sixth for the reading or on the first, which tells me that nobody in that office has read their own paperwork, and I have read theirs."
+"Five till the fifth of February," she said, before he had got his coat off. "It opens on the fifth with Sundays off, and that is twenty-eight working days. Four nights in it and the first of them is Tuesday the sixth, and that is eight days from now, and this morning I have had a contractor on the phone asking me whether the street has to be shut on the sixth for the reading or on the first, which tells me that nobody in that office has read their own paperwork, and I have read theirs."
 
 "What have you told him."
 
@@ -120,4 +120,4 @@ Elias Rook thought about that for a second, and it was true, and it was the firs
 
 He went back into the survey office with the laptop still shut.
 
-Elias Rook got the 11 at half past four and sat on the far side of the cut with two pounds seventy-five spent and an hour of nothing behind him, and eleven minutes each way had been the first cost every day since the twenty-ninth of November, and the sleep had been the second, and the money the third, and it had not once come in the other order, and there were four nights in January and a reading on Thursday morning and nothing whatever in his hands.
+Elias Rook got the 11 at half past four and sat on the far side of the cut with five pounds fifty spent and an hour of nothing behind him, and eleven minutes each way had been the first cost every day since the twenty-ninth of November, and the sleep had been the second, and the money the third, and it had not once come in the other order, and there were four nights in January and a reading on Thursday morning and nothing whatever in his hands.

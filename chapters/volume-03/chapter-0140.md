@@ -4,7 +4,7 @@ Cliff Marner was ninety-three days out of the ground. Della Marner was one hundr
 
 There were nineteen people in that room at nine on a Wednesday morning in January, which was more than there usually was, and nobody had come to hear him.
 
-"Four men," Elias Rook said. "A ladder out and not a carry. Five door numbers on one side of that street and a woman at eighteen told me in December there are nine kitchens behind them and both of those are true. A lamp battery went flat at about eleven at night and the spare was in the lorry a hundred yards away, so I gave them mine and held the frame for about two hours, and a man of sixty got his wife and a cardigan and a door frame out at the same time, which I would not have managed. Eleven hours. Half past seven at night to twenty to seven in the morning. A man from a flat over eighteen came down at nine at night to ask four people the same question and went back up. At about four in the morning two men spent an hour at one of those five doors and I did not know which one and I did not ask. The street was walked at about half past five in the morning. Nobody was hurt."
+"Four men," Elias Rook said. "A ladder out and not a carry. Five door numbers on one side of that street and a woman at eighteen told me in December there are nine kitchens behind them and both of those are true. A lamp battery went flat at about eleven at night and the spare was in the lorry a hundred yards away, so I gave them mine and held the frame for about two hours, and a man of sixty got his wife and a cardigan and a door frame out at the same time, which I would not have managed. Eleven hours and ten minutes, from half past seven at night to twenty to seven in the morning. A man from a flat over eighteen came down at nine at night to ask four people the same question and went back up. At about four in the morning two men spent an hour at one of those five doors and I did not know which one and I did not ask. The street was walked at about half past five in the morning. Nobody was hurt."
 
 He put his left hand out, palm up, on the table edge, and did not go near it with the right one, and there was a five on it in biro.
 
@@ -50,11 +50,11 @@ He put his hands in his sleeves.
 
 ---
 
-He wrote the notebook up at the table in the front room at about four in the afternoon, under the two dates that were still the second and the sixteenth of January, and the second of January was the day before yesterday and had come back with nothing, and he did not write that down either, because Joon Park had said the near end out loud in a room at a counter and had not chased it and he was not going to chase it in a book.
+He wrote the notebook up at the table in the front room at about four in the afternoon, under the two dates that were still the second and the sixteenth of January, and the second of January was five days ago and had come back with nothing, and he did not write that down either, because Joon Park had said the near end out loud in a room at a counter and had not chased it and he was not going to chase it in a book.
 
 He wrote one line.
 
-*Sixth of January, 14–22 Marlow Street. Four men, a ladder, five door numbers, eleven hours, nobody hurt. I held a door frame for two hours with a lamp that cost a pound and something. Nothing I did is in any document and nothing I did was in anybody's paperwork, and nobody asked me to be there and nobody refused me.*
+*Sixth of January, 14–22 Marlow Street. Four men, a ladder, five door numbers, eleven hours and ten minutes, nobody hurt. I held a door frame for two hours with a lamp that cost a pound and something. Nothing I did is in any document and nothing I did was in anybody's paperwork, and nobody asked me to be there and nobody refused me.*
 
 And then he sat with the pen down for a while, because there were five other things he wanted to put under that line and he did not put any of them there.
 
@@ -64,4 +64,4 @@ He left all five out, and the reason was not a rule and not a promise and not an
 
 He closed the notebook and put it in his coat with the lamp in the other pocket, and the envelope to Nell was where it had been since September, unsent, the reason four words long.
 
-In four days it was the tenth of January, which was a Saturday, and it was Rennard and Murrow and a crew of five, and after that the seventeenth with Cutbank Row, and the nineteenth with Rennard and Cutbank Row on a Monday at the end of it because a booking is a booking. There is a vote in a book on a shelf and four minutes above it and a name on a list that is not in the custody schedule, and three questions on a wall with no room on it, and twenty-two cards on a rail and twenty-eight people, and four dark hours from midnight, and a man with a rubbish lamp in a coat who has now been on one of four nights and has three to go and a notebook with nothing in the middle of two lines, and no part of any of it is on a form.
+In three days it was the tenth of January, which was a Saturday, and it was Rennard and Murrow and a crew of five, and after that the seventeenth with Cutbank Row, and the nineteenth with Rennard and Cutbank Row on a Monday at the end of it because a booking is a booking. There is a vote in a book on a shelf and four minutes above it and a name on a list that is not in the custody schedule, and three questions on a wall with no room on it, and twenty-two cards on a rail and twenty-eight people, and four dark hours from midnight, and a man with a rubbish lamp in a coat who has now been on one of four nights and has three to go and a notebook with nothing in the middle of two lines, and no part of any of it is on a form.
