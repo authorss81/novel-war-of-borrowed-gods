@@ -36,7 +36,7 @@ Nobody put it on a wall.
 
 He got down off the ladder, came over, and said one more thing that nobody had asked him for.
 
-"You have both been here twice now and neither of you has asked me the thing, and I am going to say it, because I have never said it out loud and it has been sitting in me since about the Wednesday.
+"You have both come to this door twice now, and you have been behind this counter twice and he has not been inside it once, and neither of you has asked me the thing, and I am going to say it, because I have never said it out loud and it has been sitting in me since about the Wednesday.
 
 "A woman came in on the Monday. Four in the afternoon, maybe twenty past. She asked me was the man all right. I said he was. She said thank you and she went out.
 
@@ -72,7 +72,7 @@ He did not take it out, and it stayed in the satchel, and he has not regretted t
 
 Duane Prewitt looked at the satchel, and at him, and did not say anything about either.
 
-"You have been here twice and you have not bought anything either time," he said.
+"You have been here twice and the whole of what you have bought out of it is a roll of tape and a pound ten of bad ties," he said.
 
 "No."
 

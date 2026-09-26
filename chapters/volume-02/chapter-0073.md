@@ -44,7 +44,7 @@ Elias Rook stood at that counter for a second and understood that he had been ab
 
 "That was your reason for the page," he said.
 
-"That is my reason for the page," Aitken said. "The reason for the request is on the counter and it is in my hand at ten past nine on Monday, and the eleven days start then, and the eleven days are the same for a man with a holding number and a man with a piece of paper, and I will say that out loud in this building once so that nobody afterwards tells you it was special."
+"That is my reason for the page," Aitken said. "The reason for the request is on the counter and it is in my hand at ten past nine on Saturday, and the eleven days start then, and the eleven days are the same for a man with a holding number and a man with a piece of paper, and I will say that out loud in this building once so that nobody afterwards tells you it was special."
 
 "Please say it where Mr. Park can hear it."
 
@@ -76,7 +76,7 @@ The third lever was the only one they could pull without a form.
 
 The store room's public hour from ten to twelve on a Sunday exists because a preservation levy pays for it, and the levy comes out of a county budget that Bettina Hoyle's desk sits inside, and a preservation levy buys a public hour in a store room and does not buy anybody's goodwill. There is no form for it. There is a key on a hook and a woman under the key who has been on that desk for six years and has had four visitors in six years, two of them lost, and she is not sorry about the two.
 
-Joon Park took the bus out on Saturday and filed the request at the counter between nine and one, and came back on the four o'clock, and the fare is two dollars sixty each way and the hall agreed to one, so he was out one fare and did not ask anybody for it.
+Joon Park took the bus out on Saturday and filed the series request at the counter between nine and one, and came back on the four o'clock, and the fare is two dollars sixty each way and the hall agreed to one, so he was out one fare and did not ask anybody for it. The request from the twenty-second of October was already in that same queue with two documents named on it and neither of them in the building, and he put this one in on the same sheet of paper in the same hand, and nobody at that counter put the two together, and he has written down that they were not put together.
 
 He came back with a page torn off a day book, with a date and two sets of initials on it, and nothing else, and he said on the step of the hall that the Sunday hour was not his to spend and that he was not going to spend it, and that if the Sunday hour was going to be used then the man who used it had to be somebody a woman in that building could ask a question of and get an answer from.
 

@@ -2,7 +2,7 @@
 
 They went in on Monday afternoon, the seventeenth of November, the seventy-second day, with a sheet of paper and four lines on it, and they stood in a corridor on the second floor of an Office building on the Meridian for eleven minutes and did not go in, and that was the correct decision and it had been made by nobody.
 
-The third sitting is on Wednesday the nineteenth at ten in the morning in the inquiry room, which is the day after tomorrow, and which is also the near end of the team's own records request, filed by hand at a counter in Cordell on a Monday in October and quoted at four to six weeks, and the room had been prepared on the Monday afternoon: the long table out, the microphone at the end of it rather than the middle, eight chairs, a jug of water, a woman in a gray jacket going round the jugs with a cloth.
+The third sitting is on Wednesday the nineteenth at ten in the morning in the inquiry room, which is the day after tomorrow, and which is also the near end of the team's own records request, filed by hand at a counter in Cordell on a Wednesday in October and quoted at four to six weeks, and the room had been prepared on the Monday afternoon: the long table out, the microphone at the end of it rather than the middle, eight chairs, a jug of water, a woman in a gray jacket going round the jugs with a cloth.
 
 They were not going to be let in and they were not going to ask. A room that has been set out for a hearing is a room that is being prepared, and a room that is being prepared is not yet a record, and a thing you stand in before it becomes a record is a thing you will remember differently afterwards.
 
@@ -20,7 +20,7 @@ They went and had a coffee. Then they went back to the third floor and had the c
 
 "Read them."
 
-"**One: the designation history of sector 4C from the first consolidation in two thousand and thirty-nine, with the intermediate sheets, not the summary.** Two: the holding register for the same store, the page for the eleventh of May two thousand and thirty-nine, and the page either side of it. That is the whole of it. It went in by hand at a counter in another city on the Monday of the forty-sixth day, out of a quarter to eleven to the two, at a cost of two dollars sixty, one fare out of my own pocket because the hall agreed to one, and it was quoted at four to six weeks.
+"**One: the designation history of sector 4C from the first consolidation in two thousand and thirty-nine, with the intermediate sheets, not the summary.** Two: the holding register for the same store, the page for the eleventh of May two thousand and thirty-nine, and the page either side of it. That is the whole of it. It went in by hand at a counter in another city on the Wednesday of the forty-sixth day, the twenty-second of October, out of a quarter to eleven to the two, at a cost of two dollars sixty, one fare out of my own pocket because the hall agreed to one, and it was quoted at four to six weeks.
 
 "The near end is Wednesday morning at ten o'clock. **The far end is the third of December.**"
 
@@ -81,4 +81,4 @@ Mara Okafor said, at about five, and she was the one who said it, and she said i
 
 "And nobody inherits me. Which means there is going to be somebody standing in that room on Wednesday who decides to say no to me, out loud, and I am not going to be able to do anything about it, and I have known that since the second week and I have still not worked out what I do about it."
 
-And that was the last of the day, and the four of them got four buses, and Tomas Vale went the long way on purpose, and the room on the second floor was still being set out for Wednesday, and nobody had sat in it, and the water jug was still on the table, and the request that had been filed by hand at a counter in another city on a Monday in October was due at its near end in forty-one hours with two documents in it and neither of them in hand.
+And that was the last of the day, and the four of them got four buses, and Tomas Vale went the long way on purpose, and the room on the second floor was still being set out for Wednesday, and nobody had sat in it, and the water jug was still on the table, and the request that had been filed by hand at a counter in another city on a Wednesday in October was due at its near end in forty-one hours with two documents in it and neither of them in hand.
