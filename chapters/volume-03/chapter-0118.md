@@ -2,11 +2,11 @@
 
 Cliff Marner was seventy-one days out of the ground. Della Marner was one hundred and one days at a family-reception desk in Cordell. The man behind the wall was one hundred and one days in, and Elias Rook was at the depot on the far bank at ten to six on Tuesday morning, the sixteenth of December, because Tuesdays at half past six were his and had been since the end of October.
 
-R. Dunleavy was fifty-nine and did not do the talking part of it. The hose was on the wall with a pressure gauge on it and a board with two columns. The needle went up and stayed, and Dunleavy wrote two figures in a book in his own hand and turned the book round so the page faced the man who had brought the sheet, and said nothing at all. Twenty minutes. Elias pinned the sheet with his right forearm because the left hand was gone and would not hold it, and carried the copy back with the right arm against his side.
+R. Dunleavy was fifty-nine and did not do the talking part of it. The hose was on the wall with a pressure gauge on it and a board with two columns. The needle went up and stayed, and Dunleavy wrote two figures in a book in his own hand and turned the book round so the page faced the man who had brought the sheet, and said nothing at all. The gauge wept a bead of water down the wall and left a dark mark on the concrete where it had been doing it for years, and the mark had the shape of a country with no name on it. Twenty minutes. Elias pinned the sheet with his right forearm because the left hand was gone and would not hold it, and carried the copy back with the right arm against his side.
 
 The Tuesday cost him an hour of sleep a week for the rest of his life and he had done the arithmetic in October and got the right answer and had not looked at it since. He got the 11 at ten past eight with the folder under his right arm and the tube against his leg, and the shutters on Cutbank Row were half up because it was a Tuesday and the shops opened late in winter.
 
-At the newsagent at number two he bought nothing and stood in the queue the way he had stood on the Sunday, because Postridge and Co. had a counter and a queue and a nail, and the nail had a sheet on it four times longer than nothing yet. The woman in the vest was not there on a Tuesday. The pile of leaflets was inside by the till. He did not take one, because he had carried one around for seven days the week before and had not shown it to anybody, and the program's public face was competent before anybody hostile had said a word about it.
+At the newsagent at number two he bought nothing and stood in the queue the way he had stood on the Sunday, because Postridge and Co. had a counter and a queue and a nail, and the nail had a sheet on it, curling at the corners where the damp had got into it, and he read the heading and nothing else. The woman in the vest was not there on a Tuesday. The pile of leaflets was inside by the till. He did not take one, because he had carried one around for seven days the week before and had not shown it to anybody, and the program's public face was competent before anybody hostile had said a word about it.
 
 ---
 
@@ -18,7 +18,7 @@ Wendy Tallow was thirty-four and a regional pilot observer, appointed under the 
 
 "Mr. Rook," she said. "I have a hand on the log and I will keep it there while you are in this building. If you are shown a document I will note that you were shown it. If you are told a thing I will note that you were told it. I am not here to stop you."
 
-"Understood," Elias Rook said. "Before I say anything else I have not told this counter what I am about to do, and I am telling you now and not afterwards. I am going upstairs to look at the rolls."
+"Understood," Elias Rook said. "I am going upstairs to look at the rolls, and I am telling you that now and not afterwards."
 
 "Then I will note that," Wendy Tallow said, and kept her hand where it was.
 
@@ -32,7 +32,7 @@ Elias laid his right hand on the trestle edge while Anum sealed the envelope, be
 
 "Then do it and tell me in the words it happened in," Anum said.
 
-The stair on the outside of the building shook under him the way it always did. He put his right palm on the iron rail where the landing met the wall, bare hand to cold metal, and the gift came the way it came when hand was on structure. Direction and stress through the shopfront, through the two rooms, down into Cutbank Row. Force going where the November roll said it went. It revealed direction and stress and nothing else. It was not a repair — the stair still shook and would go on shaking. It could not tell him how many people were on the street. It could not be carried out of the building. He lifted his hand after two minutes and went back up.
+The stair on the outside of the building shook under him the way it always did. He put his right palm on the iron rail where the landing met the wall, bare hand to cold metal, and the reading came up through the rail and through the shopfront and down into Cutbank Row, force going where the November roll said it went. It was not a repair. The stair shook under his hand the whole two minutes and it would go on shaking, and it had told him nothing whatever about the woman at the counter or the thirty-odd people in the yard. He lifted his hand and went back up.
 
 "It is carrying where the roll says it is carrying," he said. "I cannot write it and I cannot hand it to you."
 
@@ -66,6 +66,6 @@ Joon Park wrote nothing down, because a lie in a corridor was not a record and t
 
 "You lied to a program officer," Joon Park said.
 
-"Yes," Elias Rook said, and did not explain it, and the chapter did not let him off.
+"Yes," Elias Rook said, and did not explain it, and nobody let him off.
 
-Petar Lisk read the board at seven the way he did every evening, and the three questions were untouched and the nineteenth of November was still the only date. Elias stood in the doorway with the tube against his leg and listened, because a lie told in a corridor did not go on a wall and a reading that could not leave a building did not go on a pad. Inez Sato counted the resident cards without looking up — twenty-two cards, twenty-eight people — and the four dark hours came at midnight the way they did every night. The query was on its way to the regional office with a copy of a nineteen-page schedule in the same envelope, and what the Meridian did with it was not anybody's in that building.
+Petar Lisk read the board at seven in the evening, and the three questions were untouched and the nineteenth of November was still the only date. Elias stood in the doorway with the tube against his leg and listened, because a lie told in a corridor did not go on a wall and a reading that could not leave a building did not go on a pad. Inez Sato counted the resident cards without looking up — twenty-two cards, twenty-eight people — and the four dark hours came at midnight the way they did every night. The query was on its way to the regional office with a copy of a nineteen-page schedule in the same envelope, and what the Meridian did with it was not anybody's in that building.

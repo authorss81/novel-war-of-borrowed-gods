@@ -2,7 +2,7 @@
 
 Cliff Marner was seventy-three days out of the ground. Della Marner was one hundred and three days at a family-reception desk in Cordell. The man behind the wall was one hundred and three days in, and Elias Rook got the 11 at ten past eight on Thursday morning, the eighteenth of December, with a copy of a nineteen-page schedule on a Deputy Director's desk for the second day and nobody in Tidegate having been told.
 
-The query from the board's surveyor had gone up on the sixteenth with the copy in the same envelope. It had arrived in the Meridian on the sixteenth and reached the desk on the seventeenth. By the morning of the eighteenth the man at that desk had read it. That was the whole of the reason this chapter could happen, and it was a pass-through and not a decision.
+The query from the board's surveyor had gone up on the sixteenth with the copy in the same envelope. It had arrived in the Meridian on the sixteenth and reached the desk on the seventeenth. By the morning of the eighteenth the man at that desk had read it. That was the whole of the reason anything after that morning could happen, and it was a pass-through and not a decision, and nobody in the cell had treated it as one.
 
 The left hand was gone and it made the morning slow. He buttoned his coat with the right hand and teeth, carried the folder under the right arm, and kept the tube against his side. The right knuckles could hold the rail. The plaster on the second knuckle was clean. He pinned the notebook with his right forearm while he put on his shoes, because the learning had stopped being a lesson and had become the shape of the mornings.
 
@@ -40,7 +40,7 @@ He stopped, the way a man stops when he has said the first of two things and is 
 
 That was the first thing anybody in the Office had said about the schedule. It planted something without being it, the way a man puts a date on a page and does not rule on it.
 
-Joon Park wrote nothing down, because there was no form for a thing said in a room above a shop after the counter shut, and because his custody schedule had twenty-two items and this was not going to become a twenty-third. Elias kept his right forearm on the folder and did not open it, because a man who was four seconds from opening a folder could also not open it, and that was the whole of the carrying.
+Joon Park wrote nothing down, because there was no form for a thing said in a room above a shop after the counter shut, and because his custody schedule had twenty-two items and this was not going to become a twenty-third. Elias kept his right forearm on the folder and did not open it, because a man who was four seconds away from opening a folder could not open it either, and that was the whole of the carrying.
 
 "You came here to tell us that," Elias Rook said.
 
@@ -70,6 +70,6 @@ They rode home on the 11 at ten past six with the folder under Elias's right arm
 
 At Ash Street Petar read the board at seven, three questions untouched, the second half of the oldest still a bracket with nothing under it, the nineteenth of November still the only date, the wall full. Twenty-two cards. Twenty-eight people. Four dark hours at midnight. Nobody took anything off the wall and nobody built another one. Cliff Marner was in the chair by the window with the blanket because the heating was a war of opinions, and Ru Sabar nodded from the doorway, and Inez counted the cards without looking up.
 
-Elias put the folder down and did not open it, and put the tube against the wall, and took the notebook out of his coat with his right hand because the left would not have held it. The inside back cover had two dates on it in his own hand. 2 January. 16 January. The verification log had been requested on the fifth of December for the cell's log for Tidegate, held regionally, near end the second of January, far end the sixteenth. Nothing had come back and nobody had chased it and nobody in any room had asked Joon Park whether it had come, and this chapter did not ask either.
+Elias put the folder down and did not open it, and put the tube against the wall, and took the notebook out of his coat with his right hand because the left would not have held it. The inside back cover had two dates on it in his own hand. 2 January. 16 January. The verification log had been requested on the fifth of December for the cell's log for Tidegate, held regionally, near end the second of January, far end the sixteenth. Nothing had come back and nobody had chased it and nobody in any room had asked Joon Park whether it had come, and nobody asked him about it on the way home either.
 
-He went to bed with a back that would hurt on the Tuesday, and the envelope unsent in the front of the notebook, the reason four words long, and a thread that was live only on ground he was being asked about, and a man who knew where a future man was offering and had a new use for that knowledge and had thought about the use and had not done it, and the batch did not let him off.
+He went to bed with a back that would hurt on the Tuesday, and the envelope unsent in the front of the notebook, the reason four words long, and a thread that was live only on ground he was being asked about, and a man who knew where a future man was offering and had a new use for that knowledge and had thought about the use and had not done it, and nobody let him off.

@@ -26,7 +26,7 @@ The yard ran six days and Saturday was when the program's own people were most v
 
 "Morning," Peart said. "You are not on my sheet."
 
-"I am not here for the sheet," Elias Rook said. "Before I say anything else I am going to tell you that I have not told this yard what I am about to do, and I am telling you now and not afterwards. I am going to put my hand on the gate pier and look at what is under this block. It will take about three minutes. Then I am going to tell you what happened in the words it happened in."
+"I am not here for the sheet," Elias Rook said. "I am going to tell you what I am about to do before I do it, and I am telling you now and not afterwards. I am going to put my hand on the gate pier and look at what is under this block. It will take about three minutes. Then I am going to tell you what happened in the words it happened in."
 
 Peart looked at the gate pier, which was brick with a stone cap, part of the works and not part of the program.
 
@@ -34,23 +34,21 @@ Peart looked at the gate pier, which was brick with a stone cap, part of the wor
 
 He laid his right hand on the stone cap, bare palm to the cold, because the left would have told him nothing and would have slipped. The thread was live before he had settled his weight. It was live the way it had been live in the room above number six, faint and exact. Off on the far side of the cut. Off in the Cinder Quarter. Live here, on the alignment, on ground he was being asked about.
 
-Direction and stress came through the stone the way it had come through brick and wood. It revealed where force wanted to go and nothing else. It was not a repair. It could not tell him how many people were on the street. It could not be carried out of the place he stood — he knew he could not write it and take it to anybody. Hand on the structure was required. He kept it there for three minutes while the yard went on around him, a lorry moving on the low road, the canteen door opening and shutting.
+The reading came through the stone the way it had come through brick and wood, and it told him where force wanted to go and said nothing whatever about who was standing over it. It was not a repair and it was not going to become one, and the pier was a piece of the works and not a piece of the program. He kept his hand there for three minutes while the yard went on around him, a lorry moving on the low road, the canteen door opening and shutting.
 
 The line was off Sallow Court. It had been off it on Thursday and on Friday and it was off it now. The block the clearance had run on, on the nights of the eighth and ninth of November, was not carrying what the September roll said it carried. The December schedule still called every address on it transitional, and the schedule was dated the second of December and governed where the reading did not, and all of that was true at once and nobody had lied.
 
 He lifted his hand and Peart looked at him.
 
-"It is quiet," Elias Rook said, in the words it happened in. "The ground on this block went quiet a month after four people died on it. That is a fact about force and not about anybody. I cannot write it and I cannot hand it to you."
-
-Peart nodded slowly. "A month after," he said. "The ninth of November to the twenty-ninth. That is a month in anybody's book."
+"It is quiet," Elias Rook said, in the words it happened in. "The ground on this block went quiet twenty days after four people died on it. That is a fact about force and not about anybody. I cannot write it and I cannot hand it to you."
 
 "It is not a document," Elias Rook said. "You cannot build to it and you cannot sign it."
 
-"No," Peart said. "I have a book I write in with a rubber band round it and I am not going to write that in it, because my book is for what my crew did and not for what the ground did."
+Peart nodded slowly. "Twenty days," he said. "The ninth of November to the twenty-ninth. I would have said a month, and I would have been wrong, and I am glad you said it out loud, because I put dates in that book and I would have written a month down." He put his hand flat on the rubber band and left it there. "There is nothing in it for me to write. My book is for what my crew did and not for what the ground did."
 
 ---
 
-The aftermath came on the bus stop on Marden Row, the way the pre-canon of this kind of work said it would and the way nothing in his thirteen weeks had prepared him for.
+The aftermath came on the bus stop on Marden Row, the way that kind of work always ends and the way nothing in his thirteen weeks had prepared him for.
 
 For about an hour afterwards he could see the stress in structures he was not touching. The shelter frame at the stop showed a load running through it that was not that shelter's load today, a weight coming down at an angle the poles were never meant to carry, pale and exact at the edge of sight. It showed for the chemist's shopfront, for the school fence, for the low wall by the newsagent. None of it could be refreshed and none of it could be willed. He looked at it and then looked away, and it stayed whether he looked or not, for the hour, and then it thinned.
 
@@ -60,4 +58,4 @@ He got the 11 at ten past four with his back bad and his right hand locked again
 
 At Ash Street he washed the glove in the laundry with the right hand and hung it up, and put the bloody plaster in the bin, and Joon Park looked at the back of his own hand where four names in pencil were fading and said nothing about Thursday night. The hall held twenty-eight people and twenty-two resident cards, and the four dark hours came at midnight, and nobody in that building asked him what he had stood on that day.
 
-He counted the fares on the stairs with the right hand because the left could not hold the coins. Two pounds seventy-five each way, eleven minutes each way, nine days and then four more, and about twenty-two dollars across the first batch and more since, which was the figure Inez Sato had made him say out loud on the second of December so that Joon Park would work it out and not ask. The sleep was the Tuesday at half past six that cost him an hour a week for the rest of his life. The travel was the 11. The money was the fares. They came in that order and nobody paid them but him, and the hall did not become a second headquarters for a district two miles away, because the districts stayed separate and the cost stayed his.
+He counted the fares on the stairs with the right hand because the left could not hold the coins. Two pounds seventy-five each way, eleven minutes each way, fifteen days so far and four more of them before Thursday, and eighty-two pounds fifty across the fifteen of them, which was the figure Inez Sato had made him say out loud back in November so that Joon Park would work it out and not ask. The sleep was the Tuesday at half past six that cost him an hour a week for the rest of his life. The travel was the 11. The money was the fares. They came in that order and nobody paid them but him, and the hall did not become a second headquarters for a district two miles away, because the districts stayed separate and the cost stayed his.

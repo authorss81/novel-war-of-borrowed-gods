@@ -14,7 +14,7 @@ Nerys Hobbs came at half past nine with the hard hat under one arm and nothing u
 
 "You have got one day," she said. "You told me yesterday you had something in a kitchen and you were not going to use it for four days from Sunday. Today is the fourth."
 
-"Today is the last of it," Elias Rook said. "Before I say anything else I am going to tell you that I have not told this room what I am about to do, and I am telling you now and not afterwards."
+"Today is the last of it," Elias Rook said. "I am going to tell you what I am about to do before I do it, and I am telling you now and not afterwards."
 
 "Say it, then."
 
@@ -42,7 +42,7 @@ She put the hard hat on the chair. "Then ask me what you came to ask."
 
 Sallow Court at eleven in the morning was a block with a shut gate and a works notice on it and nobody behind it. The notice had been there since the ninth of November and the ink had gone pale at the corners. Three printed lines. Clearance, 9 November. Nights of 8 and 9. Residents relocated by arrangement. Clearance complete, no outstanding.
 
-He did not go through the gate. He stood on the public side of the alignment where the closure timetable on the gate said the public could still stand until the new year, a printed card with the dates going from open to closed, and after the closure the street could not be stood on. A season was a window and the window was still open by about three weeks. He put the folder down on the pavement against the wall where it would not get kicked, and put his right hand on the brick of the low wall by the gate, because the left would not have told him anything and would have slipped off.
+He did not go through the gate. He stood on the public side of the alignment, which was public ground for three weeks more and then was not, and the alignment went from open to closed in three stages with dates on them whether or not anybody wrote them down for him. A season was a window and the window was still open by about three weeks. He put the folder down on the pavement against the wall where it would not get kicked, and put his right hand on the brick of the low wall by the gate, because the left would not have told him anything and would have slipped off.
 
 The wall was cold through his glove. He took the glove off with his teeth and put his bare palm on the brick, and the cold went straight into the knuckles.
 
@@ -84,7 +84,7 @@ He went back to the yard at half past twelve and Hobbs was in the corridor with 
 
 She stopped, looked at the corridor the way she had looked at one before, and nodded toward the room off the canteen. The board by the door still had his name in the line. They went in and she shut the door.
 
-"Before I say anything else I told you this morning what I was going to do, and I did it, and now I am telling you what happened in the words it happened in before I act on it," he said. "A future engineer nineteen years ahead offered a load reading on the terms you asked for yesterday. The boundary is that the reading is his to give and the list of who is on it is not. The return is to tell him out loud in a room whether the line moved after he gave it. I said yes. That is the whole of the offer."
+"I told you this morning what I was going to do, and I did it, and now I am telling you what happened in the words it happened in before I act on it," he said. "A future engineer nineteen years ahead offered a load reading on the terms you asked for yesterday. The boundary is that the reading is his to give and the list of who is on it is not. The return is to tell him out loud in a room whether the line moved after he gave it. I said yes. That is the whole of the offer."
 
 Hobbs sat down slowly.
 

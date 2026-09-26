@@ -112,7 +112,7 @@ He did not know that a regional director had said his name out loud in a church 
 
 ---
 
-The two streets where the two lines were four inches apart were Marlow Street and Sallow Court, and he had known that since the Thursday of the eleventh of December's previous week and had not said it to anybody, and on the way to the bus he worked out the thing he had been walking toward for two days.
+The two streets where the two lines were four inches apart were Marlow Street and Sallow Court, and he had known that since the Thursday before, the fourth of December, when he had counted forty-four addresses off an overlay with a finger in a room above number six, and he had not said it to anybody, and on the way to the bus he worked out the thing he had been walking toward for two days.
 
 The line had moved *off* Sallow Court and *onto* Marlow Street, and that meant the two streets were on opposite sides of the same move, and that meant the forty-four addresses were not all the same kind of wrong.
 

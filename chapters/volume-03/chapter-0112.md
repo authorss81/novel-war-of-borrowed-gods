@@ -2,7 +2,7 @@
 
 Cliff Marner was sixty-five days out of the ground. Della Marner was ninety-five days at a family-reception desk in Cordell. The man behind the wall was ninety-five days in, and on the Wednesday morning of the tenth of December the rule Elias Rook had said out loud in a kitchen in Cutbank Row on the Sunday had one day left to run on it, and he did not tell anybody that, and the day was a Wednesday because everything since the sixth of September had been days that were not chosen.
 
-The room was off the canteen at the works yard and it had a table and four chairs and a window that looks at a wall, and it was on a board by the door with the hours written on it and a line for the name of the person who had booked it, and it was free at half past nine on a Wednesday, and Elias Rook put his own name in the line, which he had not done in three weeks and which cost him nothing and which is the whole of what this chapter is about.
+The room was off the canteen at the works yard and it had a table and four chairs and a window that looks at a wall, and it was on a board by the door with the hours written on it and a line for the name of the person who had booked it, and it was free at half past nine on a Wednesday, and Elias Rook put his own name in the line, which he had not done in three weeks and which cost him nothing, and it was the whole of why he had come.
 
 The woman from the canteen brought two teas without being asked and did not stay.
 
@@ -110,4 +110,4 @@ At the corner of the yard approach he said the thing that had been in him since 
 
 He wanted somebody in this city to say out loud, in a room, the true thing about a line and a list of addresses. There is a man who could say it in four sentences and he is sixty-four and he is not available and he is not going to be asked. The woman who had just shut a door in a room on purpose had told him the truest thing she had, and it was not that, and the reason it was not that is that she had a job on Monday and he had a notebook and neither of them was the thing he needed.
 
-There is no version of a Tuesday that produces a sentence in a room. He had now spent eleven days finding that out and he had spent about nine pounds of fares.
+There is no version of a Tuesday that produces a sentence in a room. He had now spent twelve days finding that out and he had spent about sixty-six pounds of fares.

@@ -2,7 +2,7 @@
 
 Cliff Marner was sixty-seven days out of the ground. Della Marner was ninety-seven days at a family-reception desk in Cordell. The man behind the wall was ninety-seven days in, and Elias Rook woke at a quarter to five on Friday morning, the twelfth of December, because the Friday was a depot morning even when there was nothing in it for him.
 
-The depot on the far bank ran Tuesdays and Fridays at half past six. The Tuesday half was his and had been since the end of October. The Friday half was an inventory half and it was on the depot's notice and it was empty in his week. That was a fact about his week and not about a cancelled slot, and it had been empty since a Tuesday in October for reasons that belonged to that Tuesday and not to Friday. He did not go on Fridays. He got up anyway because his back hurt from the wall on Sallow Court and because his right hand ached, and he made tea and sat with the notebook closed on the table.
+The depot on the far bank ran Tuesdays and Fridays at half past six. The Tuesday half was his and had been since the end of October. The Friday half was an inventory half and it was on the depot's notice and it was empty in his week. That was a fact about his week and not about a cancelled slot, and it had been empty since a Tuesday in October for reasons that belonged to that Tuesday and not to Friday. He did not go on Fridays. He got up anyway because his back hurt from the wall on Sallow Court and because his right hand ached, and he made tea and sat with the notebook closed on the table. The depot's notice was on the fridge at number six in a plastic sleeve gone milky with age, and the Friday column had a tick in it for every week of the year and a name in it none, because an inventory half is a half a man does on his own time or not at all.
 
 The left hand was gone and it made the mornings slow. He buttoned his coat with the right hand and teeth. He pinned the notebook with the right forearm while he put on his shoes. He had learned in thirteen weeks not to reach for anything with a hand that would not close, and the learning had stopped being a lesson and had become the shape of the mornings.
 
@@ -40,7 +40,7 @@ Anum looked at the trestle, which was a wooden frame with a top that had carried
 
 ---
 
-He put his right palm flat against the trestle top — no, he laid his right hand on the wood beside the overlay, fingers spread, and kept it there.
+He laid his right hand on the wood beside the overlay, fingers spread, and kept it there.
 
 The thread was there before he had finished settling. That was the new thing and it frightened him more than the offer had. He could feel whether it was live the way a man can feel whether a room is warm. On Sallow Court yesterday it had been live. On the bus across the cut it had gone quiet somewhere over the water. In the Cinder Quarter last night it had been off entirely. Here, two miles and eleven minutes from home, in a room above a shop that sold door furniture, with his hand on wood, it was live again.
 
@@ -48,7 +48,7 @@ It was a proximity and not a voice and not a summons. It did not tell him where 
 
 He kept his hand on the trestle and asked nothing, and the gift came anyway, because the gift had been given yesterday and this was the same gift still running.
 
-Direction and stress. Through the trestle, through the floor, through the two rooms above number six and down into the street. Force going where the November roll said it went, off Sallow Court, toward Marlow Street, carrying under some addresses and not under others. It revealed direction and stress and nothing else. It was not a repair and could not make anything carry that was not carrying. It could not tell him how many people were on the street. It could not be carried out of the room — he knew, with the part of him that had counted forty-four addresses with a finger, that nothing he learned here could be written down and taken to a counter. Hand on the structure was required to read it. The moment he lifted his hand it would start to fade.
+Through the trestle, through the floor, through the two rooms above number six and down into the street. Force going where the November roll said it went, off Sallow Court, toward Marlow Street, carrying under some addresses and not under others. It was the same reading as yesterday and not a thinner one, and it had cost him nothing to be sure of that, which he understood at the time to be the shape of the trap. Nothing he learned here could be written down and taken to a counter. He knew that with the part of him that had counted forty-four addresses with a finger, and the moment he lifted his hand it began to fade.
 
 He lifted his hand after about three minutes because the knuckles had gone white.
 
@@ -72,10 +72,10 @@ He thought about it all the way to the bridge, with his hand locked in his pocke
 
 At Ash Street he went up to the front room and Joon Park was at the table with the custody schedule in front of him, twenty-two lines, and the back of his hand still carrying four names in pencil, small, fading at the edges.
 
-"Seven days," Joon Park said, without looking up. "You have been in that district seven days running and today you went to the counter and did not ask for anything. That is the first day you have come back with nothing in your hands."
+"Fourteen days," Joon Park said, without looking up. "You have been in that district fourteen days running and today you went to the counter and did not ask for anything. That is the first day you have come back with nothing in your hands."
 
 "It is a Friday," Elias Rook said. "The Friday half is empty in my week."
 
 He put the folder down and did not open it, and did not trade anything he had learned for anything in that building, and the evening went on with twenty-eight people in it and four dark hours coming at midnight, and the headcount did not move.
 
-Petar Lisk read the three questions at seven the way he did every evening, out loud twice, and the second half of the oldest was still a bracket with nothing under it and the nineteenth of November was still the only date on the wall. Elias stood in the doorway with the folder under his arm and listened without adding anything, because the wall was full and somebody had to build another wall and it was not going to be anybody in that building. Inez Sato came through with the lock-box and nodded at him once, and he nodded back, and neither of them said anything about Tidegate, because the cost of going there was paid in travel and sleep and money and tonight he had paid all three and had nothing left to describe it with.
+Petar Lisk read the three questions at seven in the evening, out loud twice, and the second half of the oldest was still a bracket with nothing under it and the nineteenth of November was still the only date on the wall. Elias stood in the doorway with the folder under his arm and listened without adding anything, because the wall was full and somebody had to build another wall and it was not going to be anybody in that building. Inez Sato came through with the lock-box and nodded at him once, and he nodded back, and neither of them said anything about Tidegate, because the cost of going there was paid in travel and sleep and money and tonight he had paid all three and had nothing left to describe it with.
