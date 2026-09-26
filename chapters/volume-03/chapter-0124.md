@@ -2,7 +2,7 @@
 
 Cliff Marner was seventy-seven days out of the ground. Della Marner was one hundred and seven days at a family-reception desk in Cordell. The man behind the wall was one hundred and seven days in, and Elias Rook got the 11 at ten past eight on Monday morning, the twenty-second of December, on the twenty-second day of a run that had started on the twenty-ninth of November and had two Sundays out of it.
 
-Twenty-two fares at two pounds seventy-five and a hundred and twenty-one pounds, and a Tuesday that cost him an hour of sleep a week for the rest of his life, and the order the costs came in had been travel and then sleep and then money every day since the beginning of December and would be until the end of this.
+Twenty-two round trips at five pounds fifty, and a hundred and twenty-one pounds, and a Tuesday that cost him an hour of sleep a week for the rest of his life, and the order the costs came in had been travel and then sleep and then money every day since the beginning of December and would be until the end of this.
 
 ---
 
@@ -58,7 +58,7 @@ Hobbs read two of the cards and turned one of them face down, which he noticed.
 
 "Yes," Hobbs said, and put it back the right way up. "Now say the rest of it, and do not stand there arranging furniture."
 
-"I am going to ask somebody for hands tomorrow morning," Elias Rook said. "I told you the terms of the other thing on the eleventh of December in this room, before I acted on it, and I am telling you the terms of this one now, in this room, before I act on it. This is a physician's hands, twenty-one years ahead. It is not mine. I am not asking Miss Okafor for anything, because the present and the future are two people and one of them is not a woman in this room."
+"I am going to ask somebody for hands tomorrow morning," Elias Rook said. "I told you the terms of the other thing on the eleventh of December in this room, before I acted on it, and I am telling you the terms of this one now, in this room, before I act on it. This is a physician's hands, twenty-one years ahead. It is not mine. I am not asking Mara for anything, because the present and the future are two people and one of them is not a woman in this room."
 
 "What do you want the hands for," Hobbs said.
 

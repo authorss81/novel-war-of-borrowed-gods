@@ -2,7 +2,7 @@
 
 Cliff Marner was eighty-three days out of the ground. Della Marner was one hundred and thirteen days at a family-reception desk in Cordell. The man behind the wall was one hundred and thirteen days in, and Elias Rook was on Ash Street on Sunday morning, the twenty-eighth of December, because the yard was shut and the counter was shut and the board was shut and the card behind the glass on the gate said twenty-five, twenty-six, twenty-seven and twenty-eight in a typed line and meant it.
 
-The four dark hours had ended at four. There were twenty-two resident cards on the rail and twenty-eight people in the building and it had been that number every day since September.
+The four dark hours had ended at four. It had been twenty-two cards on the rail and twenty-eight people in that building every day since September, and nobody in it had ever found that worth saying out loud, which is most of why it was still worth saying.
 
 ---
 
@@ -10,7 +10,7 @@ Petar Lisk read the board at seven in the morning, out loud twice, and the secon
 
 He put the file of working logs back on the top shelf of the records room at about eight, with the 1998 one at the bottom of it, and did not take it out again, and told nobody he had done it, and was asked by two people and answered both of them the same way, which was that it was on a shelf where it had been and that was the correct place for it on a Sunday.
 
-The four minutes were in a book on a shelf in the front room. The refused question was on the back of a form in a building in another district, in a method officer's ink, because there was nothing on the front of it. Two dates were in pencil on the inside of a young man's forearm. Four dead people were in half an inch of margin in a kitchen pencil in a house on Cutbank Row and on the back of the same forearm in ballpoint, and were on no schedule and had no number, and were going to be named out of a woman's margin in January or they were not going to be named at all.
+The four minutes were in a book on a shelf in the front room. The refused question was on the back of a form in a building in another district, in a method officer's ink, because there was nothing on the front of it. Two dates were in pencil on the inside of a young man's forearm. Four dead people were in half an inch of margin in a kitchen pencil in a house on Cutbank Row and on the back of a young man's right hand in ballpoint, and were on no schedule and had no number, and were going to be named out of a woman's margin in January or they were not going to be named at all.
 
 Nobody took anything off the wall and nobody answered anything on it.
 
@@ -32,7 +32,7 @@ Cliff Marner said, from the chair by the window, without moving: "You have said 
 
 "Then it is the third most useful thing anybody has done in this building since September," Marner said, "and I have not got the other two and I am not going to ask."
 
-"Then here is the fourth," Elias Rook said. "Four nights, four crews, and there is a man in that yard who will put a torch in his own mouth and go down a stair backwards with a woman in his arms and take forty minutes, and there is an engineer who will sign a sheet for every one of those nights and who has a jar of four photographs on a shelf above a terminal, and there is a woman at number thirty-one who wants to be last, and there is a foreman who has already written eleven words on eleven pieces of his own card. I am not going to tell you that is enough. I have got a lamp and it is rubbish and it costs two pounds ten to run, and a lamp is not a man who has done it before, and on a bad night in a block nobody has walked in daylight the difference between those two things is a person's hip."
+"Then here is the fourth," Elias Rook said. "Four nights, four crews, and there is a man in that yard who will put a torch in his own mouth and go down a stair backwards with a woman in his arms and take forty minutes, and there is an engineer who will sign a sheet for every one of those nights and who has a jar of four photographs on a shelf above a terminal, and there is a woman at number thirty-one who wants to be last, and there is a foreman who has already written eleven words on eleven pieces of his own card. I am not going to tell you that is enough. I have got a lamp and it is rubbish and it costs a pound and ten to run, and a lamp is not a man who has done it before, and on a bad night in a block nobody has walked in daylight the difference between those two things is a person's hip."
 
 "So what are you telling the room," Petar Lisk said.
 
@@ -48,7 +48,7 @@ At about half past one Joon Park put the custody schedule in his coat and came b
 
 "What would you have had to do," Joon Park said.
 
-Elias Rook did not answer it for a while. The heater gave up about every nine minutes, and Inez Sato was at the table with the lock-box, and Petar Lisk had a pencil behind his ear and was not writing, and Ru Sabar was in the doorway.
+Elias Rook did not answer it for a while. The heater gave up and came back and gave up again the way it had done all winter, and Inez Sato was at the table with the lock-box, and Petar Lisk had a pencil behind his ear and was not writing, and Ru Sabar was in the doorway.
 
 "About eleven seconds," he said. "That is the honest length of it and I have thought about it for four days and it does not get longer. I would have had to put my hands on eleven people I have never seen, off a list, on a night, in a building, and I would have had to do it in a room with a form in it, and I would have had to do it having already invited a program officer to watch, and I would have called it keeping them alive."
 
@@ -76,7 +76,7 @@ On the inside back cover of the notebook, in his own hand, there were two dates.
 
 **2 JANUARY / 16 JANUARY**
 
-The yard opened on Monday the twenty-ninth. The works' booking started on Monday the fifth of January and it ran twenty working days to the fifth of February, and a woman of forty-seven had to sign a sheet for every night in it, and on the first of them there would be four crews and a man at the bottom of a ladder, on a ground where a foreman had put eleven cards on a nail with his own initials at the foot of every one of them, and an engineer with a jar of four photographs on a shelf above a terminal that was working again.
+The yard opened on Monday the twenty-ninth. The works' booking started on Monday the fifth of January and it ran twenty-eight working days to the fifth of February, and a woman of forty-seven had to sign a sheet for every night in it, and on the first of them there would be four crews and a man at the bottom of a ladder, on a ground where a foreman had put eleven cards on a nail with his own initials at the foot of every one of them, and an engineer with a jar of four photographs on a shelf above a terminal that was working again.
 
 Elias Rook took the notebook out with his right hand and wrote one line under the two dates, and it was not a sentence anybody else could use, and it was this.
 

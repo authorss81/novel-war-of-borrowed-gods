@@ -52,7 +52,7 @@ Joon Park wrote nothing down, because there was no form for a thing said in a ro
 
 He stood up, which meant the meeting was over, and went to the door, and stopped with his hand on it.
 
-"Mr. Rook," he said. "You have a page in a notebook and a method officer has a folder. I have a document with a date on it. None of the three is the same quantity. Do not trade what I said back to me in a corridor, because a thing said in a corridor is worth nothing and I have watched you learn that over a fortnight."
+"Mr. Rook," he said. "You have a page in a notebook and a method officer has a folder. I have a document with a date on it. Three documents and three owners, and you have now been in a room with all three of them, and that is the situation you are going to be asked about by somebody who only has one of them. Do not trade what I said back to me in a corridor, because a thing said in a corridor is worth nothing and I have watched you learn that over a fortnight."
 
 "I will not trade it," Elias Rook said, in the words it was said in. "That is conduct and not a promise."
 

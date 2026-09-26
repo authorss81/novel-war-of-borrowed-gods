@@ -62,7 +62,7 @@ Petar Lisk was in the front room because Petar Lisk was in the front room on Sat
 
 Elias Rook told them what he had told Mara Okafor, in the words it had been said in, before he acted on it.
 
-Petar wrote it in the book. He wrote it on the page after the twenty-second of November and he wrote the date at the top, and he did not go through the room asking anybody whether it was the right thing, because a man who asks a room that question has asked it in order to be told.
+Petar put it in the book, on the page after the twenty-second of November, with the date at the top, and he did not go through the room asking anybody whether it was the right thing, because a man who asks a room that question has asked it in order to be told.
 
 "You have got it wrong twice and right once," he said, from the table. "I heard you on Saturday night through that door and I am the wall's man and I am telling you that the third one is the one that counts and that a rule which has been said out loud three times in a corridor is a rule that has been tested and not one that has been written down."
 

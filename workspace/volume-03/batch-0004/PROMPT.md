@@ -38,13 +38,13 @@ Legitimate hits are device/gift uses (vehicle reader, Load Reader), the records-
 | 133 | Wednesday | 116 | 31 Dec |
 | 134 | Thursday | 117 | 1 Jan **THIRD AND LAST INTERFACE NOTICE** |
 | 135 | Friday | 118 | 2 Jan **records request near end** |
-| 136 | Saturday | 119 | 3 Jan **first January night** |
-| 137 | Sunday | 120 | 4 Jan |
-| 138 | Monday | 121 | 5 Jan |
-| 139 | Tuesday | 122 | 6 Jan **second January night** |
+| 136 | Saturday | 119 | 3 Jan |
+| 137 | Sunday | 120 | 4 Jan **the yard's one shut day in this batch** |
+| 138 | Monday | 121 | 5 Jan **works' booking starts; no night in it on this date** |
+| 139 | Tuesday | 122 | 6 Jan **first of the four January nights** |
 | 140 | Wednesday | 123 | 7 Jan |
 
-**Midpoint was Chapter 125 day 108 and is not this batch. Day 100 was Chapter 117.** **January 1–7 2043 is Thu, Fri, Sat, Sun, Mon, Tue, Wed — verified from day zero, not from a table.** **New Year's Day is not treated as a public holiday in this manuscript's ordinary civic week beyond the fact that the yard runs six days and shuts Sundays: the yard is open Monday 29, Tuesday 30 and Wednesday 31 December, and on Thursday 1 January, and shut Saturday 2, Sunday 3, open Monday 4, Tuesday 5, Wednesday 6.** **No chapter may invent a holiday arrangement to get round any closure, and the closure is shown on a printed notice and not announced.**
+**Midpoint was Chapter 125 day 108 and is not this batch. Day 100 was Chapter 117.** **January 1–7 2043 is Thu, Fri, Sat, Sun, Mon, Tue, Wed — verified from day zero, not from a table.** **New Year's Day is not treated as a public holiday in this manuscript's ordinary civic week beyond the fact that the yard runs six days and shuts Sundays: the yard is open Monday 29, Tuesday 30 and Wednesday 31 December, and on Thursday 1 January, Friday 2 January and Saturday 3 January, shut Sunday 4 January, and open Monday 5, Tuesday 6 and Wednesday 7 January.** **The yard's only shut days in this batch are the Sundays, 4 January in this batch's range, and the closure is shown on a printed notice and not announced. Note that 2 and 3 January are a Friday and a Saturday and are both ordinary working days, and that 4 January is the Sunday; a version of this prompt shifted that run one day and shut the yard on the wrong two dates, so derive it and do not read it off a habit.** **No chapter may invent a holiday arrangement to get round any closure, and the closure is shown on a printed notice and not announced.**
 
 **The Tidegate day-run is over.** It ran from Saturday 29 November 2042 to Wednesday 24 December and stood at **twenty-four riding days with two Sundays out of it** — Sundays 14 and 21 December — and he did not ride on Christmas Day, Boxing Day or after. **Any figure for how long he had been going is twenty-four days and the fares are £132, and no chapter may restart the run or grow it.** **Fares are pounds and only pounds: two pounds seventy-five each way, eleven minutes each way, five-fifty a day round trip, and the Tuesday 06:30 depot slot costs an hour of sleep a week for the rest of his life.** **No chapter may put pounds and dollars in one breath.**
 
@@ -54,18 +54,20 @@ Cliff Marner day 30: **84, 85, 86, 87, 88, 89, 90, 91, 92, 93.** Della and the m
 
 ## Working week
 
-Board and Bellwether counter shut Saturdays Sundays. Yard six days, shut Sundays. **Depot Tuesdays and Fridays 06:30; the Tuesday half is his and is used in this batch at Chapter 132; the Friday half is an inventory half, it is on the depot's notice, and it is empty in his week.** No hearing, counter transaction, determination, method officer or board surveyor on a shut day. The yard's closure card still reads `YARD CLOSED 25, 26, 27, 28 DEC · REOPENS 29 DEC` and the cell's door slip still reads `CLOSED 25, 26, 27, 28 DEC · REOPENS MON 29 DEC 09:00`.
+Board and Bellwether counter shut Saturdays Sundays. **In this batch's range that means Saturday 3 January and Sunday 4 January, and nothing else — so Chapter 135, Friday 2 January, is the last working day on which the counter or the board can be dealt with at, and Chapter 136, Saturday 3 January, is shut at the counter with the yard open.** Yard six days, shut Sundays. **Depot Tuesdays and Fridays 06:30; the Tuesday half is his and is used in this batch at Chapter 132; the Friday half is an inventory half, it is on the depot's notice, and it is empty in his week.** No hearing, counter transaction, determination, method officer or board surveyor on a shut day. The yard's closure card still reads `YARD CLOSED 25, 26, 27, 28 DEC · REOPENS 29 DEC` and the cell's door slip still reads `CLOSED 25, 26, 27, 28 DEC · REOPENS MON 29 DEC 09:00`.
 
-**The works' sequence, exactly as printed in Chapter 121, and it is load-bearing and no block may be cleared twice:**
+**The works' sequence, exactly as printed in Chapter 121, and it is load-bearing and no block may be cleared twice. Weekdays are derived from day zero, not chosen: 6 JAN Tuesday, 10 JAN Saturday, 17 JAN Saturday, 19 JAN Monday — two Saturdays and a Monday, which is what Hobbs and Inez both say in Chapters 126 and 128. No night may fall on a Sunday, because the yard is shut Sundays. The ranges are pairwise disjoint street by street, so a reader counting them will not find a street cut twice:**
 
 | NIGHT | BLOCK | CREW |
 | --- | --- | --- |
 | 6 JAN | 14–22 MARLOW ST | 4 |
-| 10 JAN | 2–12 RENNARD · 16–18 MURROW | 5 |
+| 10 JAN | 22–32 RENNARD · 16–18 MURROW | 5 |
 | 17 JAN | 14–22 CUTBANK ROW · 31 CUTBANK ROW | 4 |
 | 19 JAN | 15–21 RENNARD · 2–12 CUTBANK ROW | 4 |
 
-**The booking is twenty working days, Monday 5 January 2043 to Thursday 5 February 2043, and Nerys Hobbs signs a sheet for every night, and after the fifth of February the board has to come back for money and in her experience does not come back in the same year it has already spent it.** She gave all of this on 24 December, in a room, because she would not have time in January.
+**The four December nights, for reference and because three of them are already in the past: 20 DEC Saturday 2–10 MARDEN ROW crew 4 · 22 DEC Monday 2–12 RENNARD crew 4 · 23 DEC Tuesday 4–14 MURROW crew 5 · 24 DEC Wednesday 4–12 MARLOW ST crew 4. There is no night on 21 December because the yard is shut on Sundays. The eleven doors of 23 December, Mistry's eleven and Peart's eleven cards are the same eleven and stay the same eleven; the January four are four different blocks and nobody hurt is not repeated.**
+
+**The booking is twenty-eight working days, Monday 5 January 2043 to Thursday 5 February 2043, and Nerys Hobbs signs a sheet for every night, and after the fifth of February the board has to come back for money and in her experience does not come back in the same year it has already spent it.** She gave all of this on 24 December, in a room, because she would not have time in January.
 
 **Verification log: near end Friday 2 January 2043 is Chapter 135 and the log either arrives or it does not; far end Friday 16 January 2043 is Chapter 149 and this batch does not reach it. Nobody chases it and nobody in a room asks Joon Park whether it has come.**
 
@@ -77,7 +79,7 @@ Non-negotiables:
 
 - **Interface notices exactly three in Volume 03 at 113, 125, 134. This batch spends the last one at 134 and no others. At most one per chapter. 134 is a boundary only: Elias asks the thread to repeat its boundary and the panel returns the boundary and nothing else, and the asking moves the securing band two streets and forty-four addresses change class and the schedule does not change because a schedule records a state. Nobody caused it and no chapter may say who did, may restate it, may extend it, may scale it, and nobody in a room may call it a cause.**
 - **Chapter 134's event is larger than Chapter 119's and is not Chapter 119.** Chapter 119 (Wednesday 17 December) was **half a street of softened edge on one morning with no reading taken, no vehicle, no foreman, no drawing and no cause at all**, and it is deliberately smaller and blander. **134 has an innocent action behind it: the asking.** The difference between the two is the whole of 134. **No chapter in this batch mentions, restates, explains or escalates the 17 December softening.**
-- **The central distinction spoken once in Chapter 106 is never restated, paraphrased, improved or handed to anybody.** Cut a character's arrival first and a document second, and never the Chapter 106 sentence and never the panel.
+- **The central distinction spoken once in Chapter 106 is never restated, paraphrased, improved or handed to anybody.** Cut a character's arrival first and a document second, and never the Chapter 106 sentence and never the panel. **A repair pass found it restated in two later chapters — a method officer at 114 and Rusk at 120, both in the borrowed form *none of the three is the same quantity* — and both were rewritten in place, so as of 131 the volume says it once and only once. Nobody may put the clause back, and nobody may reach for a fresh synonym of it either: the failure mode to avoid is a second character reaching for a second phrasing of Chapter 106, which is what happened twice.**
 - **The Load Reader's five limits are stated in full in Chapter 113 and nowhere else in the volume.** The boundary is in the Chapter 113 panel, once in Elias's mouth to Hobbs, and **once more in Chapter 134 and nowhere else.** A use may show one limit failing and that is the whole permitted method. **No chapter in this batch recites the set.**
 - **Sixth pattern at 134, in Hollis Vane's own words, once.** The schedule's missing person-column is the third of five patterns and is **not new and may not be presented as new**. No ordinal counting aloud by any character.
 - **`Before I say anything else` may appear at most once in this batch unless a character names it.** It stands in Volume 03 at Chapters 108, 112, 114, 116 and 120 and appears **zero** times in 121–130; the two references in that batch are men naming it as *step four*.
@@ -99,8 +101,8 @@ Non-negotiables:
 - Board query copy in Meridian; Rusk read it and dislikes it and cannot say so in his office.
 - Corridor lie about Hobbs kept out of the counter book; the shut-door fact request still has no form.
 - **The eleven: Rhoda Mistry's ballpoint list, Peart's eleven signed works cards, a ladder out instead of a carry, and nobody hurt on 23 December. Eleven people are hurt in the January clearance because the hands were not there, and the refusal is not the villain of that and Elias is.** **This batch may not put anybody on a stair in these ten chapters, and may not stage the injuries; those are Chapters 141 and after.**
-- **The hand lamp, in his coat, not on the residents' file, not on a pad, not in a book, not near the power budget, £2.10 to run.** It may be used and it may not become the building's.
-- **Four January dates he had in his coat on 27 December and did not give to a woman at a bollard.** A later chapter may have somebody else find a gap; he may not hand them over retroactively as a present.
+- **The hand lamp, in his coat, not on the residents' file, not on a pad, not in a book, not near the power budget, a pound and something for the lamp and a pound ten to run.** It may be used and it may not become the building's.
+- **Four December night dates — 20, 22, 23 and 24 December 2042 — on a card in his coat with no addresses, and three of the four already gone by 27 December; he did not give them to a woman at a bollard.** A later chapter may have somebody else find a gap; he may not hand them over retroactively as a present.
 - Alagoa Saturday bollard; 41 vs 39 gap never closed; second reading is the one taken 29 November and is never called December.
 
 ## Character changes required

@@ -74,7 +74,7 @@ And the answer came in the way the offer had come, in plain words and assembled 
 
 Nobody in the room spoke for about nine seconds, and then Wendy Tallow said, "That is the log entry. That is exactly what goes in the log and I am not putting it in my own words, and I am not going to summarise it either, and if anybody in this city wants to know what a woman said in a room above a shop this morning, it is that, and it is in ink tonight, and it is in the present tense."
 
-Selwyn Anum opened the drawer and took out the form he had kept since August. He wrote the date in the box at the foot, and he wrote the hour, and he ruled a line under the two headings, and then he stopped with the pen down and looked at the front of his own form for a while.
+Selwyn Anum opened the drawer and took out the form he had kept since August. He filled in the date in the box at the foot, and the hour, and ruled a line under the two headings, and then he stopped with the pen down and looked at the front of his own form for a while.
 
 "There is no field for no," he said, to nobody. "There has never been a field for no."
 

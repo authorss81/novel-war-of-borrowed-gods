@@ -56,7 +56,7 @@ He lifted his hand after about three minutes because the knuckles had gone white
 
 Anum nodded and opened the laptop again, which was his way of saying the conversation was over and the room was still his.
 
-"Then your word is noted and not recorded," he said. "I have a schedule dated the second of December that says the same block is transitional, and I have a roll dated the twenty-ninth of November that says the ground moved, and I have your word that the ground is where the roll says it is. All three are true and none of them is the same quantity. Go home. It is a Friday."
+"Then your word is noted and not recorded," he said. "I have a schedule dated the second of December that says the same block is transitional, and I have a roll dated the twenty-ninth of November that says the ground moved, and I have your word that the ground is where the roll says it is. All three of them are true and not one of the three of them will tell the other two what it means, and I am not going to spend this afternoon working out which of them is talking. Go home. It is a Friday."
 
 ---
 

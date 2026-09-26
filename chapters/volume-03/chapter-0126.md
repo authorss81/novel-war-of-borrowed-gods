@@ -74,9 +74,9 @@ She took the plastic wallet off the shelf above the terminal and did not open it
 
 She opened the wallet and turned four photographs round on the table, and did not point at any of them, and Elias Rook did not lean over them, and after a few seconds Hobbs closed the wallet and put it back on the shelf above a terminal that had been down since Thursday and had been working again since Monday.
 
-"Now the thing I actually came down here to say," she said. "The works' booking is twenty working days. It starts on Monday the fifth of January and it finishes on Thursday the fifth of February, and I sign a sheet for every night in it, and there are four nights left in it, and two of them are Saturdays, which I did not choose and have not questioned, and one of them is a block of stairs on Murrow that nobody has ever walked in daylight, and I know all of that because I put it in the booking myself in October and I have not moved it since."
+"Now the thing I actually came down here to say," she said. "The works' booking is twenty-eight working days. It starts on Monday the fifth of January and it finishes on Thursday the fifth of February, and I sign a sheet for every night in it, and there are four nights left in it, and two of them are Saturdays, which I did not choose and have not questioned, and one of them is a block of stairs on Murrow that nobody has ever walked in daylight, and I know all of that because I put it in the booking myself in October and I have not moved it since."
 
-"Twenty working days," Elias Rook said.
+"Twenty-eight working days," Elias Rook said.
 
 "And after the fifth of February the board has to come back for money," Nerys Hobbs said, "and in my experience the board does not come back for money in the same year that it has already spent it, and when it does not come back the works' booking ends and the ground sits there and everybody in this district keeps on being moved by a piece of paper with a date on it from the last time anybody looked. I am telling you that now, in December, in a room, because in January I will not have the time to tell you and because you are the only man in this district who has been writing dates down in his own hand for three weeks and has not once been asked to stop."
 

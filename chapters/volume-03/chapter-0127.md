@@ -8,11 +8,9 @@ Twenty-four days. That was the run, and it stopped there on Wednesday night, and
 
 The four dark hours came at midnight and ended at four, and there were twenty-two resident cards on the rail and twenty-eight people in the building, and Inez Sato counted them without looking up because she had been doing that since September and it was the same number every day of the year including the day the roof came off a shop on the next street.
 
-Petar Lisk read the board at seven in the morning, out loud twice.
+Petar Lisk read the board at seven in the morning, out loud twice, and it was the same four lines it has been for weeks, and the second half of the oldest was still a bracket with nothing under it, and nobody in that room found that surprising, because it has been on that wall since before most of them had started coming in and everybody in the building had stopped expecting a fourth line the way they had stopped expecting the heating.
 
-Who edited the Kestrel response record. What the Office believed a single approved outcome would prevent, with the second half of that still a bracket with nothing under it. Who benefits when a branch is officially deleted and why does the form call it an error, in capitals, in a nine-year-old's hand. Under the last two, in a hand nobody else in the building had put there, 19 November.
-
-He read it and then he put the pencil behind his ear the other way round and said, to nobody, that it was Christmas Day and that the whole thing was still there, and that he had got a tin of biscuits in the front room and that the tin was not a rule and could not be used as one.
+He read it and then he put the pencil behind his ear and said, to nobody, that it was Christmas Day and that the whole thing was still there, and that he had got a tin of biscuits in the front room and that the tin was not a rule and could not be used as one.
 
 Elias Rook stood in the doorway and listened without adding anything, the way he had added nothing on the twenty-first and would add nothing for the rest of his life, because the wall was full and somebody was going to have to build another one and it was not going to be anybody in that building.
 
@@ -24,7 +22,7 @@ There was a turkey in that building on Christmas Day because a woman called Mari
 
 Ru Sabar said it was the same as a thing she had eaten in 2039 and refused to say where. Cliff Marner was in the chair by the window with the blanket out of the store room and had a plate on his knee and did not eat most of it and was fed about a third of it by people who did not ask him whether he wanted any more. Petar Lisk carved it and got two slices out of the breast that were not a shape anybody recognized. The heater in the front room gave up about every nine minutes and four people had learned not to speak across it and on Christmas Day three of them spoke across it anyway.
 
-Elias Rook had the notebook in his coat and the tube against the wall and no lamp and no list, and he had a plate, and he ate most of it, and the reason he could eat most of it was that a woman of sixty-three had read a thousand doors out loud at a bollard a week ago and a man of fifty-one had copied eleven names onto eleven pieces of card and signed the bottom of every one of them on Monday, and neither of those things had anything to do with him and both of them had made this room possible.
+Elias Rook had the notebook in his coat and the tube against the wall and a lamp with nothing in it and no list, and he had a plate, and he ate most of it, and the reason he could eat most of it was that a woman of sixty-three had read a thousand doors out loud at a bollard a week ago and a man of fifty-one had copied eleven names onto eleven pieces of card and signed the bottom of every one of them on Monday, and neither of those things had anything to do with him and both of them had made this room possible.
 
 He did not think that sentence very often. He thought about it in the dark that night.
 

@@ -8,13 +8,13 @@ The cell's notice was a printed slip in a plastic holder screwed to the inside o
 
 He read it standing in the cold on a doorstep for about as long as it took to be sure of it, and there was nothing behind it, no exception, no arrangement, and the person who had printed it had not thought about him at all, which was correct.
 
-The depot's notice was still on the fridge at number six in the plastic sleeve. The Tuesday column had his name in it. The Friday column had a tick in it, and the tick was a depot clerk's tick and not a cancellation, and there was no name in it and there had not been one since October. Friday the twenty-sixth was a depot Friday and it was the inventory half and it was empty in his week, and it was empty in his week on Boxing Day the same as it was empty in his week on any other Friday, and that was a fact about a rota and not about a holiday, and the notice said so in the sense that a notice never says anything at all about him.
+The depot's notice was still on the fridge at number six in the plastic sleeve, and the Friday column still had its tick in it, because a tick is what a depot clerk puts in a column and is not a cancellation of anything. There was no name in it and there had not been one since October. Friday the twenty-sixth was a depot Friday and it was the inventory half and it was empty in his week, and it was empty in his week on Boxing Day the same as it was empty in his week on any other Friday, and that was a fact about a rota and not about a holiday, and the notice said so in the sense that a notice never says anything at all about him.
 
 ---
 
 The post came at about half past ten and the woman who brought it up the stairs had four things for the building and one of them was for him, and it was one side, and it was on the regional letterhead of the Bellwether Pilot Program, and it was typed, and it had a signature block at the foot with a name printed under it.
 
-He read it standing up in the corridor. Then he took it into the front room and read it out loud, because that is the practice now, and because a man who reads a document from a long way away to himself in a building of twenty-eight people is a man who has decided what it means before anybody has heard it.
+He read it standing up in the corridor. Then he took it into the front room and read it out loud, because that is the practice now, and because a man who reads a document from a long way away to himself in a building of twenty-eight people is a man who has decided what it means before anybody has heard it. He could not hold a sheet of paper up in front of nine people, so he put it on the table, squared it with his right hand, and turned it round at the end of every paragraph so that the far side of the room got the lines as well.
 
 > **BELLWETHER PILOT PROGRAM · REGIONAL OFFICE**
 >
@@ -64,7 +64,7 @@ He opened the box. There were eleven working logs in it, and the 1998 one was at
 
 "That is a very good argument for never opening it," Petar Lisk said, "and it is also an argument for being extremely careful about who it is that opens it, and I intend to keep the list of both, and neither list is going in the custody schedule."
 
-Elias Rook laid two fingers on the cover of the box for about two seconds and took them off, and the cold of the cardboard went into his palm and nothing at all came up through it, because the ground under Ash Street is not the ground anybody is being asked about, and the thread had been off in that building since the fourteenth of December and it was off now, and there was nothing in the box and there was nothing in the wood and there was nothing in the room.
+Elias Rook laid two fingers on the cover of the box for about two seconds and took them off, and the cold of the cardboard went into his palm and nothing at all came up through it, because the ground under Ash Street is not the ground anybody is being asked about, and the thread had never once been on in that building and it was not on now, and there was nothing in the box and there was nothing in the wood and there was nothing in the room.
 
 He had wanted, for about four seconds, to know whether the 1998 line in that log had been cut out with a blade. He was thirty-five and he had thirteen weeks of it in him and he had a rule about the four minutes and a book on a shelf with four minutes in it, and the four minutes were about a person and not about a document, and there was nobody else in the building to tell.
 
