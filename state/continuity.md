@@ -1191,3 +1191,107 @@ Return: When the last one is out of the building, and you say out loud that it i
 **What the repair did not touch, and why.** **Ferrand's *You have been in this district nine days* in Chapter 110 stands**, and so does the *nine* cluster, because `state/continuity.md` above already re-derived it from the day map and the ninth day is Sunday 7 December; Ferrand is speaking on the tenth and is a man who counts other people's days for a living. **Chapter 110 was not edited at all** — it is 2,395 words against a 2,400 ceiling, and its only defect was the one in Chapter 109, which is why nothing in it needed moving. **The eight pages are in the front room and not the records room, and Tomas Vale's *I have taught it to a man in a records room with nobody in it* refers to some other occasion in his own history and is left as it is.**
 
 **Re-measured, not estimated. The authoritative pattern in `state/current.md` was re-run over the whole of `chapters/` and returns zero, and the widened narrator-reference scan — plural forms included — returns zero for Volume 03, with the only `series` uses being the records-request series.**
+
+---
+
+# Volume 03 continuity — BATCH 0002, NEW CANON RECORDED BEFORE THE PROSE, 2026-09-26
+
+**Recorded before a single sentence of Chapters 111–120 is drafted, as the Batch 0002 prompt requires. A writer may use anything below. Anything not below may not be used. The section headed *BATCH 0002 AS WRITTEN* follows it after the prose exists, and that one governs.**
+
+## The ten beats, in order, so the shape is auditable before the sentences are
+
+111 **The Issue Slips** · Tuesday 9 Dec, day 94. The band's two occasions get a **date, a time, and a foreman's name** for the first time. 112 **A Room, As She Asked** · Wednesday 10 Dec, day 95. Hobbs in a room; the only man who could say the sentence is barred. 113 **Nineteen Years Ahead** · Thursday 11 Dec, day 96. **The volume's first interface notice, offered and accepted.** The four-day rule expires in this chapter. 114 **What Cannot Leave a Room** · Friday 12 Dec, day 97. The thread as a proximity, the gift's four limits, the first use, and the terrible use thought about and not done and not told. 115 **Three To Twenty-Seven** · Saturday 13 Dec, day 98. Offices shut. The ground on a block went quiet a month after four people died on it. 116 **What I Have Not Told This Room** · Sunday 14 Dec, day 99. Ash Street; the gift nobody can check; step four said out loud with nothing behind it. 117 **Sent Back Twice** · Monday 15 Dec, day 100. **Ferrand's folder arrives.** 118 **The Shutters On Cutbank Row** · Tuesday 16 Dec, day 101. The gift used for what it is, and **a lie told to a program officer in a corridor.** 119 **A Reading You Cannot Repeat** · Wednesday 17 Dec, day 102. The reading changes and nobody caused it. 120 **A Document With A Date On It** · Thursday 18 Dec, day 103. **Rusk's first and only other appearance in the volume.**
+
+## New objects
+
+- **The two issue slips.** One yellow slip per roll, rubber-banded to it, printed by the cell, ref `BWP/TG/4SD/2042`. One slip per occasion. Shape: `SECURING BAND · OCCASION n · TAKEN <date> <time> · WORKS CLEARANCE <time>–<time> · ISSUED <date> <time> · N. PEART, YARD`, and at the foot a ruled line and a foreman's signature. **Occasion 1: `TAKEN 11 SEP 42 06:40 · WORKS CLEARANCE 05:50–07:05 · ISSUED 11 SEP 42 08:10`. Occasion 2: `TAKEN 29 NOV 42 06:15 · WORKS CLEARANCE 05:50–07:30 · ISSUED 1 DEC 42 09:40`.** A reading is taken with a vehicle-mounted instrument and the alignment street has to be shut, so the works' permission is on the slip, and the person who gives it is the works' foreman. **This is the batch's second objective discharged: the band has a date, a time, and a man's name on it, all of them correct, and none of it a form that anybody has to sign twice.** These are the only two new physical slips in the manuscript and their text is fixed above.
+- **The closure timetable on the yard gate**, ordinary works practice, a printed card: the alignment goes from open to closed, and after the closure the public side of the alignment cannot be stood on. **A season is a window and the window is the thing the future lender's want is about.**
+- **The reclassification sheet.** One page, from Ferrand's regional office to the cell's method officer, **dated 1 December 2042**, listing **the forty-four** addresses with a proposed status change `TRANSITIONAL` → `RETAINED` and a box for the method officer's check. **Stamped and returned twice** — `RETURNED — CANNOT BE ACTIONED ON A LATER OCCASION`, once dated 1 December and once dated 2 December — and **the same annotation in Selwyn Anum's own hand in the check box both times: `A schedule is drawn once. Re-issue on the next occasion.`** At the foot, printed by the regional office, a tally line: **`IF ACTIONED: TRANSITIONAL 241 / RETAINED 456`** (241 + 456 = 697). The next occasion is the fourth and is **January 2043, date not yet fixed**, and the reason it is not fixed is that the date has to be inside the contractor's window.
+- **The named observer, Wendy Tallow, 34, regional pilot observer.** Her appointment is the standing request Elias Rook filed at the cell's public counter on 1 December 2042, under the named observer clause that came in with the pilot authorization in August and is in every cell running one of these programs. **She has a hand on the cell's counter log, which is a book at the counter and is not the regional verification log and is not the clearance record and is not the works' shift book.** She is a program officer in the volume's ordinary sense and is correct, and asks fair questions, and is the person Elias lies to in Chapter 118. **She is available for Chapter 142's doorway and is not committed to it; that beat's program officer is not fixed by this batch.**
+- **The Tidal Board's query of 16 December 2042**, from the board's surveyor, asking the cell for the date of the reading the Retention Schedule was built on. It could not be answered at the counter, so it went up to the regional office, **and a copy of the Retention Schedule went up with it — the first time that document had left the district.** It arrives in the Meridian on the sixteenth and reaches a Deputy Director's desk on the seventeenth, and Rusk has read it by the morning of the eighteenth. **This is the whole of the reason Chapter 120 can happen, and it is a pass-through, not a decision.**
+
+## The interface notice, verbatim, and it is the only one in the batch
+
+```text
+Loan offered: Tomas Vale, nineteen years ahead
+Gift name: Load Reader
+Gift: Read the path force will take through a damaged structure. Direction and stress. It is not a repair.
+Boundary: The reading is mine to give. The list of who is on it is not.
+Return: Tell me, out loud, in a room, whether the line moved after I gave it to you.
+```
+
+And under the panel, not in a field, the want, once: **Give it the season. I am not asking for the district.**
+
+**These five lines are fixed by `outline/volume-03.md` and by the proposed-canon section above and are not the writer's to improve. The boundary field is the lender stating a condition and not a narrator restating the volume's distinction, and no chapter may build a second pass at the mechanism on it.**
+
+## Named Thread, exactly as the outline states it, with its four canonical limits
+
+- **The thread is a proximity, not a voice and not a summons.** Elias can feel whether it is live, and it is live when he is standing on ground he is being asked about — which in this volume means the alignment in Tidegate — and it is off on the far side of the cut and off in the Cinder Quarter. **It does not tell him where anybody is, and it does not tell him that a man is near.**
+- **The four limits of the Load Reader, all of them already on the record** (`bible/terminology.md`, `outline/volume-03.md`): **it reveals direction and stress; it is not a repair; it cannot be carried out of the room; and it cannot tell you how many people are on a street.** The third of those is the batch's engine: **a reading does not leave the building it was taken in**, so nothing he learns can be written down, carried to a counter, or handed to anybody.
+- **Hand on the structure is required to read it.** The aftermath of a use is the new perception and it is the dangerous one: **for about an hour afterwards he can see the stress in a structure he is not touching, and it shows a load that is not this building's load today, and it cannot be refreshed and it cannot be willed.** This is Stage 2's cost as the bible states it — aftermath becomes easier to identify and not easier to undo.
+- **The batch's terrible use, and it is a use of this batch and not a search for the man.** A man who can read force in a structure, who has no form, no date, no signature and no second copy, and who is the stranger a district has believed for three weeks, **can become the schedule.** He could put a reading into a program and nobody in that program could ever ask whether it was right on the day it was said, and every reason the Retention Schedule is defensible — an author, a method officer, a footnote, a date, a re-read occasion — would be absent. **He thinks about it, he does not do it, and no chapter lets him off, and nobody in this batch tells him he was right to stop.**
+- **The immediate strain is bodily and is not a meter.** Two uses on consecutive days give him a locked right hand — the two knuckles of the right hand stay locked for an hour and a half, and he cannot hold a cup and cannot write — and one Saturday gives him a nosebleed and a lost hour.
+
+## New figures, all of them derived and all of them fixed
+
+- The reclassification sheet's tally: **241 and 456**, against the schedule's **285 and 412**, out of **697**. The difference is **forty-four**. **A printed document carries 241 and 456; no character says either number in a room in this batch, and the reader is left to do the subtraction, which is the volume's method.**
+- `N. PEART, YARD` on both issue slips, in ink, and it is a man who is fifty-one and has been the foreman of that yard for nineteen years and **does not know that Ferrand named him in a church hall on 8 December.**
+- The band's first occasion was taken on **Thursday the eleventh of September 2042, which is day five, and the sixth of September is day zero.** Elias notices the date, knows what day the sixth was, does the subtraction in his head, does not write it down, and **the reason he does not write it down is on the page**: a man with four dead women's names in pencil on somebody else's hand has no way of knowing whether he has got one of them wrong. **No chapter connects the two events and no narrator may suggest a connection.**
+
+## People added, and what each one is
+
+- **Wendy Tallow, 34, regional pilot observer.** See above. Not a villain, not a resource, correct, and owed an ordinary professional reply in Chapter 118 that is a lie.
+- **Nobody else is new.** No faction, no lender, no future self, no second thread, no new mechanic, no new species.
+
+## What this batch must not do, restated from the prompt and binding
+
+- **The sentence is not said again.** Chapter 106 is the only place the volume's distinction has ever been spoken, and Chapters 111–120 may not restate, improve, summarize, paraphrase, hand it to anybody, or put it in Elias's mouth. **The reader can hold it alone.** Chapter 112 has Hobbs say that the man who could say it exists and is not available, and that is a fact about a boundary and not a second pass at the mechanism.
+- **The third batch objective fails.** *Get somebody who can say out loud that a band is not a list* cannot be achieved in this batch and its failure is the batch, and the reason it fails is that the only man who can say it set a boundary in writing in November and is not asked by anybody, in writing or out of it.
+- **The answer to *who benefits* is not restated, improved, summarized, put in a room, or used as a weapon.** What the batch carries is **conduct**: Elias does not trade a Deputy Director's admission back to him, and Elias does not put four names from a margin in a pencil into a parents' group's card index in a church hall, and the reason is a woman on Cutbank Row's consent and not a moral argument.
+- **The volume's one permitted carrying-beat is Chapter 142 and is not in this batch.** No chapter here stages a refusal to hand a document over in a doorway to two people on a reason about a street.
+- **The word `Choir` is not spoken, written, or on any reproduced leaflet.** The word `faster` is not used. `SECURED SUBJECT` and `SUBJECT HELD` are not used. Perpetua Oyelaran is not named. The three questions on the Ash Street wall are read at seven in Chapter 116 and are not taken down, added to, or answered, the second half of the oldest is still a bracket with nothing under it, **the nineteenth of November is still the only date on that wall**, and Petar Lisk does not add a line because there is no room and he is not going to be the one who builds another wall.
+- **The verification log is not chased and nobody in a room asks Joon Park whether it has come.** The near end is 2 January and the far end is 16 January and this batch receives neither.
+- **A Tidegate address is not read out loud in the front room on Ash Street and none goes near the residents' file.**
+
+## The batch's work-week, checked against the day map
+
+Chapters 111 and 118 are Tuesdays and the depot's 06:30 slot is available and is used in both. **Chapter 114 is the Friday of the batch and the depot runs Tuesdays and Fridays at 06:30: the Friday half is an inventory half, it is on the depot's notice, and it is empty in his week. That is a fact about his week and not about a cancelled slot, and no file and no chapter may say the Friday is gone.** Chapters 115 and 116 are a Saturday and a Sunday and the Tidal Board and the cell's public counter are shut and the yard does not run on Sundays. Chapter 120 is after the counter shuts at 16:30, in the room above number six, with the counter locked.
+
+# Volume 03 continuity — BATCH 0002 AS WRITTEN, recorded 2026-09-26 by the Volume 03 Batch 0002 prose phase
+
+**This section is what Chapters 111–120 actually did. Where the pre-batch NEW CANON section and this section disagree, this section wins. Every new name, street, form number and figure the ten chapters invented is here.**
+
+## Measured result
+
+**Chapters 111–120, *The Reading*, days 94–103, Tuesday 9 December to Thursday 18 December 2042. 20,001 words.** Per chapter, measured with `wc -w`: 111 (2,261) · 112 (2,317) · 113 (2,271) · 114 (2,003) · 115 (1,923) · 116 (1,825) · 117 (1,874) · 118 (1,802) · 119 (1,898) · 120 (1,827). **All ten inside 1,800–2,400. Exactly one interface notice, in Chapter 113, accepted in the same chapter. No others.**
+
+## What the prose did with the pre-batch canon
+
+- **The ten beats were kept in order:** 111 Issue Slips, 112 Room As She Asked, 113 Nineteen Years Ahead, 114 What Cannot Leave a Room, 115 Three To Twenty-Seven, 116 What I Have Not Told This Room, 117 Sent Back Twice, 118 Shutters On Cutbank Row, 119 Reading You Cannot Repeat, 120 Document With A Date On It.
+- **The two issue slips are verbatim as fixed:** Occasion 1 TAKEN 11 SEP 42 06:40 CLEARANCE 05:50–07:05 ISSUED 11 SEP 42 08:10; Occasion 2 TAKEN 29 NOV 42 06:15 CLEARANCE 05:50–07:30 ISSUED 1 DEC 42 09:40; ref BWP/TG/4SD/2042; N. PEART, YARD in ink. Vehicle-mounted reader, street shut by works, foreman signs for the road.
+- **The panel in Chapter 113 is verbatim as fixed**, with want under it and not in a field. No other panel in the batch.
+- **Named Thread as proximity:** live on alignment ground asked about, quiet over the water, off in Cinder Quarter and off Ash Street; does not tell where anybody is. Four limits kept: direction and stress only; not a repair; cannot tell how many on street; cannot be carried out; hand on structure required; hour of wrong-load sight afterwards that cannot be refreshed or willed. Strain bodily: locked two knuckles ninety minutes after consecutive uses, Saturday nosebleed and lost hour. Terrible use thought on Friday bus and Sunday corridor, not done, not told, nobody absolves.
+- **Reclassification sheet as fixed:** one page regional to method officer dated 1 December, forty-four TRANSITIONAL to RETAINED, check box, RETURNED CANNOT BE ACTIONED ON A LATER OCCASION 1 Dec and 2 Dec, Anum hand A schedule is drawn once. Re-issue on the next occasion, printed tally IF ACTIONED TRANSITIONAL 241 / RETAINED 456, next occasion fourth January date not fixed inside contractor window. **Printed numbers never said out loud; reader does subtraction.**
+- **Wendy Tallow, 34, regional pilot observer** appointed on standing request filed 1 December under August clause; hand on counter log which is not verification log nor clearance record nor shift book; correct, fair questions; lied to in corridor in Chapter 118.
+- **Tidal Board query 16 December** from board surveyor for date of reading schedule built on; copy of nineteen-page schedule goes up with it, first time document leaves district; Meridian sixteenth, desk seventeenth, Rusk read by morning eighteenth. Pass-through not decision.
+- **Closure timetable on yard gate** as fixed: open to closed, public side standable until new year; season is window.
+- **Rusk at 120** after counter shut 16:30, room above number six, counter locked, log stays down: pilot authorization document with August date authorizing method not conversion nobody asked for and nobody in Meridian will defend one; read 2 December schedule with italics, does not like it, cannot say so in own office. First Office sentence about schedule. No ruling, no speech, not traded back in corridor.
+- **Third objective fails as required:** nobody who can say band is not list is produced; Hobbs says barred man exists, which is boundary fact not mechanism.
+
+## New names, streets, forms, figures invented here and not before
+
+- **Wendy Tallow** is the only new person. No other new person, faction, lender, future self, thread, mechanic, species.
+- **Marlow Street** named as the street the line moved onto, Sallow Court as the one it moved off; both already on Alagoa's Saturday round (Rennard, Murrow, Marlow, Sallow last). No new street invented beyond naming the pair the rolls already showed.
+- **No new form numbers.** Ref stays BWP/TG/4SD/2042. Custody schedule stays twenty-two items. Hall stays twenty-two cards twenty-eight people four dark hours. Works model stays 1,140 and 2,900. Schedule stays 697 with 412 RETAINED 285 TRANSITIONAL dated 2 December footnote Current reading 11 September 2042. Forty-four inside September outside November all TRANSITIONAL.
+- **New figures derived, not copied:** Cliff 64–73 (day less thirty), Della 94–103 (day), man behind wall 94–103 (day). Fares two pounds seventy-five eleven minutes each way; Tuesday hour of sleep a week for life; 05:50 both clearances, ninety-five and one hundred minutes; foreman fifty-one nineteen years; observer thirty-four.
+
+## Fixes applied in this pass to its own drafts
+
+- **Chapter 111 said four dead women's names; four people died and genders are not on record. Now four dead people's names.**
+- **Chapter 112 said apologising with s and put hand flat on knee; now apologizing, and palm pressed below table edge to avoid the named motif.** Chapter 111 forearm flat on slip reworded to pressed to avoid flat-on string.
+- **Five narrator-to-book references removed:** two-volumes and three-volumes learning, manuscript sentence, reader-of-page plus volume-always, most-chapters entry, in-this-volume Rusk line, Chapter 142 naming. Remaining reader hits are device/gift only: vehicle reader and Load Reader. Volume 03 meta scan returns zero apart from headings.
+- **US-spelling authoritative pattern re-run over whole of chapters/ returns zero. Faster and Choir absent in Volume 03. Hand-flat motif absent. Perpetua unnamed. SECURED/SUBJECT absent. No Tidegate address in residents file. No second thread.**
+
+## Locks confirmed
+
+Zero restatement of Chapter 106 sentence. Sixth pattern unspoken. Three wall questions untouched, bracket empty, 19 November only date, wall full, nobody builds another. Who-benefits not restated; carried only as not opening folder, not using document in yard, not going to four doors, not trading Rusk admission, not putting four in card index. No doorway refusal beat. No bilateral practice. No Sable. No future Nell, Door Memory, branch travel; envelope unsent reason four words. Sector 4C, nine, 2011, K-7Q, 1998 page untouched. Tarin Voss not fixed. Verification log neither end received nor chased nor asked after in room. Depot Tuesday used 111 and 118; Friday inventory half on notice empty in his week.

@@ -681,3 +681,47 @@
 
 - **Cliff: fifty-four days out of the ground as of Chapter 101's day and sixty-three as of Chapter 110's, always the chapter's own day number less thirty, in the chair by the window, with a blanket out of the store room because the heating in that building is a war of opinions and the store room wins.** His name is in a system under a designation created out loud in a hearing room in November, and it is still in chalk in four hands on a wall, and neither is going to be traded for the other. **He was in the front room at nine o'clock on Thursday the fourth of December while a man of sixty-four explained why people disappear, and he said nothing, and his being in the room is the whole of his entry in this batch.**
 - **Della: eighty-four days at a regional family-reception desk in Cordell as of Chapter 101's day and ninety-three as of Chapter 110's, always the chapter's own day number, filed on day 0.** She was not moved for the convenience of a scene, she is not in this batch, and nothing in Tidegate has touched her.
+
+# Character State After Chapter 120
+
+## Elias Rook
+
+- **Thirty-five. Stage 2 Named Thread, earned Chapter 113 Thursday 11 December day 96 and not before. First loan in three volumes, accepted same chapter on stated terms. Present Tomas Vale sixty-four in another room in city not asked, not tried, and restraint not rewarded.**
+- **What he gains is worse than what he lost in Batch 0001:** faint proximity live on asked-about alignment ground, quiet over water, off Cinder Quarter and Ash Street; does not tell where anybody is. Knows which ground offering is live on and has new terrible use — becoming the schedule with no author date or second copy — thinks about it Friday and Sunday, does not do it, tells nobody, not absolved.
+- **Use record:** reads Sallow wall 113, trestle 114, gate pier 115, stair rail 118, Marlow wall twice 119. Limits kept every time: direction stress only, not repair, no count, cannot be carried, hand required, hour of wrong-load sight not refreshable. Strain: locked two right knuckles ninety minutes after consecutive uses, Saturday nosebleed lost hour, split knuckle plaster, back after chairs and depot Tuesday.
+- **Conduct carries who-benefits:** does not open folder in yard Saturday repeat, does not trade Rusk admission back in corridor, does not put four into parents card index on Alagoa consent. Lies once to program officer in corridor 118 about Hobbs request to keep shut-door room out of counter book, admits it to Joon without explanation.
+- **Left hand gone every scene:** folder under right arm, tube against side, buttons with teeth, pins with forearm, cannot hold pen cup rail door. Money travel sleep in that order, eleven minutes two pounds seventy-five, Tuesday hour of sleep for life, about twenty-two dollars first batch plus since. Envelope unsent reason four words. Notebook coat, depot roster one live Tuesday, folder and tube copies only.
+
+## Mara Okafor
+
+- **Thirty-three. Advisership revoked 27 November stays revoked. Four refusals intact unexplained. Not moral point of batch.**
+- **In Tidegate Monday to Thursday only as physician not rescuer; gives count ninety-one with letters and no meaning; hands chemist thread — weekly van since March, told 25 November transitional cannot bill, out mid-January about sixty — clinical administrative, moral point Ferrand's 148 not hers.** Refuses Tuesday summary four o'clock line. Telephones Sunday about chemist. Any offer to people who pay in words said before acted on, still one-way not bilateral; Chapter 113 disclosure to Hobbs and Anum and room follows it, does not start Chapter 122.
+
+## Tomas Vale
+
+- **Sixty-four. Not available designated-site authority past tense forever, Tidegate designated 2 December activates own condition, not consulted by anybody in writing or out, does not seek, not softened not villain. Not in batch except as lender branch nineteen years ahead.**
+- **Future lender different person same name same method, want Give it season not district, boundary reading mine list not, return tell out loud in room whether line moved. Volume never explains barred-and-giving except future self is different person. Nobody puts two together out loud.**
+
+## Joon Park
+
+- **Twenty-four. Custody twenty-two items unchanged, no twenty-third; folder rolls drafts overlay seen logged in margin with date, not held. Four names in pencil back of hand since Sunday 7 December fading, on no schedule no number.**
+- **Only person who can say we do not know that in room wanting seam sentence:** says it Sunday Ash Street about hand-on-wall reading and Wednesday church hall about schedule versus reading versus hand. Says both dates public and refuses sooner; nobody chases log and nobody asks in room whether come. Tells Elias taking is decision not hers, correct answer about pencil.
+
+## Inez Sato
+
+- **Thirty-one. Lock-box power budget consent cards cut right. Two refusals current. Headcount unmoved. Tells cost travel sleep money, makes him say number to Joon not her. Confirms people-who-pay-first order, districts separate, hall not second headquarters, no Tidegate address near residents file.**
+
+## Tobias Ferrand, Selwyn Anum, Nerys Hobbs, Nev Peart
+
+- **Ferrand 52 not on page; figures only via others except folder promise kept: drafts September overlay thing sent back twice arrives Monday 15th with scene, not verification log shortens nothing. Every figure his remains recorded ones.**
+- **Anum 41 drafted footnote, believes reduction correct, cannot sleep since 29 November. Gives method once, operational reason once, refuses twice. Sends reclassification back twice same annotation, hands folder, receives step-four notices. Never states distinction.**
+- **Hobbs 47 will not discuss works in corridor, ask in room. Gives bearing versus ground distinction, clerk signed clearance against reading she did not sign and has not signed anything since 2036, asks for sentence out loud in shut room whether line moved, receives Elias word that cannot be built to. Not resource.**
+- **Peart 51 nineteen-year shift book bench kettle rubber band, not terminal, hand not asked, reason unspent until 141. Does not know Ferrand named him 8 December. Signs both yellow slips, moves own metal ten to six.**
+
+## Winifred Alagoa, Ezinne Abioye, Marged Prosser, Wendy Tallow, Rusk
+
+- **Alagoa 63 at 22 Cutbank Row, thirty-eight years, sheet 1,163 since 4 March 2031, reads bollard Saturdays Sallow last, forty-one versus thirty-nine gap since June unclosed, four dead once in own mouth, margin half-inch second fold kitchen pencil 9 Nov eleven pm, gives four on own terms doors-do-not-die, consent reason for not moving to third place. No doorway refusal.**
+- **Abioye 71 at 19 two rooms PARTIAL TRANSITIONAL correct, forty-four years since 1998, not household not angry wants nothing, sentence once about address somewhere, card back 18 SEP 42 not record. Sees him Thursday rain or not, not promise.**
+- **Prosser 55 parents chair, son 2039 outfall, school leaflet reason, card he-does-not-have-third-one, right about most, not on schedule pad system. Church hall thirty Wednesday.**
+- **Tallow 34 regional observer standing request 1 December August clause, hand on counter log not verification nor clearance nor shift book, correct fair questions, lied to in corridor.**
+- **Rusk 59 Deputy Director first of two appearances at 120 day 103 Thursday 18 December after counter locked room above six: authorization August document method not conversion nobody in Meridian defends; read 2 December schedule dislikes cannot say in own office; first Office sentence about schedule plants 147 without being it. Two things no more no speech, not traded back.**

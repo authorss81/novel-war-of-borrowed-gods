@@ -15,7 +15,7 @@ A modern disaster responder borrows power from future versions of people, and ev
 He prevents the war without erasing the futures that gave him power.
 ## Status
 
-**Volumes 01 and 02 are complete — Chapters 1–100, all written as finished prose. Volume 03 is in progress: its outline exists and its first batch of ten chapters is written and has been through a second repair pass, so the manuscript stands at 110 chapters. The next assignment is the Volume 03 Batch 0002 prose phase, and its prompt lives in one file only: `workspace/volume-03/batch-0002/PROMPT.md`, for Chapters 111–120, *The Reading*, which the writing phase creates for itself. There is no `batch-0006` in Volume 02 and none should ever be created.**
+**Volumes 01 and 02 are complete — Chapters 1–100, all written as finished prose. Volume 03 is in progress: its first two batches of ten chapters each are written, so the manuscript stands at 120 chapters. Batch 0002, Chapters 111–120, *The Reading*, days 94–103, 9–18 December 2042, is complete at 20,001 words with exactly one interface notice at Chapter 113 accepted same chapter and Rusk once at Chapter 120. The next assignment is the Volume 03 Batch 0003 prose phase, and its prompt lives in one file only: `workspace/volume-03/batch-0003/PROMPT.md`, for Chapters 121–130, *The List*. There is no `batch-0006` in Volume 02 and none should ever be created.**
 
 **Volume 01 is five prose batches at Chapters 1–50 and Volume 02 is five prose batches at Chapters 51–100**, each with a batch summary under `workspace/volume-0*/batch-000*/SUMMARY.md`. Volume 03's first summary is at `workspace/volume-03/batch-0001/SUMMARY.md`. Rolling state lives in `state/`. The batch audits are at `reviews/volume-01/`.
 
