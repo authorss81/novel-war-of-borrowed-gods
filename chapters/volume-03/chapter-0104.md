@@ -30,7 +30,7 @@ Inez Sato was in the front room at ten to nine and she had her coat on.
 
 "Eleven minutes. Twice a day, and you will go four days and you will not see anybody in this building for four days, and you are not the only man who has anything else to be doing, and the two of you are taking a day each out of a building that has twenty-eight people in it and none of them are paid for this. Say the number out loud."
 
-"Eight days of travel between the two of us," Elias Rook said, "and about twenty-two dollars."
+"Eight days of travel between the two of us," Elias Rook said, "and about twenty-two pounds."
 
 "Say it like that to Joon Park and not to me, because he will work it out and he will not ask, and if I hear it worked out I will have to look after him about it."
 

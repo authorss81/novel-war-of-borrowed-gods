@@ -32,13 +32,13 @@ The board's surveyor came at about eleven with a hard hat in his hand and did no
 
 He had a query in a folder. It had gone up to the Meridian on the sixteenth of December in an envelope with a copy of the schedule in it, and it was one question, and it had been asked because a competent clerk in a public works department had noticed that a document about a district was dated after the occasion on which the ground had last been looked at, and nobody in three offices had been able to put the two together.
 
-Nerys Hobbs gave him all four in about ninety seconds without being asked twice.
+Nerys Hobbs gave him all three in about ninety seconds without being asked twice.
 
 "Eleventh of September, twenty to seven in the morning, occasion one. Twenty-ninth of November, quarter past six, occasion two. First of January, quarter past seven, occasion four, and that is this month's, taken on the alignment with the street shut and a foreman's slip issued the same morning." She put her finger on the sheet on the trestle. "Every one of them has a date and an hour and a name on it and the name is a foreman's, and he is fifty-one and has been in that yard nineteen years and I would put my sheet in front of anybody on the strength of that."
 
-The surveyor wrote all four down in a small hardback notebook with a rubber band round it, and he wrote them in a column, and then he stopped and looked at the column for a second.
+The surveyor wrote all three down in a small hardback notebook with a rubber band round it, and he wrote them in a column, and then he stopped and looked at the column for a second.
 
-"That is four occasions," he said, "and my query is one date."
+"That is three occasions," he said, "and my query is one date."
 
 "Yes."
 

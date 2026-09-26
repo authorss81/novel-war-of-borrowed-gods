@@ -38,7 +38,7 @@ Then they did it, and it took three hours and ten minutes, and the two things th
 
 **Aurelio Bexley**, fifty-four, put the Retention Schedule of the second of December in front of the board and put the page of the verification log with the four words on it next to it, and said one sentence. "This document records one occasion. That record has been applied to three others. There is no field on it for the second, third or fourth, and there is no field on it for a person, and I am not going to say anything else about it because the board does not need me to and the method officer is sitting there with his hands flat."
 
-The board's surveyor, who is still unnamed and has been since the sixteenth of December, read out four dates in about ninety seconds and closed the notebook and said that he had been given four occasions and his query had been for one, and that the difference between one and four was a Tuesday in February in a yard and a document with a date on it, and that the board's own query of the sixteenth of December had been written on the strength of a document dated after the occasion on which the ground had last been looked at, and that he had wanted to know about that in December and had not been able to find anybody who could tell him.
+The board's surveyor, who is still unnamed and has been since the sixteenth of December, read out the three dates in about ninety seconds and closed the notebook and said that he had been given three occasions and his query had been for one, and that the difference between one and three was a Tuesday in February in a yard and a document with a date on it, and that the board's own query of the sixteenth of December had been written on the strength of a document dated after the occasion on which the ground had last been looked at, and that he had wanted to know about that in December and had not been able to find anybody who could tell him.
 
 Then he turned the notebook round on the table, which is what a person does when they want somebody in a room to read a thing they have written, and there were two words on that page and one of them was the word he had written in a yard on the fifth of January with a bent drawing pin in his pocket.
 
@@ -59,8 +59,8 @@ Ref HTB/TD/4SD/DET/1 · 16 January 2043
    withdrawn from the date of this determination.
 
 3. Grounds. The Schedule was drawn once, on the reading of 11 September 2042,
-   and it records that occasion and no other. Three further occasions are on
-   file, and one of them is a night in November and two are in January. The
+   and it records that occasion and no other. Two further occasions are on
+   file, one of them a night in November and the other in January. The
    footnote at page two directs, in italics, that the band is indicative and
    the Schedule is the operative document. That direction is withdrawn. A
    record of one occasion cannot be applied to another, and an office that
@@ -89,4 +89,4 @@ Outside, on the steps of Civic buildings, at ten past two, in the cold, about ni
 
 "It is Friday," Joon Park said. "It is half past two on a Friday, and I have not said the date once today and I am not going to, and I want to say one thing about that and then I am going to go and post a letter. Everybody in this city has been waiting all week for that log, and not one of them asked me, including you, and on the sixteenth of December I said it in a room to a man at a counter, and I have said it three times in rooms since and I am not going to say it a fourth time to anybody unless somebody asks me in a room, and today nobody asked me and the thing arrived, and I would like it minuted in a book that a man of thirty-four was standing at a counter on Friday afternoon with his hands in his pockets while it did."
 
-Elias Rook got the 11 at ten past three and there were two people on Cutbank Row with a length of paper and a pencil, four feet from the newsagent at number two, and the fourth column had four names in it in four different hands, and the fifth name on it was in a different pencil and was not the same as the other four, and neither he nor anybody else on that pavement was going to be the one who asked who had put it there.
+Elias Rook got the 11 at ten past three and there were two people on Cutbank Row with a length of paper and a pencil, four feet from the newsagent at number two, and the fourth column had four names in it in four different hands at the top of it, and another name on it was in a different pencil and was not the same as the other four, and neither he nor anybody else on that pavement was going to be the one who asked who had put it there.
