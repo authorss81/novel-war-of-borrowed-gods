@@ -1,6 +1,6 @@
 # Chapter 160 — Nobody In That Room Knows Who Signs The Check Box
 
-Cliff Marner was one hundred and thirteen days out of the ground. Della Marner was one hundred and forty-three days at a family-reception desk in Cordell. The man behind the wall was one hundred and forty-three days in, and Elias Rook got the 11 at ten past eight on Tuesday morning, the twenty-seventh of January, and paid the fare, and there were seven working days to the fifth of February, and the yard gate had two documents and four biro words on it, and one of the documents was going to come down on the fifth, and the other nail was still empty.
+Cliff Marner was one hundred and thirteen days out of the ground. Della Marner was one hundred and forty-three days at a family-reception desk in Cordell. The man behind the wall was one hundred and forty-three days in, and Elias Rook got the 11 at ten past eight on Tuesday morning, the twenty-seventh of January, and paid the fare, and there were eight working days to the fifth of February, and the yard gate had two documents and four biro words on it, and one of the documents was going to come down on the fifth, and the other nail was still empty.
 
 Nerys Hobbs had signed a piece of paper that said DAY at the top of it in capitals, and the date, and the crew, and the hour, and she had put it in the tray with the rest of the works' papers and had told nobody she was going to and had told the room on Monday.
 
@@ -48,11 +48,11 @@ And there was one more thing in that room about it, and the woman of forty-seven
 
 "Then it comes out of the drawer," Anum said.
 
-"It does not come out of the drawer," Hobbs said. "It comes out of the drawer and it goes to a table at the counter at number six and it lives on a table with the counter log and the arrival book and it is on a table and not in a drawer, and anybody can walk in on a Monday or a Friday and look at four ruled lines with four dates and four hours and a woman's name at the bottom of them, and nobody signs for it and nobody takes it away, and that is the only arrangement available and I have thought about it for a day and a half and I have not told anybody until now."
+"It does not come out of the drawer," Hobbs said. "It comes out of the drawer and it goes to a table at the counter at number six and it lives on a table with the counter log and the arrival book and it is on a table and not in a drawer, and anybody can walk in on any working day of the week and look at four ruled lines with four dates and four hours and a woman's name at the bottom of them, and nobody signs for it and nobody takes it away, and that is the only arrangement available and I have thought about it for a day and a half and I have not told anybody until now."
 
-"Mondays and Fridays," Elias Rook said.
+"Every working day," Elias Rook said.
 
-"Mondays and Fridays," Hobbs said, "because that is when the counter is open, and I am not opening a counter on a Tuesday to keep a piece of paper dry."
+"Every working day," Hobbs said, "because that is when the counter is open, Monday to Friday from nine till half past four, and I am not opening a counter on a Sunday to keep a piece of paper dry."
 
 ---
 

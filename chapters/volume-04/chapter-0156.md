@@ -4,7 +4,7 @@ Cliff Marner was one hundred and nine days out of the ground. Della Marner was o
 
 The yard gate had three things on it. The night schedule of the thirty-first of December with four rows and four biro words under it. The works' accident form of the eighth of January with a piece of string through the corner and eleven names on it and a line under those in a different pen. And nothing on the other nail, which had been the other nail since Christmas.
 
-There were nine working days to the fifth of February.
+There were eleven working days to the fifth of February.
 
 ---
 

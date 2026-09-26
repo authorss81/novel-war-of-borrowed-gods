@@ -4,7 +4,7 @@ Cliff Marner was one hundred and ten days out of the ground. Della Marner was on
 
 The east side of Cutbank Row was standing empty from the second to the twenty-second and there was one light on in it, on the third floor, over the shop that sells door furniture, and it was on at half past ten in the morning.
 
-The yard was open on a Saturday and had two lorries in it and nine working days to the fifth of February, and Nev Peart had said on the Friday that a Saturday with something on the gate was a Saturday he could get through and a Saturday with nothing on it was a Saturday he could not, and there were two documents and four biro words on that gate and one of the documents was going to come down on the fifth.
+The yard was open on a Saturday and had two lorries in it and ten working days to the fifth of February, and Nev Peart had said on the Friday that a Saturday with something on the gate was a Saturday he could get through and a Saturday with nothing on it was a Saturday he could not, and there were two documents and four biro words on that gate and one of the documents was going to come down on the fifth.
 
 She read the four nights off the notice, the way she has read that notice four times every Saturday since it went up, and then she did Rennard, and then Murrow in a flatter voice, and then Marlow Street, and then Sallow Court last, and it took her about twenty-two minutes and nobody interrupted her and a man of about fifty held a child's hand for the whole of it.
 

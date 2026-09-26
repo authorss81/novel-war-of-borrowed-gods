@@ -26,7 +26,7 @@ He stood at the gate for a minute with his coat on because the next bay had a ma
 
 ---
 
-Tidegate at about half past ten on the Thursday, and the yard had two lorries in it and the rest of the booking on the day work, and ten working days to the fifth of February.
+Tidegate at about half past ten on the Thursday, and the yard had two lorries in it and the rest of the booking on the day work, and twelve working days to the fifth of February.
 
 Nerys Hobbs had the sheet with the four ruled lines on it in a drawer in the survey office, because every line on it was signed and there was no fifth one to sign, and there was a different piece of paper on the trestle, which was a works' day sheet, and it was for the Friday, and it was for a street that had not been on any of the four nights.
 

@@ -1,6 +1,6 @@
 # Chapter 159 — Who Is The Man In This District In February
 
-Cliff Marner was one hundred and twelve days out of the ground. Della Marner was one hundred and forty-two days at a family-reception desk in Cordell. The man behind the wall was one hundred and forty-two days in, and Elias Rook got the 11 at ten past eight on Monday morning, the twenty-sixth of January, and paid the fare, and there were eight working days to the fifth of February.
+Cliff Marner was one hundred and twelve days out of the ground. Della Marner was one hundred and forty-two days at a family-reception desk in Cordell. The man behind the wall was one hundred and forty-two days in, and Elias Rook got the 11 at ten past eight on Monday morning, the twenty-sixth of January, and paid the fare, and there were nine working days to the fifth of February.
 
 The yard had one lorry in it and the rest of the day work on twenty-two to thirty-two Rennard, internal, first floor, which is five days late and has been five days late since the eighth of January, and Nerys Hobbs was on Rennard at about ten with a clipboard she had not written on.
 
@@ -40,11 +40,11 @@ He put the kettle on.
 
 ---
 
-The woman at the counter at number six had the door open from twelve to four on a Monday and there was no queue, and Joon Park was at the end of the counter with the custody schedule in his coat and did not take it out, and said that a regional office had telephoned on the Friday about something on the twenty-eighth and that he had said the counter was open on Mondays and Fridays and that was all the information he had given them.
+The woman at the counter at number six had the door open from twelve to four on a Monday and there was no queue, and Joon Park was at the end of the counter with the custody schedule in his coat and did not take it out, and said that a regional office had telephoned on the Friday about something on the twenty-eighth and that he had said the counter was open Monday to Friday from nine till half past four, and that Mondays and Fridays were the two days of the week on which anybody in this district could put a name into a system in a building with a door on it, and that that was all the information he had given them.
 
 "That is the whole of the telephone call."
 
-"That is the whole of the telephone call," Joon Park said, "and it took about two minutes, and about four seconds of it was them telling me the date and about a minute and a half of it was me saying that the counter is open on Mondays and Fridays, and neither of those two things is going to be in a record and I would like it written down here, in this room, by somebody, that I gave a counter's opening times to a regional office on a telephone on a Friday afternoon and did not give them anything else, and that twenty-two items have not become twenty-three in twenty weeks and I have checked on Friday and again this morning."
+"That is the whole of the telephone call," Joon Park said, "and it took about two minutes, and about four seconds of it was them telling me the date and about a minute and a half of it was me saying that the counter is open Monday to Friday from nine till half past four, and that neither of those two things is going to be in a record and I would like it written down here, in this room, by somebody, that I gave a counter's opening times to a regional office on a telephone on a Friday afternoon and did not give them anything else, and that twenty-two items have not become twenty-three in twenty weeks and I have checked on Friday and again this morning."
 
 Nobody wrote it down, and he had not expected them to, and that was the arrangement.
 
