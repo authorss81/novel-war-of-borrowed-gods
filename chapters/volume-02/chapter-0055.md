@@ -114,7 +114,7 @@ He did not feel better. He did not feel worse. He felt **fast.**
 
 That was the alarming part, and he noticed it on his own, standing there, about a minute and a half after the line went, without anybody having to point at it, and he did not say anything to anybody about it and he wrote one line in the notebook and underlined it, and the line was: *Faster. I have felt that before and I know exactly where, and it is not a good sign and it is not a sign of anything at all.*
 
-It is the feeling he had in the front room on the Tuesday of the fourth week, when a voice had offered him a road that went fast enough to get him his sister, and he had been twenty-nine and he had not yet written four things on a wall.
+It is the feeling he had in the records room on the Tuesday of the fourth week, when a voice had offered him a road that went fast enough to get him his sister, and he had been thirty-five, and he had four things on a wall and had not yet broken any of them.
 
 In the front room, Cliff Marner was asleep in the chair with his coat over him, alive, eight days out of the ground, at fifty-six pounds and going up.
 

@@ -10,7 +10,7 @@ Underneath it, in Inez Sato's chalk, there was a line saying the operation ended
 
 The rest of it was the ordinary morning underneath all of that. Lena Mir did the round in fifty-four minutes with two nurse-assistants and no physician in the building and wrote it on one page in plain sentences, and the page went on the nail where anybody can read it. Ru Sabar's card went back at ten past six exactly as she has said every Friday since the second week. Four carded draws and the corridor light. Tarin Voss at the table by the window with a book he has been eleven days from finishing. Cliff Marner asleep in a chair with his coat over him.
 
-Emil Baros had come down the ramp at ten past five, the way he had every morning for fourteen days, and had walked to the loading lip, and a man in a clean orange jacket had met him at the fence and told him the ramp was inside the closure order and that he could not stand there.
+Emil Baros had come down the ramp at ten past five, the way he had every morning for fourteen days, and a man in a clean orange jacket had met him at the fence and told him the ramp was inside the closure order and that he could not stand there.
 
 He had asked what he was instead.
 
@@ -54,7 +54,7 @@ Rusk looked at him. "I do not know."
 
 "That is a strange answer to give a man at seven in the morning."
 
-"It is the correct one, and I would like to be able to say in a transcript in November that I answered you honestly at seven in the morning. I have not read the schedule of property and I am not going to guess at it."
+"It is the correct one, and I would like to be able to say in a transcript in October that I answered you honestly at seven in the morning. I have not read the schedule of property and I am not going to guess at it."
 
 ---
 

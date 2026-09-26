@@ -20,15 +20,15 @@ They went in the order the Notice listed them, and Solano read each question out
 
 **Three.** Mara Okafor said what was offered in the first week, by whom, with what boundary, and what was done with it, in eleven minutes, without softening anything.
 
-"State your standing conditions for a medical offer," Solano said, "and the disclosure rule that was adopted in this room on the thirty-third day."
+"State your standing conditions for a medical offer," Solano said, "and the disclosure rule your hall adopted on the thirty-third day."
 
 "Any offer, boundary, refusal, and any condition somebody is asked to perform before they give anything goes to the people who pay for it, in the words it was said in, before it is acted on. And the half that is mine: nobody inherits her. A future version of me that lends a hand is a woman deciding about her own capacity, and I do not get to be angry at her later, and I am not going to be a person who says a future version of me agrees with me about this."
 
 "Was that rule in force on the twenty-ninth day?"
 
-"No," Mara said. "It was written on the thirtieth. On the twenty-ninth there was a rule about medical decisions and there was a man who would not ask a question on the radio, and I am telling you that the disclosure rule did not exist when the question was asked, because the answer is no and I would rather you had it from me than found it in November."
+"No," Mara said. "It was written on the thirtieth. On the twenty-ninth there was a rule about medical decisions and there was a man who would not ask a question on the radio, and I am telling you that the disclosure rule did not exist when the question was asked, because the answer is no and I would rather you had it from me than found it in October."
 
-"That is not in your favour," Solano said.
+"That is not in your favor," Solano said.
 
 "It is in the file," Mara said, "and I would like the file to be the kind of thing somebody can check."
 

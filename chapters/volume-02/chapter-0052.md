@@ -48,13 +48,13 @@ Joon Park, who had not said a word for an hour, said, "You are filling in a fiel
 
 Brauer said, "Am I permitted to fill in the subject field on the 14:12 line, given that I was not the person who opened the box and I do not know who was."
 
-Vane said, "You are not. Nobody is. The field is blank because no person has ever come forward who can attest to the subject, and you are not attesting to the subject, and if you put words in there then a person reads them in 2046 and believes a stranger wrote them." He turned the book about ten degrees. "That said, I am not going to stop you, and here is why, and I would like the hall to hear the reason because it is the most useful thing I know about this office. **A field that can be blank will be filled in by somebody who was not there, who will be entirely accurate about their own act and entirely silent about somebody else's, and that is not sabotage. It is a form and a hurry.** In nineteen years the only filling-in of a blank subject field I have seen come out of an archive is a woman remembering her own Thursday and putting it in a Monday's row, and the reason is that nobody ever told her it was a Monday's row."
+Vane said, "You are not. Nobody is. The field is blank because no person has ever come forward who can attest to the subject, and you are not attesting to the subject, and if you put words in there then a person reads them in 2046 and believes a stranger wrote them." He turned the book about ten degrees. "That said, I am not going to stop you, and here is why, and I would like the hall to hear the reason because it is the most useful thing I know about this office. **A field that can be blank will be filled in by somebody who was not there, who will be entirely accurate about their own act and entirely silent about somebody else's, and that is not sabotage. It is a form and a hurry.** In nineteen years the only filling-in of a blank subject field I have seen come out of an archive is a woman remembering her own Thursday and putting it in a Saturday's row, and the reason is that nobody ever told her it was a Saturday's row."
 
 "What did you write," Elias said.
 
 Brauer read it out. It said: *Routine archive review, aisle 9, shelf B. Item 1 of 3 retrieved, mis-shelved, returned. 11:40 to 12:05. Checked against the shelf list and found in order. No other subject.*
 
-"That is true," she said. "All of it. I did that on the Thursday of the week of the sixteenth, and I am not on the duty roster for that week, so it went in two rows up on a Saturday, and I did not look at the year, and the day it happened is not the day it is written on."
+"That is true," she said. "All of it. I did that on the Thursday of the week of the sixteenth, and I am not on the duty roster for that week, so it went in on a Saturday against the day I actually did it, and I did not look at the year, and the day it happened is not the day it is written on."
 
 "It is the wrong day," Vane said, "and it is still the only honest sentence anybody has put in that column in a month."
 
@@ -64,7 +64,7 @@ Vane looked at it for a while and then said, "Enter it, and enter the shelf and 
 
 "Two-one-four is still out," Joon said.
 
-"Two-one-four has been out since the twenty-fourth of August by the log's own account," Vane said, "and I have asked three people this month who logged it out and got three answers, and two of the three were not in this building, and I am the third, and I did not do it. There is a version of this sentence that reads as an accusation and I am declining to write it, and I want that refusal noted as well."
+"Two-one-four has been out since the day of the collapse by the log's own account, opened at 14:12 under a routine archive review, and it has not been back on the shelf since," Vane said, "and I have asked three people this month who logged it out and got three answers, and two of the three were not in this building, and I am the third, and I did not do it. There is a version of this sentence that reads as an accusation and I am declining to write it, and I want that refusal noted as well."
 
 Joon Park took the sheet out of his own folder, the one that is not in any building anybody can enter, and wrote on it in his own hand: *Field filled, Saturday 11:12, by I. Brauer, in the room, from her own recollection, eighteen days after the column was restored. Author of the entry present. Author of the event not present and not identified. No meaning recorded and none asked for.*
 

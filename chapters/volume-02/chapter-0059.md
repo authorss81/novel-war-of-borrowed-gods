@@ -4,17 +4,17 @@ The second sitting was in the same room on the third floor of an Office building
 
 It was twenty-nine minutes past nine on Saturday morning, the forty-second day, and Nathan Rusk sat down at the head of the table and said he was going to read for a while and that nobody would be asked anything until he had finished.
 
-"I have had this since the seventeenth," he said, "and I have been getting it wrong in front of you on purpose for twenty-five days, because a theory you can argue with is worth more to me than one you have to take on trust, and because the person who benefits most from this document being read aloud is the person who wrote it against me. I am that person."
+"I have had this since the seventeenth," he said, "and I have been getting it wrong on paper on purpose for twenty-five days, because a theory you can argue with is worth more to me than one you have to take on trust, and because the person who benefits most from this document being read aloud is the person who wrote it against me. I am that person."
 
 He read for two hours and eleven minutes.
 
 ---
 
-The Office's case was not a monster and it was not stupid, and the part of it that made Elias Rook put his hand flat on the table was how old it was.
+The Office's case was not a monster and it was not stupid, and the part of it that made Elias Rook stop writing was how old it was.
 
 The **2019 Salt Crossing** outfall: a crew with no designation, a shaft on no drawing, six people dead inside eleven days, and a finding that said the word *unlicensed* in every paragraph and the word *cause* in none of them. The **2029 Meridian** review: eleven people dead behind a single approved outcome, and what came out of it was not rope access and not judgment. It was **one instruction, one route, no contradiction in the running order**, with a unilateral senior-safety-officer power to reroute, written by frightened competent people who wanted the number of decisions in a corridor to go down.
 
-"Sir Peter Loman sat on that panel," Rusk said. "So did the man on your left. His name is in the file, I am not going to use it as a weapon at ten past eleven in the morning, and I am telling you it is there because in November somebody will find it there."
+"The man on your left sat on that panel," Rusk said. "His name is in the file, I am not going to use it as a weapon at ten past eleven in the morning, and I am telling you it is there because in October somebody will find it there."
 
 Tomas Vale said nothing and did not move.
 
@@ -40,13 +40,13 @@ At twenty past twelve, Counsel Solano asked Mara Okafor to confirm a page that w
 
 Then, at twenty past one, Rusk asked for the counter-case, and Joon Park produced it, in order, with the times on it.
 
-The blank subject field in an aisle ledger, visible in a printed document since the seventeenth, filled in on Saturday at 11:12 by a woman who was in the room and had not been in the ground — accurate about her own afternoon, silent about somebody else's. The alignment the Office's own terminal had offered, *close the line, the discrepancy resolves, no further action required*, and the refusal written on the page under it in a hand, with a reason in one sentence, initialed, read out twice, in a file four people signed.
+The blank subject field in an aisle ledger, visible in a printed document since the seventeenth, filled in on Saturday at 11:12 by a woman who was in the room and had not been in the ground — accurate about her own afternoon, silent about somebody else's. The alignment the Office's own terminal had offered, *close the line, the discrepancy resolves, no further action required*, and the refusal written on the page under it in a hand, with a reason in one sentence, initialed, read out twice, in the residents' file.
 
-Then the receipt. Two clerks and a handcart, ninety minutes, and a **fourth column in a stranger's chalk on a wall**, because the last clerk ran out of forms at twenty past two and the wall was the only surface in the room with a column on it. One of the twenty-eight lines was wrong, and a nurse made the clerk write a name out in full, strike the number through with one line, and initial the correction in her own hand. It took four minutes, and it is the only place in that ward's history where an Office clerk and a ward nurse stand in the same column in the same ink.
+Then the receipt. Two clerks and a handcart for most of a morning, and a **fourth column in a stranger's chalk on a wall**, because the last clerk ran out of forms at twenty past two and the wall was the only surface in the room with a column on it. One of the twenty-eight lines was wrong, and a nurse made the clerk write a name out in full, strike the number through with one line, and initial the correction in her own hand. It took four minutes, and it is the only ink in that building two people have ever shared.
 
 Rusk had the receipt. He read it twice, turned it round, and read the fourth column aloud, all twenty-eight lines, at twenty-five past one in the afternoon.
 
-"It is in your file already as a receipt," he said. "That is not the same as evidence, and the difference is the whole of what I can do for you this month. I was at your building on Friday night, on my own, and stood in front of that wall for about four minutes. I am trained to look for an author — it is the first thing you do with a document, and I have done it for nineteen years — and I did it in a hallway, and what came back was nothing. Nine-year-old capitals, chalk, a woman who organizes a cooperative, a nurse, a clerk who ran out of paper. If I had to write a paragraph about that wall for a court I could not say who wrote any of it. Neither could you. That is not a gap in your evidence. That is its shape, and I have spent my morning reading a theory that says the shape is the danger."
+"It is in your file already as a receipt," he said. "That is not the same as evidence, and the difference is the whole of what I can do for you this month. I was at your building on Friday night, on my own, and stood in front of that wall for longer than I meant to. I am trained to look for an author — it is the first thing you do with a document, and I have done it for nineteen years — and I did it in a hallway, and what came back was nothing. Nine-year-old capitals, chalk, a woman who organizes a cooperative, a nurse, a clerk who ran out of paper. If I had to write a paragraph about that wall for a court I could not say who wrote any of it. Neither could you. That is not a gap in your evidence. That is its shape, and I have spent my morning reading a theory that says the shape is the danger."
 
 "So the counter-case is not persuasive," Elias said.
 
@@ -56,7 +56,7 @@ Rusk had the receipt. He read it twice, turned it round, and read the fourth col
 
 The four words came at half past two and the room had gone completely still by the third of them. He had one sheet, and he said he had made it himself on Wednesday because he did not trust anybody else to make it correctly.
 
-"**Not used.**" He read where it came from and who wrote it. "An aisle ledger, a subject field, a fortnight in which nobody entered anything, and the entry was accurate because nobody had been told the field was empty. That is the honest word of a system that had not been asked a question.
+"**Not used.**" He read where it came from and who wrote it. "An aisle ledger, a subject field, eighteen days in which nobody entered anything, and the entry was accurate because nobody had been told the field was empty. That is the honest word of a system that had not been asked a question.
 
 "**Withdrawn.** A nineteen-year-old, in his own words, on the sixteenth, through a finding this office adopted at the cost of five years of forms and a third of its clerks. The strongest document any of you hold has no name on it, the withdrawal is what took it off, it was correct, and it is the only reason the page is still valid.
 
@@ -110,11 +110,11 @@ One question was left in the room, and Elias asked it at ten to five.
 
 "If I show you the field, will your report say the field was cut out and reviewed, and not altered by us."
 
-"Your report is a document and not a finding, and I told Mr. Park on Thursday that a private record is not an alteration of a public one. It is the correct sentence, it is the one you have to live behind for eleven months, and I would have said it to your face in a room with no recorder in it."
+"Your report is a document and not a finding, and I told Mr. Park on Thursday that a private record is not an alteration of a public one. It is the correct sentence, it is the one you have to live behind from the day I write mine, and I would have said it to your face in a room with no recorder in it."
 
 "I can live behind it," Elias said.
 
-"You can live behind it because it is true," Rusk said. "That is the difficulty. If it were false it would cost you nothing. Being right is not the same as being safe, and nobody has ever said that to you in a room where it mattered, so I am saying it three months before I write it down."
+"You can live behind it because it is true," Rusk said. "That is the difficulty. If it were false it would cost you nothing. Being right is not the same as being safe, and nobody has ever said that to you in a room where it mattered, so I am saying it months before I write it down."
 
 Then he said, "One more thing, and I am not going to be thanked for it."
 
