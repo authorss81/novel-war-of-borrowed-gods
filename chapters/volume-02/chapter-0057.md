@@ -68,7 +68,7 @@ The fifth question came back at half past three, and Elias Rook had been the sub
 
 He said four sentences and made no promise and signed nothing.
 
-"Question five. **Nobody in this building edited anything, and somebody in a building we cannot reach removed a field, and we can show you the field and not the hand.**" He put his right hand flat on the table, and the recorder's red light was on, and that was the part he could not stop noticing. "A field was cut out of a page with a blade in a book, in a room, by somebody, and somebody else reviewed the page eleven years later and wrote a word across the hole in a block that is not a person's block. Both are in another city. I am not going to give you a name in a room with a microphone in it, because if I give you a name this afternoon then in October you will have a name and no document, and in eleven years the name will be in a file with a question mark on it, and I am not doing that to a fifth thing."
+"Question five. **Nobody in this building edited anything, and somebody in a building we cannot reach removed a field, and we can show you the field and not the hand.**" He put his right hand flat on the table, and the recorder's red light was on, and that was the part he could not stop noticing. "A field was cut out of a page with a blade in a book, in a room, by somebody, and somebody else reviewed the page eleven years later and wrote a word across the hole in a block that is not a person's block. Both of those are in another city. I am not going to give you a name in a room with a microphone in it, because if I give you a name this afternoon then in October you will have a name and no document, and in eleven years the name will be in a file with a question mark on it, and I am not doing that to a fifth thing."
 
 Rusk, who had been sitting at the far end of the table for the whole day without speaking, said, "That is a refusal to name a person in exchange for a document. I accept it. I am also going to record what you did not say, which is that you know there is a field and you have not seen it. Do you want to correct that."
 
@@ -86,7 +86,7 @@ Then he put the file down and gave them the rest of it, and it was not in the fi
 
 He stopped, and he did not point at anybody.
 
-"That is the theory," he said. "It is the only theory this office has and it is not a good one. It is a category and a time and a gap where a name should be. I am not accusing anybody in this room of anything. But if the theory holds then your capacity in that corridor is the reason a building came down, and if it does not hold then I need a better one before October, because I have to write a report either way and I would like to write the true one. I have no third position and I am not going to pretend to one in front of a recorder."
+"That is the theory," he said. "It is the only theory this office has and it is not a good one. It is a category and a time and a gap where a name should be. I am not accusing anybody in this room of anything. But if the theory holds then your capacity in that corridor is the reason a building came down. **I need it to hold or I need a better one before October**, and I have to write a report either way and I would like to write the true one. I have no third position and I am not going to pretend to one in front of a recorder."
 
 Elias said nothing for eleven seconds, the longest anybody in that room had gone without speaking, and Rusk waited, and then Rusk said, "Now the part I actually need."
 

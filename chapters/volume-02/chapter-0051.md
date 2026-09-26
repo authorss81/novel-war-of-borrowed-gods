@@ -8,13 +8,13 @@ It is two questions on one line, and Petar Lisk is nine, and he had put a bracke
 
 Underneath it, in Inez Sato's chalk, was a line saying the operation ended at ten minutes to six on Sunday, ten minutes before it began, that a seal went on at six with a woman in that chamber, and a name. **PERPETUA OYELARAN.** Nobody had crossed it out and nobody was going to.
 
-The rest of it was the ordinary morning underneath all of that. Lena Mir did the round in fifty-four minutes with no physician in the building, wrote it on one page, and put it on the nail where anybody can read it. Ru Sabar's card went back at ten past six, as she has said every Friday since the second week. Four carded draws and the corridor light. Tarin Voss at the window with a book he has been eleven days from finishing. Cliff Marner asleep in a chair with his coat over him.
+The rest of it was the ordinary morning underneath all of that. Lena Mir did the round in fifty-four minutes with no physician in the building, wrote it on one page, and put it on the nail where anybody can read it. Ru Sabar's card went back at ten past six in the evening, as she has said every Friday since the second week. Four carded draws and the corridor light. Tarin Voss at the window with a book he has been eleven days from finishing. Cliff Marner asleep in a chair with his coat over him.
 
 Emil Baros had come down the ramp at ten past five, the way he had every morning for fourteen days, and a man in a clean orange jacket met him at the fence and told him the ramp was inside the closure order and that he could not stand there.
 
 He had asked what he was instead.
 
-Nobody had an answer, so he came back up the ramp and sat down in his coat at ten past six. At a quarter to eight Elias Rook came through the door, and Emil Baros stood up and said, with no particular way of saying it, that he had been waiting all morning for somebody to ask him a question, and would they be quick about it, because he had been up since half past four for nothing.
+Nobody had an answer, so he came back up the ramp and sat down in his coat at ten past six in the morning. At a quarter to eight Elias Rook came through the door, and Emil Baros stood up and said, with no particular way of saying it, that he had been waiting all morning for somebody to ask him a question, and would they be quick about it, because he had been up since half past four for nothing.
 
 Elias Rook, who has run a corridor for thirty-four days and has a left hand that has gone completely, has never had a morning with nothing to plan.
 

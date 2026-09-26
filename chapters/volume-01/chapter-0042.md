@@ -4,7 +4,7 @@ First light on Wednesday was gray and dry and four degrees colder than the day b
 
 Petar Lisk read the limits before anybody put a hand on the ladder. He was not the observer. He was the person who read the limits, because on Monday he had asked for the job in front of nine people and Elias had said yes before anybody could make it a favor.
 
-**NO MOVEMENT AT THE LIP BEYOND 0.4 MILLIMETRES. THE SURVEY STOPS AT THE STATED DEPTH AND STOPS AT THE STATED TIME, WHICHEVER COMES FIRST, AND NEITHER CAN BE EXTENDED BY ANYBODY ON THIS SITE, INCLUDING THE OFFICE.**
+**NO MOVEMENT AT THE LIP BEYOND 0.4 MM. THE SURVEY STOPS AT THE STATED DEPTH AND STOPS AT THE STATED TIME, WHICHEVER COMES FIRST, AND NEITHER CAN BE EXTENDED BY ANYBODY ON THIS SITE, INCLUDING THE OFFICE.**
 
 Then he read the other one, in his own hand, the one that had no depth in it.
 

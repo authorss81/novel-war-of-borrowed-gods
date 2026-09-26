@@ -80,7 +80,7 @@ Joon read the times off the printed margin and then read them a second time, and
 
 05:17.11. And 05:24.40.
 
-Tomas sat down on the fuel-line kerb.
+Tomas sat down on the fuel-line curb.
 
 “That is a mechanical pen on a mechanical clock driven off the same rectifier as the annunciator,” he said. “It does not know what time it is except from the current. It cannot be edited without removing the tape. It cannot be made to print a false mark by anything anybody in that station could do from a platform.”
 
