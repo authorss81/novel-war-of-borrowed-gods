@@ -226,3 +226,23 @@ Update `workspace/volume-02/batch-0002/SUMMARY.md`, `state/current.md`, `state/c
 ## Handoff
 
 After Chapter 70, Volume 02 has three batches remaining: **71–80 (*The Signature*, including the volume midpoint at Chapter 75), 81–90 (*The First Use*), 91–100 (*The Release*).** Write exactly one next prompt — `workspace/volume-02/batch-0003/PROMPT.md` — and no additional phase. `outline/volume-02.md` is canonical for the day map, the twenty continuity locks, and the volume's ending shape, and it must be read before any Batch 0003 prose is drafted. **The Chapter 75 reversal is the largest unpaid beat in the series so far and Batch 0003 has to earn it: a paper Civic Spine maintenance log, 1996 to 2001, line 41 of a page for the seventeenth of October 1998 signed at 04:12, a *requested by* field cut out of the page with a blade about two inches by one, nothing missing from the index because the index records lines and not fields, and a 2011 review annotation in a unit's block saying *superseded*, *not applicable*. Hester Lund is sixty-eight and is a school caretaker and is not a villain and is not a future self, and the volume's cost is that the team would have to put her name in a proceeding in order to use the thing she signed, and does not, and the book is weaker for it.**
+
+---
+
+## RECORD APPENDED BY THE PHASE THAT EXECUTED THIS PROMPT — 2026-09-26
+
+**This section is a record, not an assignment. Chapters 61–70 are complete as finished prose. Do not re-dispatch this file as a writing prompt: it is finished work, and the next phase is `workspace/volume-02/batch-0003/PROMPT.md`.**
+
+The prompt's own rule was that any named person, form number, street, date or document not already on its page had to go on its page and in `state/continuity.md` **before** the prose used it. The prompt carried the archive, the custodian, the clerk, the signalman and the two Marners, and it did not carry five minor figures or two institutional objects. **All of them are recorded below and in `state/continuity.md`, and all of them were fixed in the prose before the batch was closed, which is the only way the rule can be honoured after the fact rather than merely claimed.**
+
+**Named people added, none of them a faction, a lender, a future self, or an Office official other than Solano:**
+
+- **Yvette Roche, 24**, a family-reception clerk at the regional transit desk in the same complex as the records center. **She is the voice on the telephone in Chapter 55 and the hand on the pad in Chapter 55's last scene, and the prompt described her only as *a young woman in a corridor*.** She says the one true thing in her building, once.
+- **Dr. Imogen Sarkar**, the physician who has been looking after Cliff Marner since he came up, and to whom the Thursday decision belongs. The prompt required *a room with a physician in it* and did not name one.
+- **Wren Okonjo**, six years at the records center's Saturday counter, who can give a credential count in four seconds and nothing else.
+- **Bettina Hoyle**, six years on the Sunday store-room desk, four visitors in six years, two of them lost, who says what a book is for.
+- **Constance Ilori, 57**, copy supervisor, nineteen years, who cannot waive a fee and certified a copy under a store attendance once, having never done it before.
+
+**Institutional objects added:** **the center's hours, including the Sunday store-room public hour from ten to twelve that a preservation levy pays for**; **the re-dating rule, printed under the eleven-day notice in smaller type**; **the movement-book line dated the fourth of March 1998**; **and the page limit and copy fee, thirty-one dollars, with a store-certified alternative at two dollars forty.**
+
+**Three restatements of canon in this prompt conflict with the manuscript, and the manuscript is right in all three:** the day table puts Elias at a depot hose slot on the mornings of Chapters 62 and 65; the Chapter 69 card says the honest answer is the second in *nine* days where day forty-two to day fifty-two is *ten*; and the calendar puts a records request on day 45 or 46 landing in days 73 to 87, where the prose files on day 46 from a stated date and the interval runs to days 74 to 88. **The Chapter 69 card also assigned this batch the *measurably safer with fewer contradictory reports* half of the answer to *who benefits*, which is Batch 0004's answer in `outline/volume-02.md`; the prose does not take it, and the volume's live question survives the batch intact.** Full statements are in `state/current.md` under *Batch 0002, 2026-09-26* and in `state/continuity.md`.

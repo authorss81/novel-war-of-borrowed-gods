@@ -252,7 +252,7 @@ The Office's daily return for a designated site demands a **count of persons pre
 
 **Day zero — the collapse — is Saturday the sixth of September 2042.** The manuscript previously named the ninth of September, which is a Tuesday, and every weekday in both volumes is derived from day zero being a Saturday. All named dates have been re-derived from the fixed day zero and corrected on the page, and the resulting weekday table reproduces `outline/volume-02.md` exactly, which is the check that the fix is right. **No future chapter may use a drift-prone day-and-month figure. Name the day number, or say *since he came up on the thirtieth*, or say the weekday.**
 
-Day 0 Sat 6 Sep · 17 Tue 23 Sep · 24 Tue 30 Sep · 29 Sun 5 Oct · 30 Mon 6 Oct · 33 Thu 9 Oct (the seal) · 34 Fri 10 Oct · 40 Thu 16 Oct · 41 Fri 17 Oct · 42 Sat 18 Oct · 43 Sun 19 Oct · **45 Tue 21 Oct (the Cordell visit)** · 53 Wed 29 Oct · 54 Thu 30 Oct · 64 Sun 8 Nov · **75 Thu 20 Nov (the volume midpoint)** · **83 Fri 28 Nov (the volume close)** · 100 Mon 15 Dec.
+Day 0 Sat 6 Sep · 17 Tue 23 Sep · 24 Tue 30 Sep · 29 Sun 5 Oct · 30 Mon 6 Oct · 33 Thu 9 Oct (the seal) · 34 Fri 10 Oct · 40 Thu 16 Oct · 41 Fri 17 Oct · 42 Sat 18 Oct · 43 Sun 19 Oct · **45 Tue 21 Oct (the Cordell visit)** · 53 Wed 29 Oct · 54 Thu 30 Oct · 58 Mon 3 Nov (**the volume midpoint, at Chapter 75**) · 63 Sat 8 Nov · 64 Sun 9 Nov · 73 Tue 18 Nov · 74 Wed 19 Nov · 75 Thu 20 Nov · **83 Fri 28 Nov (the volume close, at Chapter 100)** · 100 Mon 15 Dec.  **CORRECTION, 2026-09-26: this line previously read *64 Sun 8 Nov*, which is Chapter 63's date, and it previously labelled *day 75* as *the volume midpoint*, which it is not. The volume midpoint is CHAPTER 75, and the outline's day map puts Chapter 75 at DAY 58. See the Batch 0003 note below.**
 
 **Two counting bases remain permanently distinct.** *A day number* is days since the collapse. *The eleventh day* was the review board's own count from the collapse Saturday, and it expired in Chapter 32. They are never the same quantity.
 
@@ -426,3 +426,152 @@ A review of the repair pass above returned **ten findings.** Two were high, thre
 **Trivial — fixed.** After the fifth-question trim, *Both are in another city* had a loose antecedent, because the bolded lead-in now supplies only one of the two referents the original clause pointed at. **It reads *Both of those are in another city*** — one word, and the two acts it refers to are the two the sentence has just described.
 
 **Net effect on the manuscript: 24,175 → 24,182 words across Chapters 51–60**, and **Volume 01 Chapters 13 and 42 are one word shorter each.** No chapter is over a ceiling its card does not grant it, and no chapter came under a floor.
+
+---
+
+# Volume 02 continuity — established through Chapter 70
+
+## The calendar, extended and unchanged
+
+Day 0 Sat 6 Sep · 33 Thu 9 Oct (the seal) · 40 Thu 16 Oct · 41 Fri 17 Oct · 42 Sat 18 Oct · 43 Sun 19 Oct · 44 Mon 20 Oct · **45 Tue 21 Oct (the Cordell visit)** · 46 Wed 22 Oct · 47 Thu 23 Oct · 48 Fri 24 Oct · 49 Sat 25 Oct · 50 Sun 26 Oct · 51 Mon 27 Oct · 52 Tue 28 Oct · 53 Wed 29 Oct · **54 Thu 30 Oct (Ch. 71) · 55 Fri 31 Oct (Ch. 72) · 56 Sat 1 Nov (Ch. 73) · 57 Sun 2 Nov (Ch. 74) · 58 Mon 3 Nov (Ch. 75, THE VOLUME MIDPOINT) · 59 Tue 4 Nov (Ch. 76) · 60 Wed 5 Nov (Ch. 77) · 61 Thu 6 Nov (Ch. 78) · 62 Fri 7 Nov (Ch. 79) · 63 Sat 8 Nov (Ch. 80)** · 64 Sun 9 Nov (Ch. 81) · 73 Tue 18 Nov (Ch. 90) · 74 Wed 19 Nov (Ch. 91) · **83 Fri 28 Nov (the volume close, at Chapter 100)** · 100 Mon 15 Dec.  **The Batch 0001 and Batch 0002 versions of this line carried two errors, both corrected here on 2026-09-26: *64 Sun 8 Nov* was Chapter 63's date, and *day 75 = the volume midpoint* conflated a day number with a chapter number.** **A day number is days since the collapse. *The eleventh day* was the review board's own count from the collapse Saturday and it expired in Chapter 32. They are never the same quantity.**
+
+**Elapsed figures and how to say them. Prefer *since he came up on the thirtieth* and *since the sixth of September* to a numeral.**
+- **Cliff Marner** came up on a board at 20:20 on **day thirty**. **Fourteen days out on day 44, fifteen on day 45, seventeen on day 47.** Chapter 61 has *fourteen* and Chapter 64 has *seventeen*, both derived from the day. **The Batch 0002 prompt's phrase *fifteen days out of the ground on day 45* is correct for day 45 and was not carried into the Thursday chapter, which is a different day.**
+- **Della Marner** filed on the sixth of September, day zero, and has been at a family-reception desk since. **Forty-five days on day 45, forty-seven on day 47, forty-eight on day 48, fifty-three on day 53.**
+- **The man behind the wall** came this way on the collapse Saturday. **Forty-four days in on day 44, forty-seven on day 47, fifty-three on day 53**, and the count in any chapter is always the chapter's own day number. **Derive it from the day, never from another state file.**
+
+## The four-to-six-week clock, which is now running twice and both are on the page
+
+1. **Della's original request, quoted on day fourteen.** **The near end of that range expired on Saturday day forty-two and nothing came**, and the hall learned that by telephone in nineteen minutes of a queue, on day forty-four. **The far end was a week on Saturday and nothing came either.**
+2. **The team's own records request, filed at the counter on Wednesday day forty-six, the twenty-second of October.** It could not be filed earlier because the box did not come back until ten to four on the Tuesday and a holding number is not a request. **Quoted at four to six weeks from the twenty-second of October: the nineteenth of November at the near end, the third of December at the far end.** Days 74 to 88. **Only the near end falls inside the volume, and day 74 is Chapter 91 — the first day of Batch 0005, the volume's last batch — and not the end of Batch 0004 as an earlier note in this file said.** The Batch 0002 prompt's figure of *days 73 to 87 from a day 45 filing* is superseded: the prose files on day 46 from a stated date, and the arithmetic follows the prose.
+
+## The Cordell Regional Records Center
+
+- **Rufus Aitken, 51, custodian.** Nineteen years on the counter, eleven in the store. Courteous, keeps a queue, does no favors, will not be told what a box is for, and **asks first whether the caller is the person the holding number was given to** and says the ordinary case out loud, twice, in front of a witness, so that nobody afterwards can be told it was special. **He has read a page out loud in the interview room exactly once in nineteen years and did not do it for the team, and gave the reason: a man came in about his wife, and a page is not an act of care, it only feels like one, and he stopped doing it on purpose. That reserve is unspent.**
+- **Hours, canonical:** counter 08:30–16:30 Monday to Friday; 09:00–13:00 Saturday; **closed Sunday except for the store room's public hour 10:00–12:00, which exists because a preservation levy pays for it and nobody has ever once used it.** The counter and the reading room both close at half past four, and a visitor not through the door at four is tomorrow.
+- **The re-dating rule, on the wall, in smaller type than the eleven-day notice:** a request received on a closed day is registered on the next open day and the waiting period begins then. **Nobody wants a visitor to read it. It is the sentence that turns a location into a state, and asking about it is how the team got Wednesday.**
+- **The addition on the north side is the regional transit family-reception hall.** Ninety meters. **Same building material, same decade, same walk, different management, different budget, different sign, and no relationship to the records center except a corridor.** The young woman who wrote Cliff Marner's name on a pad on the ninth day had been standing ninety meters from a store room with nine credentials in it for forty-five days. **That is two budgets and not a conspiracy, and no chapter may make it one.**
+- **Wren Okonjo**, six years at the counter, can give a credential count in about four seconds and nothing else at all. **A count has four things on it and has never had a holder field and is not going to get one.**
+- **Bettina Hoyle**, six years on the Sunday store desk. Four visitors in six years, two of them lost, and she is not sorry about the two. **She is the one who says what a book is for: a book is a thing a person can be argued with, and that is the whole difference between a book and a form.**
+- **Constance Ilori, 57, copy supervisor, nineteen years.** **She cannot waive a fee and did not.** What she did, and has never done in nineteen years, was certify a copy under the **store attendance** at two dollars forty instead of under the center at three dollars ten, and sign for it, and ask for two things: **do not thank me, and send the copy number to the day book on the shelf so that one entry in that card index was made by somebody who was asked.** **She refused the facsimile release of the 1998 page and gave the reason: a photograph is obviously a picture and a facsimile is not obviously anything, and that is what it is for.**
+
+## The new people, and what each of them is
+
+None of these is a faction, a lender, a future self, or an Office official other than Solano.
+
+- **Rosalind Teague, 39**, regional records clerk at the center, twelve years, second floor. **She filled in `not applicable` in the printed box on the fourteenth of April 2035 and is entirely accurate about her own afternoon and entirely silent about nine people.** She told them everything, unprompted, and would change the words tomorrow if the box had asked her who. **Her sentence is the volume's thesis arriving in a second building: *I answered the question on the form. It was not the question I would have asked.*** She refused to be described as brave in a corridor: *I was competent at a form, and there is a difference, and I have got quite good at it.* She produced no name, and **the team did not put her name in anything**, and the cost was named out loud: **the document is weaker without her name.**
+- **Yvette Roche, 24**, family-reception clerk at the transit hall. The voice on the telephone on the eighth day and the hand on the pad on the ninth. **She said the one true thing in that building, once, and would not say it twice: the roster has Cliff Marner, he clocked on at four minutes to six on the sixth of September, and there is no incident recorded against that service on that date because the service did not stop — and she has been writing `unresolved` in a box since the sixth of September.**
+- **Dr. Imogen Sarkar**, the physician who has been looking after Cliff Marner since the thirtieth, and who was given the Thursday decision in a room while Elias held a corridor ninety meters away. **The decision is hers and Elias's is a job and not a say.**
+- **Wendell Pryce, 58**, worked the west apron line, **did not hold `MNT-4C-17`, says so out loud and repeatedly, and is right to.** He opened two doors and closed one, and asked for nothing. **He is not a resource and was not broken out of one. He is the only person in the batch who says a true thing in a room that does not want it and then refuses the thanks.**
+
+## The form, the box, and the two words — the batch's central fact
+
+**The 4C renumbering form is regional, not Office.** Eleven printed fields: nine about the sector, block, sequence, date, sheet count and store; a ruled and empty **HOLDER** field on every sheet in the file; and an eleventh printed field reading:
+
+**IF A FIELD IS NOT CARRIED FORWARD — STATE THE REASON.**
+
+**The entries are `not applicable`, in a small neat hand, in the correct box, on the correct day, in the correct space, and the file is signed by a unit in a block and not by a person.** Aitken said it plainly in a doorway: the box asks what happened to the *field*, the design of the form is deliberate and good, and he would fight anybody in his building who called it a cover. **The box's label is a third thing: it is not a name for a person and it is not a name for an office, and it is a sentence about a field.**
+
+**The batch's finding, and the volume's thesis in its second building: the box is not a mechanism for hiding a person. It is a mechanism for not carrying one, and the difference is worse.** Nobody in 2035 hid anybody, nobody decided anything, the field did not have to be carried, and everybody went home at four o'clock.
+
+**A field that does not exist (4C, 2035); a field that can be blank and gets filled in accurately by somebody who was not there (the aisle log, 14:12); a field never designed for the thing in question (the Office baseline survey); a field that exists and is the right box with nowhere to attach (line six, persons recovered from site). The fifth pattern is new and it is the one that answers the other four: a field that somebody designed a box for, and somebody used, correctly, about the field.**
+
+**Joon Park's Finding 3 habits do not transfer.** He said so out loud in the store room: the Office's practice is bound by no instrument in another region, whatever happened on that form happened without a correction, a withdrawal, a finding or a copy, **and nobody could have been disciplined for getting it wrong and nobody was protected either.**
+
+## The 1998 store log — a documentary oddity and nothing more
+
+**The 4C sheets were pulled out of a store of older sheets, and the store's movement book records the pull on a line dated THE FOURTH OF MARCH 1998 — thirty-seven years before the 2035 renumbering it records.** The entry is `4C / WEST APRON — SECT. WORKS, EARLIER SERIES — TO CONSOL. STORE 3.` and it is signed by a unit in a block. **Nobody resolved it, nobody may resolve it in this volume's first two thirds, and it may not be read as sabotage, as evidence of institutional editing, or as connected to anything. It is not connected to the First Silence and the First Silence is not explained anywhere in this volume.**
+
+**Aitken's honest institutional answer, given in full and labelled as incomplete by him: a store is re-purposed, a shelf is renumbered, and the book recording which shelf is which is not renumbered in the same week, because the two people have two jobs and one of them is in a hurry on a Tuesday. That is good practice and it is not a complete answer and the chapter says so.**
+
+**The batch's method and its cost, stated once: Joon Park saw the shape — the aisle log, a book somebody can be argued with, a field that is either there or is not, a form and a hurry — and refused it out loud in a building that was not his, and asked for the refusal to go into the store's own day book, and it did. Elias Rook backed him without understanding why and understood by the end of the afternoon that a refusal in a room where nothing belongs to you costs almost nothing, and that the day it costs nothing is the day it stops being a refusal and becomes a habit.**
+
+**What may not leave the store and what may: the movement book does not leave, in any form, including a facsimile; the 2035 form may not be photographed because it is a living form, and a certified copy may leave; photographs of the movement book are freely permitted, initialled by the archivist and by the visitor, with one of the two visitors in the room at all times.**
+
+**The page that was left behind, and why.** The team's own hand transcription of the printed headings and the wording over the second box, made with a pencil in a store room on a sheet of the hall's own paper, **is a derivative copy and is registered in Cordell and compared against the original and does not travel.** **Joon Park signed the lodge entry and would not let Elias Rook sign it.** **The price, said out loud: the only copy of that wording in anybody's handwriting is now in three places and none of them is a building you can walk into tonight.**
+
+## What is on the Ash Street wall, and where the material is
+
+**On the wall, in nineteen hands, in chalk, dated day fifty-two, forty minutes, nobody allowed to help:** the certified count of nine with the center's seal on it; the printed headings and field labels and the exact wording over the second box; the two words `not applicable` with the date and the year and the store; and four lines describing the movement-book line with the page and frame numbers and **no explanation**.
+
+**It is not in the residents' file and it is not in a file.** Inez Sato's reason: the file is the thing under a demand and there is no line on it for a resident to refuse on, and the wall is a wall. **Nadi Bell's counter-argument is written underneath it and is the batch's most expensive sentence about safety: *being safe from being taken and being able to be asked are two different things, and today we are choosing the first one on purpose, and I am the person who wrote down a movement record in a past tense precisely so that we would have two versions, and I am not going to pretend that is not a cost.***
+
+**Petar Lisk's third line, read twice to twenty-eight people, containing no number about people and answering neither question:**
+
+> **A BOOK IN ANOTHER CITY HAS A DATE ON IT THAT WE ARE NOT GOING TO SAY OUT LOUD IN HERE. FOUR FRAMES OF IT ARE IN THE RECORDS ROOM AND A SEAL ON A COUNT IS UNDER THE CLERK'S FOURTH COLUMN. PETAR L. — I AM NINE AND I HAVE READ IT TWICE.**
+
+**Why the year cannot be said out loud in that building, and no rule was made:** a hall that says out loud that it is looking for something has started a search, and a search gets a name, and a name gets a date on it, and a date gets somebody's *why*, and a *why* is a conclusion with a person attached to it. **They have a store that consolidates, a line in a book nobody can explain, and a year nobody in the building can say, and it is the first time in six weeks that the thing they were not saying was the thing keeping the hall safe.**
+
+**Where the material is, all of it, and none of it is servable by the Havenport Continuity Office:** a biscuit tin in the front room on Ash Street with a rubber band round it twice; **the county library's local-history room in Cordell holds a copy of the copy, in a box with a catalogue card naming the residents' body and saying the papers are not to be removed without the written consent of the people who wrote them**; four frames in the records room; two certificates in the tin; **and one page of the hall's own paper lodged in a register in Cordell that is not traveling.**
+
+## The batch's answer, and what it is not
+
+**Said out loud in Chapter 69 and it is the volume's: *nobody lost nine people in two thousand and thirty-five. The renumbering was built so that losing them was a correct thing to do.*** There is a printed box for the loss, the box is the reason nobody had to decide anything, and the answer to *who benefits when a branch is officially deleted* has moved one building over again and come back as a form.
+
+**And that is a question and not a verdict, and the second half of the Chapter 50 question is still unanswered.** Elias Rook said out loud that he still cannot say the word, **and that neither can Deputy Director Rusk, and asked for it to be minuted.** Rusk said he would have it minuted. **What a system gains by having fewer contradictions in it is not answered anywhere in this batch, and the answer — a deleted branch produces fewer contradictory reports, and a network built to suppress contradictory reports is measurably safer with fewer of them, and the reporting word is *error*, and the machinery chose the word — belongs to Batch 0004 (Chapters 81–90) and is not taken here.** The Batch 0002 prompt's Chapter 69 card assigned that half to Chapter 69; the outline owns the answer and the prose follows the outline.
+
+## Deputy Director Rusk's fifth true thing, and the wall he cannot move
+
+**On the telephone on Tuesday day fifty-two he asked one question — *Did you find a name* — and the honest answer cost the team more than a dishonest one would have, and Rusk said why: a name would have been a sentence, and a decent sentence, and a document about a person produced by a team with a holding number that nobody in the inquiry could ever have checked.** He also said **he has written a report on a Monday and has not written it well**, told two men in a ward that, and asked for both of Elias's honest refusals to be minuted. He asked to speak to Inez Sato, said he was sorry about the wording of a letter and not sorry about the position, and was told the correct answer twice.
+
+**Elias has now given the honest answer twice where a dishonest one would have produced a document: day 42 (*I don't know of one*) and day 52 (*No*).** The second is **ten** days after the first, not nine, because Chapter 69 is day fifty-two.
+
+## What did not happen in this batch, and must be stated so a later chapter does not assume it
+
+- **Nobody learned what came back to Sable Arden's letter of the twenty-third of September.** It is restated once as a standing fact and nobody asks and nobody answers. **No chapter said it is the same letter, the same person, or the same queue, and no chapter said it is not.**
+- **Perpetua Oyelaran, thirty-four, is under Ash Street and is named exactly once in the whole batch, in Chapter 65, and is not named to any stranger.** The argument about what a person who is still down there is called is the whole of her permitted use and it is paid.
+- **The nine credentials did not become a person and no document that could be read as naming one was produced.** `MNT-4C-17` and the second signature on the 05:02 dispatch sheet remain the same row and the holder remains unknown and unattributable. **Joon Park refused, out loud, the one shortcut that would have produced a nine-line sheet about nine people the team owned, and the refusal was about a rule and not a principle.**
+- **The `K-7Q` prefix, the revision in the middle of a form, and the stamp format seen once before were not touched.** The service door's three states were not touched. The 2038 pour, the hairline crack, the 210 meters and the buried paired node were not touched. Nobody went to a lip and nobody called the handset line. **The eleven meters is only ever a written length with a day on it.** Nobody entered the sealed site.
+- **Halla Dren was not asked again and the shaft she asked them not to name is not named.** The Bell row is not resolved; Yolanda's name stays unpublished at Nadi Bell's insistence and **Joon remains the only person authorized to ask her anything.** R. Adare is not resolved and nobody told the broker anything. Tarin Voss's name is still not in any system.
+- **Tomas Vale's notebook was not produced, not read, and not mentioned on a telephone to anybody outside the team.** It is produced in Chapter 96 and it costs him there. **He is not caught.**
+- **No interface notice was spent. The volume's notices are still exactly two, in Chapters 53 and 57. The third is a `Warning: the branch is changing` during the ninety seconds in the ward and it belongs to Chapter 97 and has not been touched.**
+- **No loan was accepted, offered, scheduled or wanted. Elias remains at Stage 1: First Witness with a left hand that has gone completely, used as a working limitation and not a symbol. The tunnel is sealed and the classification and the seal both stand and are not reopened.**
+- **The out-of-city copy and the fifth copy of the Bell file are two different objects and were not merged. No chapter printed a count of the boxes that are not in the building. The discrepancy Chapter 50 created is still unsettled and no chapter settled it.**
+- **Nothing in this batch makes the First Choice, the permanent anchor or the Open Hand possible, reachable, or hinted at as a plan.** `outline/ending.md` is intact.
+
+## The two deflections this pass recorded in its own prompt, and what the prose did
+
+1. **The prompt's day table put Elias at a depot hose slot on the mornings of Chapters 62 and 65.** Chapter 60 moved the Tuesday slot in writing and Chapter 62 moves the Friday slot in writing, both with a number on them, and the depot's letter says *these will not be held twice*. **The prose follows the suspension's standing Tuesday-and-Friday assignment and the prompt's rows are superseded.**
+2. **The prompt's Chapter 69 card gave the batch the *measurably safer* half of the answer to *who benefits*.** That is Batch 0004's answer in `outline/volume-02.md`. **The prose gives the batch's own answer and then has Elias and Rusk both say the word is still unavailable and ask for that to be minuted.** The live question survives.
+
+## Corrections this pass, all arithmetic and none of them plot
+
+- **Four elapsed figures were wrong in the first draft and all four were caught by deriving from the day rather than from a state file.** Cliff Marner is **fourteen** days out on day 44 (Chapter 61) and **seventeen** on day 47 (Chapter 64), not fifteen in both. The hall's young clerk has been ninety meters from the store room for **forty-five** days on day 45, not forty-seven (Chapter 62). Joon Park has been standing next to a fill-in **since the fifth of October**, which is day 35, not since the thirtieth of September (Chapter 63).
+- **Chapter 65 first put Perpetua Oyelaran's name in front of Rosalind Teague.** It does not. The name is the reader's and the team's, and the refusal is that the argument is hers and the name is not handed over.
+- **`grey` in Chapter 62 and `travelling` in Chapter 68** were introduced by this pass and caught by the authoritative pattern in the same pass. **These are the fifth and sixth British forms in the manuscript's history and the first two that the widened pattern caught on the pass that wrote them rather than on a later review.** The lesson from the previous two passes has now paid: run the pattern over the whole of `chapters/`, and treat a zero from a hand-list as no information.
+
+## A calendar defect this pass found in this file, and it changes a chapter number
+
+**This file carried two date errors through two batches, and both were found on 2026-09-26 by deriving every date from day zero instead of copying a line forward. Both are corrected above, and the second one matters to the next batch.**
+
+- **`64 Sun 8 Nov` was wrong.** Day 63 is **Saturday the eighth of November** and day 64 is **Sunday the ninth.** The line had Chapter 63's date attached to day 64.
+- **`day 75 = the volume midpoint` was wrong, and it is the important one.** A **day number** is days since the collapse. A **chapter number** is a position in the book. **The volume midpoint is CHAPTER 75. `outline/volume-02.md`'s day map is canonical and it puts Chapters 71–80 on days 54–63, which puts Chapter 75 on DAY FIFTY-EIGHT, and day 58 is Monday the third of November 2042.** Day 75 is Thursday the twentieth of November, which is Chapter 91's neighbour and is not a midpoint of anything.
+
+**Chapter-to-day map for the rest of Volume 02, derived from day zero and checked against the outline's own day map, which agrees exactly:**
+
+| Chapter | Day | Date | Chapter | Day | Date |
+| --- | --- | --- | --- | --- | --- |
+| 71 | 54 | Thu 30 Oct | 81 | 64 | Sun 9 Nov |
+| 72 | 55 | Fri 31 Oct | 82 | 65 | Mon 10 Nov |
+| 73 | 56 | Sat 1 Nov | 83 | 66 | Tue 11 Nov |
+| 74 | 57 | Sun 2 Nov | 84 | 67 | Wed 12 Nov |
+| **75** | **58** | **Mon 3 Nov — the volume midpoint** | 85 | 68 | Thu 13 Nov |
+| 76 | 59 | Tue 4 Nov | 86 | 69 | Fri 14 Nov |
+| 77 | 60 | Wed 5 Nov | 87 | 70 | Sat 15 Nov |
+| 78 | 61 | Thu 6 Nov | 88 | 71 | Sun 16 Nov |
+| 79 | 62 | Fri 7 Nov | 89 | 72 | Mon 17 Nov |
+| 80 | 63 | Sat 8 Nov | 90 | 73 | Tue 18 Nov |
+| | | | 91 | 74 | Wed 19 Nov |
+| | | | 92 | 75 | Thu 20 Nov |
+| | | | 93 | 76 | Fri 21 Nov |
+| | | | 94 | 77 | Sat 22 Nov |
+| | | | 95 | 78 | Sun 23 Nov |
+| | | | 96 | 79 | Mon 24 Nov |
+| | | | 97 | 80 | Tue 25 Nov |
+| | | | 98 | 81 | Wed 26 Nov |
+| | | | 99 | 82 | Thu 27 Nov |
+| | | | 100 | 83 | Fri 28 Nov |
+
+**The near end of the team's own four-to-six-week request lands on day 74, which is Chapter 91, the first day of Batch 0005 and the volume's last batch.** It is not Batch 0004. Chapter 96 is day 79, which is Monday the twenty-fourth of November, and that is the day Tomas Vale produces the notebook, and Chapter 97 is day 80, Tuesday the twenty-fifth, and that is the ninety seconds and the third interface notice.
+
+**Standing instruction, and it is the same instruction that has now caught four elapsed figures and two date lines in three batches: derive every date from day zero, Saturday the sixth of September 2042, and derive every day number from the chapter's own position in the outline's day map. Never copy a date or a number forward from a previous state file, and never let a day number and a chapter number stand in for each other.**
