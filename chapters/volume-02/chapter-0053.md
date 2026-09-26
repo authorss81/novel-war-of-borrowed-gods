@@ -92,7 +92,7 @@ He did not make anything of it. He did not tell the room. Six weeks later a woma
 
 The covering letter came in with Ru Sabar's card at half past four, in an envelope with a case number on it, and Ru Sabar brought it to the table and put it down and said, "It has a number on it and it is not from a courier, and the man on Ash Street is not the postman."
 
-Inside was one page and the first line of it was the sentence that the rest of the volume is standing on.
+Inside was one page and the first line of it was the sentence that everything since has been standing on.
 
 *Where a person is evidenced as having been recovered from a designated site and the response list for that site contains no corresponding entry, the omission is being treated as an administrative error in the return, and correction of the return will follow in the ordinary course.*
 

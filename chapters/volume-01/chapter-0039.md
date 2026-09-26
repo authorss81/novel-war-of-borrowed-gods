@@ -1,6 +1,6 @@
 # Chapter 39 — The Old Relay
 
-Sunday started with a sound and ended with a road, and the six hours between them were the longest of the volume so far.
+Sunday started with a sound and ended with a road, and the six hours between them were the longest so far.
 
 The sound came at four in the afternoon on a carrier Joon had a name for, and he had the room inside ninety seconds, which was a personal record for a Sunday.
 

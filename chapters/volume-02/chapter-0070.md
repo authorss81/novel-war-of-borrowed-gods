@@ -50,7 +50,7 @@ If they said the year on Ash Street, then in three months there would be a date,
 
 **They had a store that consolidates, and a line in a book that nobody can explain, and a year that nobody in that building can say out loud, and it was the first time in six weeks that the thing they were not saying was the thing keeping the hall safe.**
 
-Joon Park said it out loud in the records room at nine o'clock at night, to four people, in the volume's own words, **for the fourth time since the aisle log in aisle nine**, and this time he said it in a building where nobody from the Office was present, and nobody was going to quote him, and nobody was going to need him to have meant it.
+Joon Park said it out loud in the records room at nine o'clock at night, to four people, in the same words as always, and this time he said it in a building where nobody from the Office was present, and nobody was going to quote him, and nobody was going to need him to have meant it.
 
 "I am not writing what anybody thinks it means," he said. "And I want it written down that this is the fourth time and the first time it has not cost me anything, and I have noticed that, and I have not decided yet what to do with having noticed it."
 
@@ -76,7 +76,7 @@ The ward was standing.
 
 The round was on the nail. The four draws were signed. The laundry was running. Ansel was on his frame and awake at the wrong hour. A nurse had been refused a page and had taken it. A function had a name against it and a condition in a second ink. A wall had four more lines on it and was nobody's.
 
-Elias Rook had not built any of it, had not maintained any of it, had not voted on it, and was not the reason for one single part of it, and that sentence had been false every day for six weeks and was true on Wednesday evening, and he let it be true, which was the hardest thing he did in the volume and the only thing he did that cost him nothing.
+Elias Rook had not built any of it, had not maintained any of it, had not voted on it, and was not the reason for one single part of it, and that sentence had been false every day for six weeks and was true on Wednesday evening, and he let it be true, which was the hardest thing he did that week and the only thing he did that cost him nothing.
 
 Then he went to the front room and read the board, because there were two questions on it and the second half of the older one was still a bracket with nothing under it, and somebody nine years old had written a third thing underneath both of them and would have to read it again tomorrow at seven.
 
@@ -84,4 +84,4 @@ Outside, a town that had lost a tunnel in September was doing its ordinary eveni
 
 And in a records room on Ash Street, a woman of thirty-nine was somewhere in another city finishing a shift, having written two words in a box in the spring of two thousand and thirty-five, correctly, with no idea that it was going to be the whole of what anybody had.
 
-It is written down in four places. It is in a form and it is in a wall and it is on a library shelf in a county and it is in a notebook in a garage, and there is a copy in a tin, and the tin is on a table with a rubber band round it twice.
+It is written down in five places. It is in a form and it is in a wall and it is on a library shelf in a county and it is in a notebook in a garage, and there is a copy in a tin, and the tin is on a table with a rubber band round it twice.

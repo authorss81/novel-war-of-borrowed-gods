@@ -46,7 +46,7 @@ That is the whole of what he said, and he said it in about a quarter of a second
 
 Joon said, "The parallel record went out of Havenport on a bus on the Sunday morning of the twenty-ninth, by an ordinary road, and it is in a building that neither this office nor this hall can name, and the person carrying it is not in this city, and the burden of proving what is in it is now on that person and not on us. Write that on the receipt, please, with a receipt number and not a name, because I do not know the name and because a name is not required."
 
-"It is not required," the supervisor agreed, and wrote *second copy, out of jurisdiction, holder unnamed* and a number in the top box, and the number is the only way anybody in this story will ever get back to that doorway.
+"It is not required," the supervisor agreed, and wrote *second copy, out of jurisdiction, holder unnamed* and a number in the top box, and the number is the only way anybody in this business will ever get back to that doorway.
 
 And then the supervisor turned to the last line of the schedule of property, which is the line with the most words on it.
 

@@ -120,6 +120,6 @@ Elias found him at the fence with a stop page in his hand, because a stop page i
 
 “Granted,” Inez said. “Sixth name. Same power as the other five, including the hall, including you, and you can stop a survey, an entry, a chain or a draw, and nobody can overrule you, and the only thing I am asking is that you have to be in the building to use it, because I am not paying for a telephone.”
 
-Petar Lisk read the whole thing out at seven and wrote it up, and the new line on the board, above everything else, in the nine-year-old's capitals, was not a rule and was not a plan and was the sentence of the week and stayed on the wall for the rest of the volume.
+Petar Lisk read the whole thing out at seven and wrote it up, and the new line on the board, above everything else, in the nine-year-old's capitals, was not a rule and was not a plan and was the sentence of the week and stayed on the wall after that, through the fourth column and the four sheets and everything else that has been put up since.
 
 **NOBODY ASKED ME IF I WANTED TO BE A DOOR.**
