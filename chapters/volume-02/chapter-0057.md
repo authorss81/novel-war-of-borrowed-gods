@@ -102,7 +102,7 @@ No answer
 
 Rusk asked Elias where the field was.
 
-"It is in another city," Elias said, on the record, with Bernadette Locke's hands on the keys. "Forty minutes by an ordinary road. It keeps a queue. The answer is a records request with a box number on it and they quote four to six weeks, and they quoted four to six weeks to a woman on a telephone on Tuesday who has been at a desk since the ninth of September."
+"It is in another city," Elias said, on the record, with Bernadette Locke's hands on the keys. "Forty minutes by an ordinary road. It keeps a queue. The answer is a records request with a box number on it and they quote four to six weeks, and they quoted four to six weeks to a woman on a telephone on Tuesday who has been at a desk since the sixth of September."
 
 Solano said, "So the answer to the fifth question is in Cordell."
 

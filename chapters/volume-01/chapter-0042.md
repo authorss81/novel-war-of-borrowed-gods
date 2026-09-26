@@ -1,6 +1,6 @@
 # Chapter 42 — The Survey
 
-First light on Wednesday was grey and dry and four degrees colder than the day before. Ohno read the chain out loud at the loading lip at ten past five, all four conditions, twice, because Inez had asked for it twice, and the residents' copy was in a plastic wallet Ru Sabar had carried down the ramp herself. Nobody thanked her and she had not expected to be thanked and said so to Anja Ro, twice.
+First light on Wednesday was gray and dry and four degrees colder than the day before. Ohno read the chain out loud at the loading lip at ten past five, all four conditions, twice, because Inez had asked for it twice, and the residents' copy was in a plastic wallet Ru Sabar had carried down the ramp herself. Nobody thanked her and she had not expected to be thanked and said so to Anja Ro, twice.
 
 Petar Lisk read the limits before anybody put a hand on the ladder. He was not the observer. He was the person who read the limits, because on Monday he had asked for the job in front of nine people and Elias had said yes before anybody could make it a favor.
 

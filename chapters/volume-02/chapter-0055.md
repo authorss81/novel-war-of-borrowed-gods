@@ -18,7 +18,7 @@ She said her name at the second ring.
 
 "What did the Office tell you," Elias said.
 
-"They did not tell me anything. That is what I am calling about." He could hear her put something down. "On the ninth I was told — kindly, and I want to say that, kindly, by a woman who had the queue in front of her and did not have to help me — that if my husband was on the Kestrel service on the Saturday, then he would be on the response list. That is what a response list is. It is a list of who was on the service."
+"They did not tell me anything. That is what I am calling about." He could hear her put something down. "On the Monday I was told — kindly, and I want to say that, kindly, by a woman who had the queue in front of her and did not have to help me — that if my husband was on the Kestrel service on the Saturday, then he would be on the response list. That is what a response list is. It is a list of who was on the service."
 
 "And there is no response list," Elias said.
 
@@ -74,7 +74,7 @@ Elias Rook put both hands on the table, and one of them did nothing, and he look
 
 Then he did. It took eleven minutes.
 
-He told her that a man had come up a corridor on a board on the thirtieth day at twenty past eight in the evening and had said his own name twice, and that the hall wrote it down twice because Lena Mir does not trust a name once, and that the page with it on it belongs to the team, and that the team has just lost a copy of its records to an order of impoundment served on Monday morning and a second copy that went out of the city on a bus on the twenty-ninth of September and is in a building nobody can enter, and that on Thursday she should ask for the case number and a man called Joon Park and a date, and that the answer will take four to six weeks, which he is sorry about and cannot fix.
+He told her that a man had come up a corridor on a board on the thirtieth day at twenty past eight in the evening and had said his own name twice, and that the hall wrote it down twice because Lena Mir does not trust a name once, and that the page with it on it belongs to the team, and that the team has just lost a copy of its records to an order of impoundment served on Monday morning and a second copy that went out of the city on a bus on the twenty-ninth day and is in a building nobody can enter, and that on Thursday she should ask for the case number and a man called Joon Park and a date, and that the answer will take four to six weeks, which he is sorry about and cannot fix.
 
 He told her that the notebook is in the same custody, and that the notebook has been demanded by name by an inquiry he is the subject of, and that he therefore cannot promise her it will exist on any particular day.
 
@@ -100,7 +100,7 @@ And then a second voice came on, in that building, forty minutes away by an ordi
 
 "All right," the young woman said. "That is the second one with two r's? I have got it as I have heard it. I am writing it as I heard it."
 
-The line went, and came back, and Della Marner said, "It is on a pad in a building in Cordell. It is not a document. It is a pad and a pen and a young woman who did not mind. And it is the first thing I have been able to put my hand on since the ninth of September, and I would like you to understand that it is not the paper, and that I know it is not the paper, and that I am going to keep it anyway."
+The line went, and came back, and Della Marner said, "It is on a pad in a building in Cordell. It is not a document. It is a pad and a pen and a young woman who did not mind. And it is the first thing I have been able to put my hand on since the sixth of September, and I would like you to understand that it is not the paper, and that I know it is not the paper, and that I am going to keep it anyway."
 
 "I understand that," Elias said.
 

@@ -44,7 +44,7 @@ She had done it without asking anybody first, and then she asked, which is the o
 
 "Am I permitted to."
 
-Joon Park, who had not said a word for an hour, said, "You are filling in a field that has been empty and visible in a printed document since the seventeenth of September, and you have asked a room of laypeople whether you may write on a page of a bound ledger in an archive you do not own. Say the rest of the question out loud so that somebody can answer the whole of it."
+Joon Park, who had not said a word for an hour, said, "You are filling in a field that has been empty and visible in a printed document since the twenty-third of September, and you have asked a room of laypeople whether you may write on a page of a bound ledger in an archive you do not own. Say the rest of the question out loud so that somebody can answer the whole of it."
 
 Brauer said, "Am I permitted to fill in the subject field on the 14:12 line, given that I was not the person who opened the box and I do not know who was."
 
@@ -54,9 +54,9 @@ Vane said, "You are not. Nobody is. The field is blank because no person has eve
 
 Brauer read it out. It said: *Routine archive review, aisle 9, shelf B. Item 1 of 3 retrieved, mis-shelved, returned. 11:40 to 12:05. Checked against the shelf list and found in order. No other subject.*
 
-"That is true," she said. "All of it. I did that on the Thursday before last, in the week of the sixteenth, and I was going to write it in the Thursday row and the Thursday row was already in for a pallet move, and there was a Saturday in the middle of my week and I put it in the Saturday row, which is two rows up, and I did not look at the year."
+"That is true," she said. "All of it. I did that on the Thursday of the week of the sixteenth, and I am not on the duty roster for that week, so it went in two rows up on a Saturday, and I did not look at the year, and the day it happened is not the day it is written on."
 
-"It is the wrong day," Vane said.
+"It is the wrong day," Vane said, "and it is still the only honest sentence anybody has put in that column in a month."
 
 "It is my day," Brauer said. "That is the whole of what I know. If I am not allowed to put my own day in my own book then I have been doing this for nineteen years for nothing and I would like to know that now rather than in a fortnight."
 

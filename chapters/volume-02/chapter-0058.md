@@ -48,7 +48,7 @@ He said all of that in about forty seconds, standing up, with Mara Okafor on one
 
 "Nor me," Joon Park said, and then, because he is Joon Park and because nine days in Volume 02 he had watched a field get filled in by somebody who was not there, "and I want the refusal on the page and I want it in the same ink as the asking, and I want the reason, and the reason is that we asked a man to hand over the only document nobody has read, on the day after an order that did not ask for it, and if we do it in the same week then in five years it is a story about a team that was given a question and hurried to answer it. I am not saying no forever. I am saying not this week, and I am saying it out loud, and Petar is going to write it down at seven, and it is going to say *asked, and the two people he named both said no, and he said no as well.*"
 
-Nobody agreed, including him, and the notebook stayed in a box in a garage, and it was still unread at the end of the year.
+Nobody agreed, including him, and the notebook stayed in a box in a garage on an ordinary street, and it was still unread that evening, and it is still unread.
 
 Elias Rook, in the doorway, had said nothing at all, which took him more effort than anything he did on Friday.
 
@@ -90,7 +90,7 @@ Joon Park said, "No."
 
 "That is the one man in this whole business who decided. At four o'clock on the last Thursday on the schedule, he was asked whether the hall would record him, and he said no, and the hall did not record him, and the reason is in a book with a date on it, and my initials are on it, and there is no name on it, and that is not an absence — a refusal is a record, that is Finding 3, that is the Office's own practice, and I wrote it down. He did not have a name taken from him. He took it out. And the day after tomorrow somebody with a case number is going to come to this building and ask us to prove a thing, and the thing is a record that a person decided, and it is a record, and it is in chalk, and it is the only one either of us will ever get to keep."
 
-Then he got in the van, and nobody said anything else about it, and it was not discussed again in that building until the fourth column went up on the wall in June and somebody asked what a *refused* column was for.
+Then he got in the van, and nobody said anything else about it, and it was not discussed again in that building that week. The sentence it had been correcting had been said two days earlier by a woman with a pen who was not wrong either, and nobody in the yard had known they were the same sentence, and nobody ever told them.
 
 ---
 
@@ -114,4 +114,4 @@ He looked at it for a long time. Then he took the pen and drew a single line thr
 
 She did not say anything else about it, and he did not ask her what she had come out to the far bank for, and she did not tell him, and the two of them sat on the tailgate of a van in a depot yard for about eleven minutes while a hose was drained, and neither of them said a single word about the fourth week, or about a woman on the Meridian, or about what a single approved outcome prevents, and both of them had been thinking about all three of those things the entire time.
 
-There is a wall on Ash Street with twenty-eight lines in a stranger's chalk in the fourth column, and a name in it that nobody can reach, and a name in it that is asking to be found, and neither of those two people in the yard had a way to make either of them better, and one of them had been suspended from the work she was good at eleven days after refusing an offer that would have worked, and neither of them said so out loud, because neither of them was going to be the one who said it first.
+There is a wall on Ash Street with twenty-eight lines in a stranger's chalk in the fourth column, and a name in it that nobody can reach, and a name in it that is asking to be found, and neither of those two people in the yard had a way to make either of them better, and one of them had been suspended from the work he was good at on the tenth day after he refused an offer that would have worked, and neither of them ever said those two things out loud in one sentence, because neither of them was going to be the one who said it first.
