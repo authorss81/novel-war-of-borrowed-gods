@@ -46,9 +46,13 @@ Winifred Alagoa was in her flat with the door shut on the draught and the boiler
 
 The margin of the sheet is about half an inch wide and it is on the inside of the second fold, where you would not see it if you were holding the sheet the way you hold a sheet, and there are four names written down the margin in a different pencil from the one the sheet is in.
 
-"I did not have a pencil of my own on the night," she said. "I had a kitchen pencil. I wrote those four names on the ninth of November at about eleven at night with the kitchen pencil while a woman from the cell stood in my doorway with a torch she did not need, and I did not know then that it was unusual that a woman should come with a torch to a street where there was no power. She was very polite. She asked me if I knew of anybody at three to twenty-seven who might be elderly and living alone, and I said there were four, and I gave her the four names, and she wrote them in a book she had, and then she went up the street.
+"I did not have a pencil of my own on the night," she said. "I had a kitchen pencil. I wrote those four names on the ninth of November at about eleven at night with the kitchen pencil while a woman from the works stood in my doorway with a torch she did not need, and I did not know then that it was unusual that a woman should come with a torch to a street where there was no power. She was very polite. She asked me if I knew of anybody at three to twenty-seven who might be elderly and living alone, and I said there were four, and I gave her the four names, and she wrote them in a book she had, and then she went up the street.
 
 "And about half an hour later I got the kitchen pencil out and I put them down on my own paper as well, because she had written them in a book and I did not know what the book was, and if the book went anywhere then the four went with it, and I am sixty-three and I have been keeping a sheet since 2031 because of a number on a fence and I do not need to be told twice."
+
+She put the second pot on and did not look at him.
+
+"And they are dead, Mr. Rook, and that is the part nobody has said to anybody. I knew by the Wednesday which end it had gone. Nobody has come to this door. I have not gone to anybody, and I am sixty-three, and I am not going to stand on a step in that street in December and ask a stranger about a woman I met once at a gate. Their names are not on the board's list and they are not on my sheet, because neither one of those is a list of people. **The only place their names are written is that margin, and I would know, because I have been checking that board since 2031 and it has been wrong twice.**"
 
 Elias Rook read the four names twice.
 
@@ -102,7 +106,7 @@ Elias Rook sat in a two-room flat on Cutbank Row and looked at a margin half an 
 
 The thing he did not do on Sunday was the thing he had wanted to do since about two o'clock in the afternoon.
 
-There were four doors in this district that did not know what had happened on that street. Not one of the four had been told anything by anybody since the ninth of November, and there was a woman in this flat who had gone to four of them on the night, politely, with a torch she did not need, and she had written their names in a book, and the book had gone somewhere, and the only place on earth where the four names were still written was half an inch of margin in a different pencil.
+**There were four people dead in this city for twenty-eight days and there was no piece of paper in the world that said so.** There were four doors on that block where nobody had been told anything, and there was a woman in this flat who had gone to all four on the night, politely, with a torch she did not need, and she had written their names in a book, and the book had gone somewhere, and the only place on earth where the four names were still written was half an inch of margin in a different pencil.
 
 He could have gone to four doors. He had the tube under his arm and the notebook and a bus at twenty past five.
 

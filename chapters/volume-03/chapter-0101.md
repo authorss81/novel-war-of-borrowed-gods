@@ -122,6 +122,6 @@ He wrote nothing down. That was the discipline and it was his own, and it turned
 
 At ten past ten he got the 11 back and rode it into the city and put the inventory sheet into the drawer in the records room where it belonged, and it was the only thing he had done all morning that anybody anywhere had asked him for.
 
-Then he went back in and put the week's inventory sheet into the drawer in the records room where it belonged, and then he went and telephoned the hall, because the corridor light on the second landing had been out since Thursday and somebody in that building was going to have to own it, and he owned it, and it took four minutes.
+Then he telephoned the hall, because the corridor light on the second landing had been out since Thursday and somebody in that building was going to have to own it, and he owned it, and it took four minutes.
 
 After that he had the rest of the Saturday, and he had nowhere to be in it, and that was new.

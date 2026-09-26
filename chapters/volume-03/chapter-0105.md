@@ -25,7 +25,7 @@ The kitchen was half of the flat. There was a table with a cloth, a gas ring wit
 
 ---
 
-She had worked it out in September, on her own, with no document.
+She had worked it out herself, on her own, with no document, and she had worked it out before any of it.
 
 "They came with the rates," she said. "A card with a program on it and a number on the card and a line that said my address was not in the retained district, and I read it about four times and I did not understand it, and then I understood it at about the fourth read because I have been a person at an address for fifty-five years and I know exactly what that sentence is.
 
@@ -97,7 +97,7 @@ He had not noticed himself write it. That was not true — he had known he was w
 
 "No," she said. "**Nobody in this street has their name on anything. I would know. There is a woman at number thirty-one has been on this row forty-six years and every single person on this street calls her by her husband's name, and the postal office calls her by her husband's name, and I have never once seen her be Mrs anything on any paper she has been handed in her life, and she is seventy-nine and she does not know there is anything to be. And I will tell you the true thing, which is that I have been aware of that since about 1998 and I have never done a thing about it, because it is her business and because I could not think of a single sentence that would not make it worse.**"
 
-He wrote that down because she had said it and not because it was useful, and it was not useful, and the folder in the room was four hundred and twelve addresses of which this street was not a line, and the sentence he had just written down would do nothing at all for anybody.
+He wrote that down because she had said it and not because it was useful, and it was not useful, and the folder in the room was four hundred and twelve retained addresses and this street was not one of them, and the sentence he had just written down would do nothing at all for anybody.
 
 "You are writing it down," she said.
 

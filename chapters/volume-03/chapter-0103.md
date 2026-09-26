@@ -58,7 +58,7 @@ Anum talked all day because he had been asked.
 
 Elias Rook put his cup down on the edge of the desk, carefully, with one hand, and Anum watched him do it.
 
-"**That is step four of a method I have read once, in a records room on Ash Street, in eight pages that a man of sixty-four put on a table in November and said was a method and not a confession, and I have never been in that room and I have not seen the pages and I do not know who wrote them.**"
+"**That is step four of a method I have read once, in a front room on Ash Street, in eight pages that a man of sixty-four put on a table in November and said was a method and not a confession, and I have not shown them to anybody and nobody in this room has ever seen them.**"
 
 He said it in one sentence and stopped.
 

@@ -2,7 +2,7 @@
 
 Cliff Marner was fifty-nine days out of the ground. Della Marner was eighty-nine days at a family-reception desk in Cordell. The man behind the wall was eighty-nine days in, and Elias Rook got the 11 at ten past eight on Thursday morning, the fourth of December, with a folder under his right arm.
 
-A woman of seventy-one had read a program card out loud to him on her landing at half past eight with the door shut behind them, and had then turned it over and written a date on the back of it in pencil in front of him, and had put it in a drawer.
+A woman of seventy-one had read a program card out loud to him on her landing with the door shut behind them, and had then turned it over and written a date on the back of it in pencil in front of him, and had put it in a drawer.
 
 "That is not the sheet," she had said. "It is a card they gave me in September and I have kept it because I keep everything. **It is not a record. It is so that I know how old it is.**"
 
@@ -40,7 +40,7 @@ He counted for fifty minutes on a trestle with his right forearm flat on the ove
 
 Elias Rook took the folder out and opened it on his knee, because the man had told him not to put them together, and checked the forty-four one at a time with a finger.
 
-Every single one said `TRANSITIONAL`. Not one said `RETAINED`. He had six hundred and ninety-seven rows in front of him and forty-four streets' worth of new measurement, and the two of them did not disagree about anything, because a schedule cannot disagree with a reading.
+Every single one said `TRANSITIONAL`. Not one said `RETAINED`. He had six hundred and ninety-seven rows in front of him and forty-four addresses' worth of new measurement, and the two of them did not disagree about anything, because a schedule cannot disagree with a reading.
 
 "One question," Anum said, at the kettle. "You are going to ask me why we did not rebuild it. I am going to answer it once and you are not to ask me it a second time.
 
@@ -107,9 +107,9 @@ Joon Park looked at the four of them for a while.
 
 Tomas Vale was in the chair by the wall with a cup of tea he had brought with him, and he had said nothing for two hours, and nobody in that room was going to ask him about Tidegate, and Elias Rook had not asked him anything at all.
 
-"Not about the district — about the method. It is mine to give, and that is the condition I put on it, and a method is worth nothing if only one man can use it."
+Tomas Vale said, "Not about the district — about the method. It is mine to give, and that is the condition I put on it, and a method is worth nothing if only one man can use it."
 
-"I have taught it to a man in a records room with nobody in it." He put the cup down on the floor beside the chair, carefully, with two hands. "Somebody asked a question just now and I am going to answer it in the order I would for a new method officer, and then I am going to stop, and if either of you improve on it afterwards I will know.
+"I have taught it to a man in a records room with nobody in it," he said, and put the cup down on the floor beside the chair, carefully, with two hands. "Somebody asked a question just now and I am going to answer it in the order I would for a new method officer, and then I am going to stop, and if either of you improve on it afterwards I will know.
 
 "Force goes somewhere. That is the whole of the ground. A reading tells you where it will want to go under a structure, and that is a measurement, and you can go back tomorrow and get the same answer or a different one, and either way you know which of the two you are holding."
 

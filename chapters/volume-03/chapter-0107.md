@@ -53,7 +53,7 @@ Joon Park put the pen down on the table beside the form rather than in the year 
 **NEAR END: 2 JANUARY 2043.**
 **FAR END: 16 JANUARY 2043.**
 
-He wrote the two of them on the back of his own folded paper in his own hand, and put the paper in his coat, and then said the two dates out loud in the front room on Ash Street that evening in the middle of a conversation about a light fitting, to about thirty people, and did not put them on the pad.
+He wrote the two of them on the back of his own folded paper in his own hand, and put the paper in his coat, and then said the two dates out loud in the front room on Ash Street that evening in the middle of a conversation about a light fitting, to twenty-eight people, and did not put them on the pad.
 
 "I want everybody to hear this once, in case anybody wants to know," he said. "On Friday I filed a request for a document that is held in another building, and the service says four to six weeks, which means the second of January or the sixteenth. That is what I have. I cannot make it come sooner, I have not asked anybody to make it come sooner, and anybody who wants to know the date can have the date and anybody who wants me to say the date is sooner is going to be told no by me in a room rather than in a corridor.
 
@@ -69,15 +69,15 @@ Petar Lisk said, "Put it on the board."
 
 Nobody argued with him.
 
-That was the part Elias Rook did not understand for about a week afterward. In thirteen weeks that building had never once been told a thing it could not check, and it had built a habit out of that, and the habit was so complete that a man of twenty-four could stand in the middle of a Friday evening and say *here is a date six weeks away, I have no way to move it* and thirty people would hear that as information and not as an excuse. It is a strange thing to have built by accident out of being right, and it had not been built by accident, and he had built most of it.
+That was the part Elias Rook did not understand for about a week afterward. In thirteen weeks that building had never once been told a thing it could not check, and it had built a habit out of that, and the habit was so complete that a man of twenty-four could stand in the middle of a Friday evening and say *here is a date six weeks away, I have no way to move it* and twenty-eight people would hear that as information and not as an excuse. It is a strange thing to have built by accident out of being right, and it had not been built by accident, and he had built most of it.
 
 ---
 
 Tidegate's church hall is off Marden Row and it was booked for the hour by a group with no name on the booking sheet and a kettle in the corner, and about forty people came, which was more than the twelve who had come to the first one in November and fewer than anybody had hoped for.
 
-Elias Rook had the folder. He had the two rolls in a cardboard tube because a man of forty-one had told him on a Monday that a man on a bus is the reason things get damaged.
+Elias Rook had the folder. He had the two rolls in a cardboard tube because a man of forty-one had told him on a Monday that the reason things get damaged in this world is that somebody carried them onto a bus.
 
-He got the date out first, before he said anything at all about the schedule, which was step four of a method in eight pages that a man of sixty-four had put on a table in a records room, and it was the fourth time anybody on that team had used it, and the first time it had been used on a promise instead of a plan.
+He got the date out first, before he said anything at all about the schedule, which was step four of a method in eight pages that a man of sixty-four had put on a table in a front room, and it was the fourth time anybody on that team had used it, and the first time it had been used on a promise instead of a plan.
 
 "The first thing is a date and I am going to give you the date before I tell you anything else, and then I am going to tell you the rest." He said it in about nine seconds and then he waited, because step four was not only the saying. "There is a document held in another building that would tell you what this program decided and when, and I asked for it on Friday, and it will arrive between the second of January and the sixteenth. Four to six weeks, that is the service and not anybody in this hall, and I cannot make it sooner, and I am not going to stand here and tell you I am working on it, because I am not. That is the first thing. Now the rest."
 
@@ -105,4 +105,4 @@ And then he stood at a bus stop on Marden Row and understood that for four days 
 
 Two miles and eleven minutes, two pounds seventy-five each way, and a back that hurt on the Tuesday.
 
-Joon Park had a form with a year box on it that he had deliberately not filled in, and a man of twenty-four had stood in a room of thirty people and told the truth about how little he had, in a voice with nothing in it to keep, and nobody in that room had needed to check whether it was true, and that was the first useful thing anybody in this business had done in five days.
+Joon Park had a form with a year box on it that he had deliberately not filled in, and a man of twenty-four had stood in a room of twenty-eight people and told the truth about how little he had, in a voice with nothing in it to keep, and nobody in that room had needed to check whether it was true, and that was the first useful thing anybody in this business had done in five days.

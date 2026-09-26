@@ -63,7 +63,7 @@ The letter was on the table when he came back in at about five to eleven, and it
 > **HAVENPORT TIDAL BOARD — Fourth Stage Tidal Defense, Tidegate.**
 > **Enquiries regarding the alignment area should be addressed to the board's surveyor, whose office is at Civic buildings, third floor. Requests to attend site, to observe works, or to be consulted on structural matters are not accepted and are referred. The board has no procedure for a third category and does not intend to build one during an active alignment.**
 
-Elias Rook read it three times and could not find a sentence in it that was unkind and could not find a sentence in it that was anything other than unkind.
+Elias Rook read it three times and could not find a sentence in it that was unkind and could not find a sentence in it that was anything other than blunt.
 
 There is no procedure for a third category. He put his thumb on that line and thought about a man he had met once in a records room in November who had said a thing almost exactly like it and had been right, and he thought about a wall on Ash Street with a column on it headed *items* where it should say *people*, and he thought about a box with a form in it, and he understood that he was in a building where the entire technique was a field that did not exist, and that the entire difference between that building and a form with a third category on it was who was standing in the room when the category was decided.
 
