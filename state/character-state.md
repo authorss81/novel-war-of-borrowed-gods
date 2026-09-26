@@ -362,3 +362,101 @@
 ## The man behind the wall
 
 - **Unwritten by his own request, unresolved, not added to anything, and not visited.** Fifty-four days in as of Chapter 71's day and fifty-nine as of Chapter 76's day, and the count is always the chapter's own day number. **Nobody in this batch went to a lip, nobody called the handset line, and the eleven meters is only ever a written length with a day on it.** Joon Park's Chapter 58 correction is not re-litigated: he is not a name somebody decided not to have, he took it out himself.
+
+---
+
+# Character State After Chapter 90
+
+**Volume 02, Batch 0004.** This section supersedes nothing above it. **No loan has been accepted anywhere in Volume 01 or Volume 02 and Elias Rook is still at Stage 1: First Witness, with a left hand that has gone completely.** In this batch that hand is a working limitation in every scene: he cannot read a signature off a page somebody else is holding, so Joon Park turns the notebook and he reads it himself; he carries a folder under one arm; he stands in a shop for fifty-one minutes with his right hand on a rack of hose clips and says nothing; and his right hand goes to a satchel strap twice and stops.
+
+## Elias Rook
+
+- **He was wrong three times, and each time he said so out loud and then had to sit with it.**
+  - **About the cost of holding a true thing with nobody in it.** He believed an answer with no villain in it cost nothing to hold, and that was wrong, because **an answer everybody can carry is an answer that will be carried by the people the team was trying to protect.** He had been *pleased* on the Friday night and he noticed that he had been pleased on the Saturday, and he wrote down that the reason he did not know he was wrong was the pleasure.
+  - **About using a rule on a thing it was not written for.** He said in a room of nine people that a document is not an offer, a boundary, a refusal or a condition, and that he had been trying since Sunday to use one on the other and could not.
+  - **About being right.** On the steps of an Office building: **being right about the Office's paperwork is not a defense of anything he has done, and he had been quietly hoping it was**, and it does not make the corridor right, the seal right, the classification right, the eleven meters right, or the twenty-seven hours and thirty-nine minutes right.
+- **He found out in ten weeks that he had been fighting a sentence somebody typed in a hurry thirty-nine years ago, and that this is worse and not better, because a sentence can be argued with and a hurry cannot be located.**
+- **He found out there was never anybody to be angry at, and that it is worse than a villain by a distance he could not have described in October, because a villain is an address — and that there was nowhere to put it either.**
+- **He asked Duane Prewitt for nothing, said he was not here about anything the man had done, and then lied to him about whether the signature in the night book was his, and told him on the spot that he had lied and why.** It is the first time in the volume he has lied to a person rather than to an institution. It is used nowhere.
+- **He was on the wrong side of a wall for the third time in a month and it was the right wall.** A wall is not a wall because it is safe; it is a wall because somebody decided where it goes.
+- **He had three answers in ten weeks and could not spend one of them, and the ward was standing without him, and he noticed that he had stopped noticing that as a loss and then noticed that he had noticed and let it go, which is a thing he has now done twice.**
+- **The envelope to Nell is unsent. The reason is four words: *the road is sealed.***
+
+## Mara Okafor
+
+- **She applied her own rule once more, out loud, to a decision of her own about a person and not about a form**, in the order the rule requires, in ninety seconds, to the people who pay for it: **Mr. Duarte's clinic on the twenty-fifth of November, two hours of a driver, fuel, a card, and Lena Mir signing a form at the clinic.** She refused the vote, and Ansel Duarte was not asked either and pointed out that that was twice in four weeks. **She said the words of the rule because nobody had, this time, and Inez Sato had quoted it on the wall in Chapter 76.** She is not re-explained and nobody inherits her.
+- **On the seventeenth she said the Wednesday is an offer and it goes to them tonight, in the words it is said in, and that nobody inherits her, and that there is going to be somebody in that room who says no to her out loud and she cannot do anything about it, and that she has known that since the second week and still has not worked out what she does about it.**
+- **Nothing romantic has happened. No future version of either of them has promised anything, and the word *faster* is not used in this batch.**
+
+## Joon Park
+
+- **He interrogated a document that is nobody's and found that his own habits do not apply to it.** A file set has no custodian; a form store has no custodian; a revision has no author, no requester and no victim. **A document like that cannot be impounded, produced, corrected, or handed to a person in a room and pointed at, and it is the first document in nine weeks he did not know what to do with.**
+- **He found out whether he wanted to stop, and he did not stop and did not want to, and what he did instead was make up a fifth question on the spot in a corridor to a clerk who had already been more generous than her office requires.** He has never made up a question in nine weeks. He asked for that in a book with a date on it.
+- **He did not refuse a meaning for the first time in the series, because there was no meaning to refuse**, and he said that it is the first time in his life he has had nothing to refuse and that he does not know what he is supposed to do with his hands.
+- **He refused a meaning out loud for the first time where it cost him: at a municipal counter in a building that is not his, in front of a person who had not asked him to be careful, and he noticed that the first refusal of a practice has to be done somewhere it costs the person, which is why it happened there.** The sixth refusal, at a hardware store on a Sunday, was in the shop and was fast, and he asked for the speed to be on the page.
+- **He wrote the twenty-first line of his custody schedule**, the first with no holder, no location and no address and not attributed to a person, and the last line of which is *there is nobody to whom it can be given, because an answer with no author in it has nobody to give it to*, and *not a record*. **He said that a man who keeps writing the same sentence in more places is not being thorough, he is looking for a version of it that somebody will accept.**
+- **He wrote on the page that Duane Prewitt is a person the team went to see and nothing else, and that anybody who writes him down again is going to be doing the thing this whole volume is about.** He also wrote down that he noticed three nines in two hundred yards of street and refused the meaning in writing.
+- **He did not use the free fact, said so out loud in the shop before either of them had to ask, and gave three reasons, and put it in the notebook and not on a wall and not in a file.** His record of refusals is no longer a sequence and no chapter may build one on the ordinal.
+
+## Inez Sato
+
+- **She applied the rule on the wall to a decision of her own, out loud, and it cost her: the hall does not convene itself about a form**, in one sentence, and she said the whole of her decision before she made it, including the cost — **after that morning she is the only person on that street who knows a finding that nineteen people know, nobody will be able to check it, and that is a bad way to live.**
+- **She also wrote the hall's standing line on the wall again, the one that hurts: the hall does not get to have not known and it does not get to have not asked.**
+- **She refused to have the answer given to the hall on Friday night, and was right, and said so for a completely different reason from Thursday — a hall that is handed an answer it did not ask for has been made into something it refused to be.**
+- **She changed her mind in about nine hours, said the change out loud, and asked for it minuted**, and then told the hall in eleven sentences with no meeting, no form, no pad line and no vote, and left the room. Her second reason had got worse overnight and she said so: somebody has to be the only one who knows, and it is going to be her, and she will get used to it in a fortnight, and that is how it works on anybody.
+- **She has not been softened.** She refuses an audience, a process, a heading and a pad line, and she gave the hall the answer anyway.
+
+## Tomas Vale
+
+- **He said the answer once, in a room, in the words, and it is the batch's finding.** He is a man who has spent nine weeks telling the hall that the number of decisions in a corridor is the number of people who get hurt, and who has never once asked who was counting, and who said on the page that he has not been able to get past the fact that the machine is right about itself.
+- **He went and stood in a corridor at twenty past six and said he was not going to say it again, and on Saturday morning he sent one line up the stairs refusing to have the finding attributed to him**: the moment a true thing about a design has a speaker it stops being a fact about the design and becomes an opinion somebody holds, and he is not spending the last of his professional life being quoted at. **Inez Sato's answer is that it costs him nothing and it costs him everything, and both are true, and she is not going to discuss it.**
+- **Rusk's warning to him about believing the truth is better for him stands and is not repeated. The 2029 review panel is not referred to in any of these ten chapters, so the unresolved Chapter 57 / Chapter 59 card divergence is not touched. His notebook is not produced, not read and not mentioned to anybody outside the team, and it belongs to Chapter 96.**
+
+## Nathan Rusk, Deputy Director, 59
+
+- **Seven true things, one procedural kindness, and the count is his and is not renumbered, added to, or kept by anybody.** In this batch he speaks three times: the Sunday call, the sentence he said in the store room with the nouns changed, and the rule that questions get answered and requests get queued, which is his and is written down nowhere. **He says nothing about the answer and he is not in the room on the fourteenth of November.**
+- **He cannot produce the form and says why in one sentence, and says he has looked twice for a name that is not there and would like it minuted that it was not withheld.**
+- **He is not softened, does not soften, and still holds the third sitting for Wednesday the nineteenth of November at ten in the morning.**
+
+## Counsel Renata Solano, 47
+
+- **She met two men in a ground-floor records room on the Meridian and gave them the whole of an answer about a word in twenty minutes, and refused to be thanked and was not thanked.** The distinction between a finding word and a reporting word, and why *error* carries no author, is now on the page and is not to be re-explained.
+- **She said, and it was not a defense, that there is nobody in that building they can be angry at, and that going on looking is the most expensive thing they do, and that the absence of a villain is not a reprieve but the finding, and that the people paying for it are in a corridor on Ash Street.**
+- **She said she cannot answer the second half of Joon Park's question, named who owns it instead, and said that if you want that you are asking the wrong office and she has been saying the correct sentence for sixteen years and it has never got her out of the conversation.**
+- **She put the four lines in as facts with dates, ruled on none of them, and said that the paragraph she has to write will end in a door with no room behind it, and that she has to stop there, and that in four years it will read as though a lawyer found it and a lawyer cannot be asked what she thinks it means by the people it was about.**
+- **She has checked the file twice in November and the covering letter's promise to correct the omission as an administrative error has not been kept, and she cannot make it be kept, and says the form does not do that and will in a year.**
+
+## Mavis Toomey, and District 9
+
+- **Twenty-two years at the counter at 118 Ninth Street.** She will not show a duty officer's night book, reads one line and a signature line out loud, shuts the cupboard, and says she will tell her office she did not know what they were doing and will not be lying. She gave the team its best sentence unasked, and the team did not use it.
+- **Her name is in no instrument and she is not a resource.** She is a clerk who was careful.
+
+## Duane Prewitt, 71
+
+- **Part-time at a hardware store on an ordinary street in a neighborhood the Continuity Office has no building in. In on Tuesdays, Thursdays and Sunday mornings. A badge on an apron string that says D. PREWITT.** He is not a villain, not a resource, not a future self, not a lender, and not a person who did a wrong thing. **He has never been asked about that night by an institution, and he has not been told that the line came from him.**
+- **He said he does not remember, and has been telling people that for twenty years, and that he remembers the floor.** He wrote *the officer was entering consent* and not *I consent*. He said the reason it was not enough is that **a person can be written in by anybody**, and that he would like that on a wall, and that it is not against anybody, it is about paper.
+- **He gave the free fact nobody asked for and was told, in the same breath, that it was not going to be used.** He said *then leave it in the bag* about the folder Elias had not opened.
+- **The team has no standing over him and he is not to be written down again except for the sentence already on the page.**
+
+## Nadi Bell, Lena Mir, Petar Lisk, Ru Sabar, Tarin Voss, Osei Kwarteng, Comfort Osei, Ansel Duarte, Cliff Marner, Della Marner
+
+- **LENA MIR said the finding in the room's own words — *nobody decided anything* — and that a design that is good does not need anybody to be a villain, and that this is the same shape as her own sentence, as Petar's, as the box printed in about nineteen eighty, as the 2011 annotation, as the 2035 form, and as the line added in 2003 because a night in January did not fit on the paper.** She said it was not going on the wall to make a point, only because Petar Lisk is nine and gets to decide that. She was not sentimental about it and she did not ask anybody to comfort her about a thing that has a number in it.
+- **NADI BELL said the two kinds of safe and said the hall had picked the wrong one in the first week and had been getting away with it. Her movement record was named once, obliquely, by Ansel Duarte, and was not read out, and she said thank you and nothing else.**
+- **PETAR LISK wrote two more lines, neither of which answers any of the three questions and neither of which contains a number about anybody, and refused to write a date for tomorrow, in a sentence, and asked for the refusal to be minuted.** The nineteenth of November is still the only date on the wall. He counted, and he still does not count Saturday.
+- **RU SABAR said that lost is not a thing somebody hides, it is a thing that was never on anybody's list**, and she took the twenty-fifth of November as a swap against a night and not as a favor, and she is not going to let a heading on a pad be called a safe place.
+- **TARIN VOSS refused the form watch and said a pad is a file that has not been given a stamp yet, and warned that in three weeks somebody in that hall is going to say the word *form* and mean the 2003 line, and asked for that to be written down on the day it was still only a warning. Then on Saturday he said the fear: a hall that agrees is safer, a hall that argues is a hazard, and that is a count and Mr. Vale is right, and he is frightened rather than angry and the fright is correct and he has had it checked.**
+- **OSEI KWARTENG said his wife was asleep in the next room on a battery the clinic charged forty-one dollars for and that he had spent nine weeks being glad about a thing this room had just explained to him. COMFORT OSEI, home five days, said she was the most expensive thing in the safest building in the city, and somebody laughed, and she did not.**
+- **ANSEL DUARTE said the arguing is his appointment and is his legs, and asked the room to feel slightly bad about how comfortable they find it, and said out loud that Nadi's movement record exists so that nobody can later say the hall was quiet about it. He is going to a clinic on the twenty-fifth and had not been told the date in the room he was sitting in.**
+- **CLIFF MARNER is home from Cordell since the Tuesday night of day sixty-six, thirty-six days out, forty-three days out on the last day of this batch, and is in no system and the team has not invented a designation.** He asked for four things on a card and none of them was about himself. On Saturday he said the count means somebody was told, on a form, that one of them is a smaller contradiction than the other, and asked for it to be put next to his name on the wall without explanation, and knows what he has asked for. **DELLA MARNER is in Cordell and is not moved for the convenience of a scene: seventy-three days at a family-reception desk, a piece of paper in a plastic wallet, and she has told nobody there the date of anything.**
+
+## Emil Baros, and the Tuesday
+
+- **He proposed a standing item on the pad — forms, once a fortnight, not to do anything, just to know — and it was refused, and he did not press it.** His function paid its second result: **he refused a column, and it was his function that made him the man who had to say it, because a column with a heading is a receipt and a receipt says a thing came into this building on a date and it did not.** He said he is not going to invent a column at nine o'clock on a Tuesday because the man with the pencil has run out of lines. **The keeper's line is still not his and Lena Mir's standing ground has not been asked about twice.**
+
+## R. Dunleavy, foreman, and the depot
+
+- **Elias Rook is on time at 06:30 on Tuesdays and it is his, three weeks running. The Friday hose slot is still returned and is not going to be argued with. Dunleavy writes two figures on the inventory sheet in his own hand and says nothing else at all, which is now a habit on both sides.**
+
+## The man behind the wall
+
+- **Unwritten by his own request, unresolved, not added to anything, and not visited.** Sixty-four days in as of Chapter 81's day and seventy-three as of Chapter 90's, and the count is always the chapter's own day number. **Nobody in this batch went to a lip, nobody called the handset line, and the eleven meters is only ever a written length with a day on it.** Joon Park's Chapter 58 correction is not re-litigated.
