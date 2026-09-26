@@ -10,7 +10,7 @@ He read it from the top, which is the order it is in.
 
 At the top of that wall, above everything, in a hand that belongs to nobody in the building, is a fourth column.
 
-The heading is the Office's own printed heading, copied out in chalk by a man in a clean orange jacket who had run out of forms on the thirty-fourth day of September and had written the last column of an impoundment return on the wall of a ward instead. Twenty-eight lines. A date against each one. A figure against each one. **And the heading says ITEMS, because that is what the Office's return says, and the return's fourth column is the column for what was taken out of a building by an order, and in twenty-eight lines there are two rooms, a laundry, eleven boxes of somebody else's evidence, a terminal, four anchor lamps, a corridor repeater, a corridor light, and six access codes, and not one of those is a thing you can carry away in two hands and the ones you can are the ones that matter least.**
+The heading is the Office's own printed heading, copied out in chalk by a man in a clean orange jacket who had run out of forms on the thirty-fourth day of September and had written the last column of an impoundment return on the wall of a ward instead. Twenty-eight lines. A date against each one. A figure against each one. **And the heading says ITEMS, because that is what the Office's return says, and the return's fourth column is the column for what was taken out of a building by an order, and in twenty-eight lines there are two rooms, a laundry, eleven boxes of somebody else's evidence, a terminal, two anchor lamps, a corridor repeater, a corridor light, six access codes and an oxygen cylinder that line fourteen says is two, and the numbers were never going to agree because the clerk numbered the lines she wrote and not the things on the cart, and one of the twenty-eight is a child's name written out in full in a ward nurse's hand with the figure struck through it, and that is the line the wall is actually for, and not one of the rest is a thing you can carry away in two hands and the ones you can are the ones that matter least.**
 
 Underneath that column are nineteen hands.
 
@@ -36,7 +36,7 @@ And then, above the date, in his own hand and small, because there was room:
 >
 > **19 NOVEMBER. — P. L.**
 
-And the date was four days old, because he had decided on the eighteenth of November, on his own account, with nobody having asked him, that a hall which puts two dates on a wall in one week is a hall starting to expect something, and he had been right about that, and about most of it, and about none of the other things.
+And the date was nine days old, because he had decided on the eighteenth of November, on his own account, with nobody having asked him, that a hall which puts two dates on a wall in one week is a hall starting to expect something, and he had been right about that, and about most of it, and about none of the other things.
 
 Petar Lisk read all of that out loud twice, and then he read the last line twice as well, and it was the one he had written at about half past six the previous evening in the corridor while four people watched and none of them said anything, and it is the one this building is going to be described by, in a document, in about four years, in one sentence, correctly and without cruelty:
 

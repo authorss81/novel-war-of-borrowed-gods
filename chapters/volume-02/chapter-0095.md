@@ -28,7 +28,7 @@ Nobody said anything. It is not a meeting, and there is no minute of it, and the
 
 "That is the best thing anybody has said this morning," Inez Sato said, "and it is a reason and not an objection, and here is the answer to it.
 
-"**The rule about the column is a rule about things that come in. This is a thing that goes out.** A receipt for the thing that comes in is a lie and a receipt for the thing that goes out is the only evidence there is that twenty-two people were asked. If we do not write it down, then on Wednesday a stranger stands up in a room and says the hall was never asked, and there is nothing on this earth to put in front of them, because we will have had it in our mouths and not in our hands." She put her hand flat on the rail. "So we are writing it down, and I have known since Tuesday that we were going to, and I have been not enjoying it."
+"**The rule about the column is a rule about things that come in. This is a thing that goes out.** A receipt for the thing that comes in is a lie and a receipt for the thing that goes out is the only evidence there is that twenty-two people were asked. If we do not write it down, then on Wednesday a stranger stands up in a room and says the hall was never asked, and there is nothing on this earth to put in front of them, because we will have had it in our mouths and not in our hands." She did not turn round. "So we are writing it down, and I have known since Tuesday that we were going to, and I have been not enjoying it."
 
 ---
 
@@ -70,21 +70,21 @@ Nobody asked him what the closing one was, and he did not say, and Elias Rook no
 
 "Nine o'clock is wrong," Tarin Voss said, from the door. "Whatever you are doing on Wednesday, do not do it at nine. A hall that votes at seven in the morning is a hall voting so it can go to work, and I want a hall voting because it has decided to."
 
-"Seven," Inez Sato said. "**In the front room, on the chairs, and the board stays as it is, and the round is done before it and the four dark hours are still the four dark hours and I am not asking a single person in this room to give me an hour of their night for this.** Mr. Park takes the names. Mrs. Mir reads the no's out. I keep the instrument, and it is not in the residents' file and it is not in the tin, it is in the tin's place on the shelf with the band round it twice, because the file is the thing under a demand and the tin is ours and the instrument is going to be produced and I would like it to be a thing a person can hold."
+"Seven," Inez Sato said, "and I am going to answer the rest of it and not the hour, because the hour is the easy half. **You are right that it looks like that from the street, and the only thing I have got against it is that twenty-two people are going to be asked one at a time, and a person cannot go to work and be read to at the same time. In the front room, on the chairs, and the board stays as it is, and the round is done before it and the four dark hours are still the four dark hours and I am not asking a single person in this room to give me an hour of their night for this.** Mr. Park takes the names. Mrs. Mir reads the no's out. I keep the instrument, and it is not in the residents' file and it is not in the tin, it is in the tin's place on the shelf with the band round it twice, because the file is the thing under a demand and the tin is ours and the instrument is going to be produced and I would like it to be a thing a person can hold."
 
 "And us?" Elias Rook said. "The four of us. Are we in the room when it is read."
 
-"You are in the room," Inez Sato said, "because you are going to have to stand in it while nineteen people do a thing you asked them for, and I am not going to arrange for you to be elsewhere. Mr. Vale is in the room. Dr. Okafor is in the room or is not, at her own decision and with no explanation asked. And the twenty-two of us are the twenty-two of us and there is no observer and there is no second column for the people who came in with us."
+"You are in the room," Inez Sato said, "because you are going to have to stand in it while twenty-two people do a thing you asked them for, and I am not going to arrange for you to be elsewhere. Mr. Vale is in the room. Dr. Okafor is in the room or is not, at her own decision and with no explanation asked. And the twenty-two of us are the twenty-two of us and there is no observer and there is no second column for the people who came in with us."
 
 ---
 
 He came in at half past ten and went up the ramp and stood at the rail for a while, and the thing he had understood in a room of nineteen people at eleven o'clock on a Sunday morning was not about a release.
 
-**He was going to ask nineteen people to vote on a thing that was true.**
+**He was going to ask twenty-two people to vote on a thing that was true.**
 
 Not a thing he believed. Not a thing he had a reason to believe. A thing that was true, that had been arrived at by other people, in a records room, without him, and that could not be improved and could not be argued with and had no author in it, so that it could be carried by anybody, and it fitted in a coat.
 
-He was going to carry it to nineteen people on Wednesday morning at seven and ask them to put their names next to it.
+He was going to carry it to twenty-two people on Wednesday morning at seven and ask them to put their names next to it.
 
 "That is the expensive part," he said out loud, to nobody, on a corridor, in a building with a wire rail and twenty-two cards on it. "Not Wednesday. **Asking.**"
 

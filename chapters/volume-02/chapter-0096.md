@@ -14,7 +14,7 @@ Tomas Vale put the box on the table, took the lid off, took out eight sheets wit
 
 "**It is not a confession. It does not explain anything. It is a way of doing a thing, I wrote it in nineteen ninety-eight, my name is on it four times, and I am not going to read the four times out, because you will find them and counting them is not a use of the thing.**"
 
-He turned the first sheet round, pushed it toward Mara Okafor and Joon Park, took his hands off it and put them flat on the table. Elias Rook was standing by the wall because he had been told to stand by the wall, having said *I am going to be useless in this room and I would like that minuted*, and he had just watched a man do a version of a thing he had watched him describe to a Deputy Director eleven days ago.
+He turned the first sheet round, pushed it toward Mara Okafor and Joon Park, took his hands off it and put them flat on the table. Elias Rook was standing by the wall because he had been told to stand by the wall, having said *I am going to be useless in this room and I would like that minuted*, and he had just watched a man do a version of a thing he had watched him do in a records room six days ago.
 
 "It is a method," Tomas Vale said. "**Put a held plan in front of a room in such a way that somebody who is not the author of the plan can stop it.** That is all of it, and there is no ninth page because there is no ninth page."
 
@@ -60,13 +60,13 @@ He stopped.
 
 "What is in there."
 
-"A method, a man's name four times, a page about a night in a year, with no month on it that anybody in this room is going to say out loud, and about a hundred and forty words on step five." Tomas Vale looked at him. "**I have been asked since the fourth of September by four people whether I know where any of this started, and I have said no four times, and it is true four times, and I would rather you had it from me than worked out that I had it.**"
+"A method, a man's name four times, a page about a night in a year, with no month on it that anybody in this room is going to say out loud, and about a hundred and forty words on step five." Tomas Vale looked at him. "**I have been asked since the sixth of September by four people whether I know where any of this started, and I have said no four times, and it is true four times, and I would rather you had it from me than worked out that I had it.**"
 
 ---
 
 "I did not know you had that," Elias Rook said, and then heard himself, and heard what the sentence was.
 
-He had been in a records room eleven days ago and watched a man of sixty-four hear himself told that a belief he had held for a year was the most dangerous belief a man can hold in an inquiry, say thank you, and be told not to thank him. He had watched him give the only true thing he had given anybody in ten weeks on the Friday night, to three people, and then go and stand in a corridor, and then write up stairs refusing to have his name on it.
+He had been in the inquiry room nineteen days ago and watched a man of sixty-four hear himself told that a belief he had held for a year was the most dangerous belief a man can hold in an inquiry, say thank you, and be told not to thank him. He had watched him give the only true thing he had given anybody in ten weeks on the Friday night, to three people, and then go and stand in a corridor, and then write up stairs refusing to have his name on it.
 
 And on every one of those days Elias Rook had been quietly protecting him from it.
 
@@ -98,7 +98,7 @@ He read it back, and the twentieth and twenty-first lines above it were untouche
 
 ---
 
-Mara Okafor stood up first, and did not say thank you, because she had heard somebody else be told not to thank him in a hearing room eleven days ago and had worked out in about a second what he would do with it.
+Mara Okafor stood up first, and did not say thank you, because she had heard somebody else be told not to thank him in an inquiry room nineteen days ago and had worked out in about a second what he would do with it.
 
 "You have never been caught," she said. "That is what I want to say and it is not a compliment. In September you told this office, unprompted, that there was a 2034 write-off and a box with a number on it, and the disclosure they hold names the write-off, and it does not name a second thing in the same box, and there is nothing in eleven weeks of their questions that would take them to a second thing. **You have been carrying this since the third week of September and nobody has come for you and that is not because you were careful. It is because you gave them the true answer to the question they asked, and the true answer was the whole of the box as far as they were concerned, and a man who tells the truth about one thing and not another is not a man hiding anything. He is a man with a door in him.**"
 

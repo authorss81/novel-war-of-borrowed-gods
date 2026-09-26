@@ -54,7 +54,7 @@ He read it off the file.
 
 He let it sit.
 
-"That is the best thing that has happened to me in nine weeks," Elias Rook said, "and it is a loss, and I am not going to explain it in a room."
+"That is the best thing that has happened to me in nine weeks," Elias Rook said, "and the slots went before this morning and I want that in the record too, and it is a loss, and I am not going to explain it in a room."
 
 "Nobody asked you to."
 

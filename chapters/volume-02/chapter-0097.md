@@ -48,7 +48,7 @@ Warning: the branch is changing
 
 That was all of it. There was nothing under the line.
 
-"I want to say that out loud," Elias Rook said, "because in eleven weeks every one of these has had something under the heading, and this one has not, and the nothing under it is the first new thing anybody in this building has seen since the fourth of September. **It is not an offer. It is not a loan. There is nobody in it to ask and nothing in it to refuse.**"
+"I want to say that out loud," Elias Rook said, "because in eleven weeks every one of these has had something under the heading, and this one has not, and the nothing under it is the first new thing anybody in this building has seen since the sixth of September. **It is not an offer. It is not a loan. There is nobody in it to ask and nothing in it to refuse.**"
 
 He did not say *I hear you.* He had said that once, in September, into a relay, to a man nineteen years older than his sister, and he had got a rule back instead of a gift and had been right to, and there was no version of this in which he answered.
 

@@ -36,9 +36,9 @@ The recorder had both.
 
 "And I cannot produce the form. A form in a drawer in a form store is not a document. There is no instrument in this building or in this city that compels anybody to open a drawer, and I have looked twice, once on my own and once with the clerk who went and looked on her own, and I have minuted that the name was not withheld from me."
 
-He put his hands flat on the table, and Elias Rook, who had watched a man of sixty-four do that exact thing in a records room eleven days ago, had to look at the wall.
+He put his hands flat on the table, and Elias Rook, who had watched a man of sixty-four do that exact thing in a records room six days ago, had to look at the wall.
 
-"So there is a defect in this office's own form set, and it is a defect in a set and not in a person, and I have found it eleven days before the hearing that is going to decide whether this team is prosecuted, and I am telling a room full of the people it is going to be told about by counsel in a report in about three weeks. **I am not withdrawing the charge in this room. That is the twenty-seventh and it is mine and I will take it there.** But nobody in this room is going to be able to say afterward that I did not say it."
+"So there is a defect in this office's own form set, and it is a defect in a set and not in a person, and I have found it seven days before the hearing that is going to decide whether this team is prosecuted, and I am telling a room full of the people it is going to be told about by counsel in a report in about three weeks. **I am not withdrawing the charge in this room. That is the twenty-seventh and it is mine and I will take it there.** But nobody in this room is going to be able to say afterward that I did not say it."
 
 "That is going in your report," Solano said.
 

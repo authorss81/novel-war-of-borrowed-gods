@@ -16,7 +16,7 @@ The problem in the records room at eleven o'clock was this. The team had eleven 
 
 "**Then there is no way on the page of knowing who said it, and a page with no way of knowing who said it is a page about a rumor.**"
 
-Emil Baros put his hand on the table.
+Emil Baros got up, got the roll of hall paper out of the cupboard, and came back without saying anything.
 
 "Emil."
 
@@ -72,7 +72,7 @@ Nobody argued with it, which is not the same as agreeing with it, and Emil Baros
 
 ---
 
-And then Emil Baros found the letter, and he found it because he was the man in the building whose entire function was to know the difference between two copies by heart, and nobody had thought to tell him there was a second copy.
+And then Emil Baros did the thing nobody in the room had asked him to do, which was to follow a difference all of them had heard him name twice back to the place it came from.
 
 He had the hall's copy of the four lines on the table. Joon Park had the typed copy, the one that went into the inquiry's file on the seventeenth of November with a date and a name on it, and it had come back from the Meridian that morning by hand.
 
@@ -82,17 +82,17 @@ He had the hall's copy of the four lines on the table. Joon Park had the typed c
 
 He held them up to the window.
 
-"It is the same letter," he said. "**Ours says *items, 2*. Theirs says *item, 2*.** One letter, and no comma on theirs, and that is the whole of the difference, and it is the same difference it has been since the week the clerk ran out of forms."
+"**You all know the letter,**" he said. "Ours says *items, 2*. Theirs says *item, 2*. One letter and no comma on theirs, and I have said it twice and Mrs. Mir read it out on Tuesday, and it is in the record. That is not what I am looking at."
 
-Nadi Bell said, "Say where that letter comes from."
+Nadi Bell said, "Then say what you are looking at."
 
-"It comes from the wall," Emil Baros said, and put the two sheets down very carefully on the table, in the right order, and put his own finger on one and then on the other, and had to stop and start again. "**It comes from the wall. Our copy is a copy of the clerk's chalk. Somebody in this room copied it off that wall in September. The Office's copy is a copy of the same chalk. And the one-letter difference is the letter that is on our copy, and ours is the one that is right, because I have held the wall's version in my hand about forty times.**
+"Where it came from. Both of them." Emil Baros put the two sheets down very carefully on the table, in the right order, and put his own finger on one and then on the other, and had to stop and start again. "**Our copy is a copy of the clerk's chalk. Somebody in this room copied it off that wall in September. The Office's copy is a copy of the same chalk. And the one-letter difference is the letter that is on our copy, and ours is the one that is right, because I have held the wall's version in my hand about forty times.**
 
 "So we have got no original anywhere. There is no original. There is a stranger's chalk on a wall, and two copies of it, and one of them is ours and one of them is theirs, and the difference between them is *items* and *item*, and the one that is correct is the one this hall made."
 
 Lena Mir said, quietly: "Emil, that is the third time that function of yours has been worth something."
 
-"I know. I am not going to say anything about it, because I have been refused a line twice and I have stopped expecting it, and today the function was worth something and that is a Tuesday and not a pedestal."
+"I know. I am not going to say anything about it, because I have been refused a line twice and I have stopped expecting it, and today the function was worth something and that is a Saturday and not a pedestal."
 
 ---
 
