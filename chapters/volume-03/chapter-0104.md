@@ -6,7 +6,7 @@ Cliff Marner was fifty-seven days out of the ground. Della Marner was eighty-sev
 
 Elias Rook was there at ten to six, which is what he does, and the hose passed at nineteen hundred and forty and the gauge settled at one hundred and six, and Dunleavy wrote two figures in a book in his own hand and turned the book round so the page faced the man who had brought the sheet, and said nothing at all.
 
-Twenty minutes. It had been twenty minutes every Tuesday since the end of October, and Chapter 97's Tuesday was on it, and this was not a return and not a first and there was nobody there to be impressed by it.
+Twenty minutes. It had been twenty minutes every Tuesday since the end of October, and the Tuesday last week had been on it, and this was not a return and not a first and there was nobody there to be impressed by it.
 
 It was the first thing in thirteen weeks that had gone right in front of him and had not been him, and he did not make anything of it, and he rode back over the bridge in the dark and was at Ash Street for ten to eight with the week's inventory sheet in a satchel and a bus change in his coat.
 

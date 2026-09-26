@@ -6,13 +6,13 @@ The landlord died in 2038. She told him that on the step, before he had said any
 
 ---
 
-Cliff Marner was fifty-eight days out of the ground. Della Marner was eighty-eight days at a family-reception desk in Cordell. The man behind the wall was eighty-eight days in. Elias Rook had woken at five on a Tuesday in a bed in a hostel on the near bank and had got the 11 at a quarter to nine, and had read the same page of the same folder on the bus, and the folder was a program reference and four columns and a footnote in italics, and the four columns were address, structure, occupancy class, and status.
+Cliff Marner was fifty-eight days out of the ground. Della Marner was eighty-eight days at a family-reception desk in Cordell. The man behind the wall was eighty-eight days in. Elias Rook had got the 11 at a quarter to nine and had read the same page of the same folder on the bus, and the folder was a program reference and four columns and a footnote in italics, and the four columns were address, structure, occupancy class, and status.
 
 **Her address was on it. It said `PARTIAL` in the third column and `TRANSITIONAL` in the fourth.**
 
-That was correct. That was the thing he could not get past for the whole of that day: the two columns were right, and she was in a two-room flat, and the classification of a two-room flat is `PARTIAL`, and nobody had to decide anything for a seventy-one-year-old woman to be absent from a document about her own address.
+That was correct, and it was the thing he could not get past for the whole of that day: the two columns were right, and she was in a two-room flat, and the classification of a two-room flat is `PARTIAL`, and nobody had to decide anything for a seventy-one-year-old woman to be absent from a document about her own address.
 
-Her name was Ezinne Abioye. She was seventy-one. She had been at number nineteen since 1998 and had been four streets away before that, and she let him in with the chain still on and took the chain off when he had got his one hand out of his coat, which he thought was decent of her.
+Her name was Ezinne Abioye. She was seventy-one. She had been at number nineteen since 1998, and she let him in with the chain still on and took the chain off when he had got his one hand out of his coat, which he thought was decent of her.
 
 "Sit down. Not that chair, that chair is for the table."
 
@@ -69,9 +69,9 @@ Ezinne Abioye poured the tea and said, "That is better than saying you are going
 
 Here is what she talked about, in four hours, and Elias Rook wrote none of it down and could not have reproduced more than a third of it if he had tried, and every part of it is more load-bearing than anything on the schedule in his folder.
 
-The boiler. It had to be lit and it was lit at seven in the morning and it had cost two hundred and forty pounds in 2039 and a man had come to look at it in March and had not come back, and she had lit it every morning since, and it was going to go at some point, and when it went she was going to be a woman of seventy-one in a flat with two rooms and a card that said `TRANSITIONAL`, and she had got as far as the thought and no further.
+The boiler. It had to be lit and it was lit at seven in the morning and it had cost two hundred and forty pounds in 2039 and a man had come to look at it in March and had not come back. It was going to go at some point, and when it went she was going to be a woman of seventy-one in two rooms with a card that said `TRANSITIONAL`, and she had got as far as the thought and no further.
 
-The stairs. She had one flight to her own door, which was not a problem, and three flights to the street in bad weather, which was. And the woman on the floor above, whose name was Adaeze and who was thirty-four, had been coming down and doing them since the spring without being asked and without saying anything about it, and Ezinne Abioye had tried three times to give her something for it and had been refused three times, and the fourth time she had left a bag of oranges outside the door on the landing with no note on it, and Adaeze had taken the oranges and left a jar of something on the way past on the Tuesday, and that was the arrangement, and neither of them had discussed it, and it had been going on for eight months.
+The stairs. One flight to her own door, which was not a problem, and three flights to the street in bad weather, which was. And the woman on the floor above, whose name was Adaeze and who was thirty-four, had been coming down and doing them since the spring without being asked and without saying anything about it, and Ezinne Abioye had tried three times to give her something for it and had been refused three times, and the fourth time she had left a bag of oranges outside the door on the landing with no note on it, and Adaeze had taken the oranges and left a jar of something on the way past on the Tuesday, and that was the arrangement, and neither of them had discussed it, and it had been going on for eight months.
 
 Her sister, who had died in 2019, and who had lived at number nineteen for nine years and who had also been `PARTIAL`.
 
@@ -95,9 +95,9 @@ She looked at him.
 
 He had not noticed himself write it. That was not true — he had known he was writing it — and she was telling him something about the room and about herself, and he did not correct her, because she was entitled to have got it wrong in a way that was good for her.
 
-"No," she said. "**Nobody in this street has their name on anything. I would know.** There is a woman at number thirty-one has been on this row thirty-eight years and every single person on this street calls her by her husband's name, and the postal office calls her by her husband's name, and I have never once seen her be Mrs anything on any paper she has been handed in her life, and she is seventy-nine and she does not know there is anything to be. And I will tell you the true thing, which is that I have been aware of that since about 1998 and I have never done a thing about it, because it is her business and because I could not think of a single sentence that would not make it worse.**"
+"No," she said. "**Nobody in this street has their name on anything. I would know.** There is a woman at number thirty-one has been on this row forty-six years and every single person on this street calls her by her husband's name, and the postal office calls her by her husband's name, and I have never once seen her be Mrs anything on any paper she has been handed in her life, and she is seventy-nine and she does not know there is anything to be. And I will tell you the true thing, which is that I have been aware of that since about 1998 and I have never done a thing about it, because it is her business and because I could not think of a single sentence that would not make it worse.**"
 
-He wrote that down. He wrote it because she had said it and not because it was useful, and it was not useful, and the folder in the room was four hundred and twelve addresses of which this street was not a line, and the sentence he had just written down would do nothing at all for anybody.
+He wrote that down because she had said it and not because it was useful, and it was not useful, and the folder in the room was four hundred and twelve addresses of which this street was not a line, and the sentence he had just written down would do nothing at all for anybody.
 
 "You are writing it down," she said.
 
@@ -125,6 +125,6 @@ Because he had been four seconds from it on Wednesday morning and had caught it 
 
 "That is not a promise," she said. "I do not want a promise off a man with one hand and a folder. Come on Thursday if it rains and if it does not rain, and shut the door behind you on the landing."
 
-He got the 11 at ten past seven and the driver looked at him when he paid in coins, and he put two pound notes on the seat and said nothing, which was the correct arrangement on both sides.
+He got the 11 at ten past seven and the driver looked at him when he paid in coins, and he put two pound notes on the seat and said nothing, which was correct on both sides.
 
 The back hurt. He had been sitting on a wooden chair in a two-room flat on Cutbank Row for six hours, having been of no use to anybody at all, and he had paid eleven pounds in fares, and he had learned one thing that could not be put in a paragraph.

@@ -10,7 +10,7 @@ He walked it end to end twice looking for what an address was, and could not tel
 
 ---
 
-The woman he wanted was at number nineteen with her front door open eight inches and a folded sheet of paper in her right hand, and she was holding it the way you hold a thing you have been holding for a long time.
+The woman he wanted was at number twenty-two with her front door open eight inches and a folded sheet of paper in her right hand, and she was holding it the way you hold a thing you have been holding for a long time.
 
 Elias Rook was four steps away when she went in and shut the door, and it was not fast, and it was not a slam, and there was no second sound at all, and he stood on a doorstep on a Sunday morning and understood that a door had just closed on him in a way that was not rudeness.
 

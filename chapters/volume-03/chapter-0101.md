@@ -118,7 +118,7 @@ He did the arithmetic from a notice board at the yard gate, which is what it is 
 
 The little printed slip under it said the model had been adjusted twice and that a model was a model, and that anybody who wanted to know what the adjustment had been could write to the board's surveyor and get an answer inside twenty working days, and Elias Rook stood and read that sentence four times because it is the same sentence in a different font, and he has been in a building where four people have said a version of it out loud in eleven weeks, and here it was printed on a card at a gate in a different city, and the man who printed it had a surveyor's job and no idea at all what he had done.
 
-He wrote nothing down. That was the discipline and it was his own, and he was the only person in this batch keeping it, and it turned out to cost him more than the notebook did.
+He wrote nothing down. That was the discipline and it was his own, and it turned out to cost him more than the notebook did.
 
 At ten past ten he got the 11 back and rode it into the city and put the inventory sheet into the drawer in the records room where it belonged, and it was the only thing he had done all morning that anybody anywhere had asked him for.
 
