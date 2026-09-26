@@ -10,7 +10,7 @@ The card said what it had always said. 19 CUTBANK ROW. STRUCTURE: TWO ROOMS. OCC
 
 18 SEP 42.
 
-He had spent twelve weeks behind a wall with nineteen hands on it, and four days in this district on the fact that a column exists, and is right, and is about a building. A woman of seventy-one had put a date on the back of a card in pencil so that she would know how old it was, and three months had gone by in which nobody in this city had asked her why.
+He had spent twelve weeks behind a wall with nineteen hands on it, and six days in this district on the fact that a column exists, and is right, and is about a building. A woman of seventy-one had put a date on the back of a card in pencil so that she would know how old it was, and three months had gone by in which nobody in this city had asked her why.
 
 ---
 
@@ -64,7 +64,7 @@ Elias Rook went and stood somewhere else with his back against a different wall,
 
 He said the error out loud once, at about half past four, to a man who was not on his side and had not asked to be, standing in the yard by the survey office door because the door was locked.
 
-"I have been in this district four days looking for a hand in a document, and there is not one, and I want to say that out loud to somebody who does not care whether I say it."
+"I have been in this district six days looking for a hand in a document, and there is not one, and I want to say that out loud to somebody who does not care whether I say it."
 
 Anum shut the laptop.
 

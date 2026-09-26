@@ -55,9 +55,9 @@ It is eleven minutes from the corner of Ash Street to the Tannery Cut. He had ri
 
 ---
 
-The hoarding went up the whole length of the fence at the north end where Cutbank Row turns into the yard approach, corrugated steel, and a man in a fluorescent vest was standing in front of it with a roll of tape and a clipboard and a box of leaflets, in the way of a man who has been standing there since eight and enjoys it.
+The hoarding went up the whole length of the fence at the north end where Cutbank Row turns into the yard approach, corrugated steel, and a woman in a fluorescent vest was standing in front of it with a roll of tape and a clipboard and a box of leaflets, in the way of somebody who has been standing there since eight and enjoys it.
 
-Elias Rook got off the bus and walked up to him.
+Elias Rook got off the bus and walked up to her.
 
 "Morning."
 
@@ -65,7 +65,7 @@ Elias Rook got off the bus and walked up to him.
 
 "I know."
 
-"It's fine. Everybody does." The man laughed, friendly, entirely without malice, and turned the clipboard around. "Do you want a leaflet or do you want to argue with the leaflets? Because the ones who want to argue, it's usually better to have read it first."
+"It's fine. Everybody does." She laughed, friendly, entirely without malice, and turned the clipboard around. "Do you want a leaflet or do you want to argue with the leaflets? Because the ones who want to argue, it's usually better to have read it first."
 
 Elias Rook took the leaflet.
 
@@ -84,11 +84,11 @@ And at the bottom, in the same ink, in the same size, on the same piece of good 
 
 Elias Rook stood and looked at it for longer than a man looks at a leaflet.
 
-"Forty-one thousand people got one of these," said the man in the vest. "Not me. It went out with the rates. There's one on every door in the district and one on the school one, which is Mr. Prosser's idea, and I think that's the single cleverest piece of admin anybody's done in this city in ten years, because if it's on the school then it's not a threat, it's information."
+"Forty-one thousand people got one of these," said the woman in the vest. "Not me. It went out with the rates. There's one on every door in the district and one on the school one, which is Prosser's idea, and I think that's the single cleverest piece of admin anybody's done in this city in ten years, because if it's on the school then it's not a threat, it's information."
 
 "And how many of them have read it."
 
-"Enough." The man in the vest shrugged. "That's not my department either. My department is the tape."
+"Enough." She shrugged. "That's not my department either. My department is the tape."
 
 ---
 

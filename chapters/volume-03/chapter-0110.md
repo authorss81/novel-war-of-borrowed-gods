@@ -2,7 +2,7 @@
 
 Cliff Marner was sixty-three days out of the ground. Della Marner was ninety-three days at a family-reception desk in Cordell. The man behind the wall was ninety-three days in. Elias Rook got the 11 at ten past six on Monday evening, the eighth of December, and there was a program leaflet on every chair in the church hall off Marden Row and about two hundred people in it, and the folding table at the front had a microphone on it that worked.
 
-She had put the leaflets on the chairs herself. Marged Prosser is fifty-five, chairs a parents' group in this district, lost a son in the 2039 outfall, and is the reason a regional pilot program's leaflet went into a school in September and not only into letter boxes, because she went to the school and asked, and a man in a high-visibility vest told Elias Rook on a Saturday that it was the cleverest piece of administration anybody in this city had done in ten years.
+She had put the leaflets on the chairs herself. Marged Prosser is fifty-five, chairs a parents' group in this district, lost a son in the 2039 outfall, and is the reason a regional pilot program's leaflet went into a school in September and not only into letter boxes, because she went to the school and asked, and a woman in a high-visibility vest told Elias Rook on a Saturday that it was the cleverest piece of administration anybody in this city had done in ten years.
 
 She got the meeting started at four minutes past seven, in about ninety seconds, and then sat down beside the table, which is not a thing a chair of a parents' group has to do.
 
@@ -96,7 +96,7 @@ Nobody spoke. A man in a wheelchair looked at the floor. Somebody at the back mo
 
 Ferrand watched him do it and waited him out, and did not rescue him, and then picked the microphone up off the table.
 
-"Mr. Rook. You have been in this district four days. I have been in it nine years." He said it without any edge at all, which was the cruelty of it. "You have a page in a notebook and I have **four hundred and twelve** addresses that are still standing. Not one of them is on any list of mine that I have had to explain to a coroner.
+"Mr. Rook. You have been in this district nine days. I have been in it nine years." He said it without any edge at all, which was the cruelty of it. "You have a page in a notebook and I have **four hundred and twelve** addresses that are still standing. Not one of them is on any list of mine that I have had to explain to a coroner.
 
 "And I will say this. If you would like to make the schedule a better document, I will get you the working folder — the one with the drafts in it and the September overlay and the thing I sent back twice — and you can have it on Monday, and I am not doing it as a favor and I would like it noted that it is not a favor, because I would like this program to be checked by people who are not in it."
 
@@ -112,6 +112,6 @@ The inside back cover of the notebook had two dates on it from Friday. The back 
 
 **2 JANUARY.**
 
-The whole of what he had learned in four days about a program that had a name and a face and an accurate reading of the ground, and it fit on a line on the back of a page in his own hand, and the line was a date that somebody else was keeping for him.
+The whole of what he had learned in nine days about a program that had a name and a face and an accurate reading of the ground, and it fit on a line on the back of a page in his own hand, and the line was a date that somebody else was keeping for him.
 
-That night the district learned that there was a man from the Cinder Quarter who had come four times and asked good questions, and a man from the cell who had come once and answered all of them, and the first one went home on the 11 and the second one stayed and shook about forty hands at the door.
+That night the district learned that there was a man from the Cinder Quarter who had come nine times and asked good questions, and a man from the cell who had come once and answered all of them, and the first one went home on the 11 and the second one stayed and shook about forty hands at the door.

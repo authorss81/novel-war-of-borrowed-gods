@@ -1,6 +1,6 @@
 # Chapter 107 — The Request
 
-Cliff Marner was sixty days out of the ground. Della Marner was ninety days at a family-reception desk in Cordell. The man behind the wall was ninety days in. Elias Rook had been in Tidegate for five days and had come back on the 11 with a folder and two rolls of paper and the beginnings of an understanding, and none of it was evidence, and on Friday morning the fifth of December, the ninetieth day, the first thing in the building that made any sense was a man of twenty-four at a table with a form.
+Cliff Marner was sixty days out of the ground. Della Marner was ninety days at a family-reception desk in Cordell. The man behind the wall was ninety days in. Elias Rook had been in Tidegate for seven days and had come back on the 11 with a folder and two rolls of paper and the beginnings of an understanding, and none of it was evidence, and on Friday morning the fifth of December, the ninetieth day, the first thing in the building that made any sense was a man of twenty-four at a table with a form.
 
 Joon Park had a public records request form. He had brought it from the county library on the bus, along with a pen, and a folded piece of paper with what he wanted written on it in his own handwriting in case they would not let him keep the form, and he had got up at five to do it.
 

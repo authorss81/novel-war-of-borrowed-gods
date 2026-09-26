@@ -44,7 +44,7 @@ And it had been happening on a corner in another district every Saturday morning
 
 **Thirty-one people, and not one of them thought it was remarkable**, which was the part that undid him, because the whole of his education had been conducted in rooms where the fact that a thing was happening was visible from the street.
 
-He had a leaflet in his pocket that he had carried around for five days and had not shown to anybody, and it was the program of a regional pilot program with a Director's name at the bottom of it, and it was better paper than anything the Continuity Office had put on a table in eleven weeks, and it was in every kitchen in this district, and it had cost nothing and done more in a fortnight than his building had done in twelve weeks.
+He had a leaflet in his pocket that he had carried around for seven days and had not shown to anybody, and it was the program of a regional pilot program with a Director's name at the bottom of it, and it was better paper than anything the Continuity Office had put on a table in eleven weeks, and it was in every kitchen in this district, and it had cost nothing and done more in a fortnight than his building had done in twelve weeks.
 
 ---
 
@@ -58,7 +58,7 @@ He carried it eleven times.
 
 He is a man with one hand and eleven times is a fact about his grip and about the fact that he is thirty-five and has been carrying things out of buildings since he was twenty-one, and by the fifth one he had stopped being careful about it, and by the eighth one he had found the rhythm that works with a right forearm under a rail, and by the eleventh a woman he had not met came out of the canteen door with two mugs in her hands and stopped and looked at him.
 
-"You're the one that got off the eleven on Tuesday," she said. "With the folder."
+"You're the one that got off the eleven on Wednesday," she said. "With the folder."
 
 "Yes."
 
@@ -78,7 +78,7 @@ That was step four and it came out of him without a decision, which is what a st
 
 And he stopped, in the middle of it, with the folder open, in front of nine people.
 
-Because he had no version history and no forum and no standing in a district he had been in for six days, and every one of those nine people was going to believe him, and the only reason they were going to believe him was that he was a stranger with a folder and a good coat, and in about nine minutes he would have said a number out loud in a yard to nine people, and by Monday it would have been in every kitchen on that row, and there was not one person in Tidegate who had any obligation whatsoever to answer him, and if he was wrong then the number would be in the district and he would be the only man in the country who could take it back.
+Because he had no version history and no forum and no standing in a district he had been in for eight days, and every one of those nine people was going to believe him, and the only reason they were going to believe him was that he was a stranger with a folder and a good coat, and in about nine minutes he would have said a number out loud in a yard to nine people, and by Monday it would have been in every kitchen on that row, and there was not one person in Tidegate who had any obligation whatsoever to answer him, and if he was wrong then the number would be in the district and he would be the only man in the country who could take it back.
 
 He had spent twelve weeks in a building learning that a document can be made to tell the truth. He was the one who had been wrong, in a corridor, on a Tuesday, and he had said it out loud to a wall.
 

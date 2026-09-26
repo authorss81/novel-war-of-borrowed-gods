@@ -133,4 +133,4 @@ He read the footnote on the bus at ten past five, with the folder on his knees u
 
 He read it four times, on a bench at the near end of the cut, with the light going, and it did not make sense to him then and he could not have explained to anybody in a room what was wrong with it, and the reason was that on Monday the first of December he did not know there was a second reading.
 
-The second reading was eleven days old.
+The second reading was two days old.

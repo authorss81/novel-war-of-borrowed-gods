@@ -51,7 +51,7 @@ He put it on the chair behind him instead.
 
 He had been four seconds from opening it. He noticed himself four seconds too late, and then he sat there for the rest of the afternoon and was no use at all.
 
-"What do you do, then," she said, at about half past eleven. "You have not said. You have come four days running and you have a folder and one hand and you have not told me what your job is and I have been waiting since you sat down."
+"What do you do, then," she said, at about half past eleven. "You have not said. You have come five days running and you have a folder and one hand and you have not told me what your job is and I have been waiting since you sat down."
 
 "I am a rescue service field technician. I am on suspension from one kind of work and I am not on suspension from the rest of it. I am in a building on Ash Street that was a refuge after a tunnel came in on the sixth of September, and I have been there twelve weeks, and I have three endorsements that were taken off me on the twenty-seventh of November and they are not coming back and nobody has to give them back."
 
@@ -95,7 +95,7 @@ She looked at him.
 
 He had not noticed himself write it. That was not true — he had known he was writing it — and she was telling him something about the room and about herself, and he did not correct her, because she was entitled to have got it wrong in a way that was good for her.
 
-"No," she said. "**Nobody in this street has their name on anything. I would know.** There is a woman at number thirty-one has been on this row forty-six years and every single person on this street calls her by her husband's name, and the postal office calls her by her husband's name, and I have never once seen her be Mrs anything on any paper she has been handed in her life, and she is seventy-nine and she does not know there is anything to be. And I will tell you the true thing, which is that I have been aware of that since about 1998 and I have never done a thing about it, because it is her business and because I could not think of a single sentence that would not make it worse.**"
+"No," she said. "**Nobody in this street has their name on anything. I would know. There is a woman at number thirty-one has been on this row forty-six years and every single person on this street calls her by her husband's name, and the postal office calls her by her husband's name, and I have never once seen her be Mrs anything on any paper she has been handed in her life, and she is seventy-nine and she does not know there is anything to be. And I will tell you the true thing, which is that I have been aware of that since about 1998 and I have never done a thing about it, because it is her business and because I could not think of a single sentence that would not make it worse.**"
 
 He wrote that down because she had said it and not because it was useful, and it was not useful, and the folder in the room was four hundred and twelve addresses of which this street was not a line, and the sentence he had just written down would do nothing at all for anybody.
 

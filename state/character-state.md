@@ -659,7 +659,7 @@
 
 ## Marged Prosser, 55 — Tidegate
 
-- **Chairs a parents' group. Lost a son in the 2039 outfall. Is the reason the program leaflet went into the school on Marden Row in September instead of only into letter boxes, and a man in a vest told Elias Rook on a Saturday morning that it was the cleverest piece of administration anybody in this city had done in ten years, and that is now on the page twice.** She is the constituency and she is right about most of it, and she is not a prop and she is not stupid.
+- **Chairs a parents' group. Lost a son in the 2039 outfall. Is the reason the program leaflet went into the school on Marden Row in September instead of only into letter boxes, and a woman in a vest told Elias Rook on a Saturday morning that it was the cleverest piece of administration anybody in this city had done in ten years, and that is now on the page twice.** She is the constituency and she is right about most of it, and she is not a prop and she is not stupid.
 - **She started the Monday meeting in ninety seconds, sat down beside the table, and asked the best question of the night — what is the difference between your reading and your schedule, and which one is the wall going to be built on — and wrote the answer on a card.** She is not on any list of the program's and she is not on the schedule, and she is the reason roughly two hundred people were in a hall on a Monday evening instead of forty.
 
 ## The counterwoman at the regional office, and the woman at the cell's ground-floor counter

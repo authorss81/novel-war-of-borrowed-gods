@@ -4,7 +4,7 @@ He got the 11 at ten past nine on Sunday morning, the thirtieth of November, the
 
 Cliff Marner was fifty-five days out of the ground. Della Marner was eighty-five days at a family-reception desk in Cordell. The man behind the wall was eighty-five days in, and the wall on Ash Street had no room left on it, and both of those were facts that had nothing to do with why he was on a bus at ten past nine on a Sunday.
 
-Cutbank Row on a Sunday morning in late November is a street of people carrying bags. There was a queue at the newsagent and post office at number two that went out of the door and turned, and a man in a high-visibility vest at the end of it taking a leaflet off a pile and putting it back on the pile. The boatyard along the cut had a radio going in an open door. Everything on that street was open, and nothing on that street was free, and the two facts sat on top of each other the way they always did in a place where people are being asked to leave.
+Cutbank Row on a Sunday morning in late November is a street of people carrying bags. There was a queue at the newsagent and post office at number two that went out of the door and turned, and a woman in a high-visibility vest at the end of it taking a leaflet off a pile and putting it back on the pile. The boatyard along the cut had a radio going in an open door. Everything on that street was open, and nothing on that street was free, and the two facts sat on top of each other the way they always did in a place where people are being asked to leave.
 
 He walked it end to end twice looking for what an address was, and could not tell, and that turned out to be the first useful thing he learned.
 
