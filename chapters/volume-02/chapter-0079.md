@@ -48,11 +48,9 @@ Ru Sabar put her card down on the table. Her card had been back on the board sin
 
 "I want to say the thing I am not saying," she said. "It is not mine after six. Everybody knows that and nobody has ever had to be told, and I am not saying it because of a document. I am saying that I have watched four of you work for nine weeks on the assumption that there is a place in this building where a thing can be safe, and **I have kept that laundrette for six weeks on a condition, and a condition is not a safe place, a condition is a thing you can break, and I break it myself every night at ten past six and that is the only power I have got.** So I am not saying no. I am saying that somebody in this room ought to be honest that a loose thing in a county library is not safer than a loose thing on Ash Street. It is just further away, and further away is a different kind of cold."
 
-Lena Mir said, 
+"Then what is actually different about it," Lena Mir said.
 
 ---
-
-"Then what is actually different about it."
 
 In Inez Sato's cooperative language the answer came out in about nine seconds, and it is not in the Office's vocabulary at all, and it uses the Office's word.
 

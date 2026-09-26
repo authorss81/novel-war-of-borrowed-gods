@@ -94,7 +94,7 @@ He understood the thing at about five past twelve on the bus coming back, forty 
 
 She had not withheld anything. There was nothing to withhold. In nineteen years that woman had been handed four visitors and two lost and a key on a hook and a preservation levy and a card index and a rule about cameras, and in all that time **the archive has not refused the team one single thing**, and it has never refused anybody anything, and it does not have a door it closes, and the reason it is not withholding is that there is nothing in that building to withhold.
 
-Six weeks ago Elias Rook had spent nine weeks learning that a record which cannot be taken is a record that cannot be corrected, and he had put that sentence in a notebook and felt that it was the hardest thing he had learned in October.
+Elias Rook had spent nine weeks learning that a record which cannot be taken is a record that cannot be corrected, and he had put that sentence in a notebook and felt that it was the hardest thing he had learned in October.
 
 It is a much worse thing to be owed than a refusal. A refusal is a wall you can put a door in. A building that has never hidden anything from you is a building where everything you ever get is everything there is.
 

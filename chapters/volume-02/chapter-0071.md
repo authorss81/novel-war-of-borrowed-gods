@@ -13,7 +13,9 @@ The hall had a pencil on a string, and Inez Sato told him on his first morning t
 
 "The pencil is the office's," she had said. "The string is mine. If the pencil goes I want it written down in the room that it went, and I do not want anybody to write down who took it, because then the next person does not take it, and I would rather we ran out of pencils in April than lose the habit of taking one."
 
-There were four carded draws on Thursday and three were signed in a hand he did not know, and the fourth was Ru Sabar's, and Ru Sabar's had a time on it in her own writing — *18:10* — because her condition is a condition and not a preference, and a preference is a thing you can talk somebody out of.Elias Rook wrote the two hundred and ten on the Thursday form as well, in the inventory column, in his own right hand, and it took him a second and a half, and he had spent six weeks with a number in his head that was not a hose.
+There were four carded draws on Thursday and three were signed in a hand he did not know, and the fourth was Ru Sabar's, and Ru Sabar's had a time on it in her own writing — *18:10* — because her condition is a condition and not a preference, and a preference is a thing you can talk somebody out of.
+
+Elias Rook wrote the two hundred and ten on the Thursday form as well, in the inventory column, in his own right hand, and it took him a second and a half, and he had spent six weeks with a number in his head that was not a hose.
 
 ---
 

@@ -2,13 +2,13 @@
 
 The hose held on the Tuesday at twenty-five minutes to seven, the foreman wrote the time next to his name, and Elias Rook was on the far bank by a quarter past eight with a rack of couplings in front of him and nothing in the world that wanted anything from him until six that evening.
 
-At nine past six he telephoned the hall and Inez Sato told him there was a meeting at seven and that it was not about the last trip, and she put the handset down on her own end, which she has done once, on a Tuesday in the fourth week, and never twice.
+At nine past six he telephoned the hall and Inez Sato told him there was a meeting at seven and that it was not about the last trip, and she put the handset down on her own end, which she has done once and never twice.
 
 ---
 
 Mara Okafor caught him on the ramp at ten past five with a sheet in her hand.
 
-"I am going to say a decision out loud in twenty minutes, in the front room, to the people who are going to carry it, in the words it is said in, before it is acted on, and it is about a person in a bed and not a piece of paper, and I am not going to discuss it with you first, and that is on purpose."
+"I am going to say a decision out loud in twenty minutes, in the front room, to the people who are going to carry it, in the words it is said in, before it is acted on, and it is about a person in a bed and not a piece of paper, and I am not discussing it with you first, and that is on purpose."
 
 "I am not going to discuss it with you first either."
 
@@ -20,7 +20,7 @@ Mara Okafor caught him on the ramp at ten past five with a sheet in her hand.
 
 ---
 
-At seven o'clock there were twenty-one people in the front room. Inez Sato stood at the table with her pad, Lena Mir sat down on the end of it and said nothing, Petar Lisk was on a chair with the board behind him, and the tin was on the table with the band round it twice.
+At seven there were twenty-one people in the front room. Inez Sato stood at the table with her pad, Lena Mir sat down on the end of it and said nothing, Petar Lisk was on a chair with the board behind him, and the tin was on the table with the band round it twice.
 
 Mara Okafor said the decision in the order the rule requires, and it took ninety seconds.
 
@@ -36,9 +36,9 @@ He said it standing up, because he gets up when he says a thing he has decided t
 
 Then she refused the vote, in the flat voice.
 
-"Anybody here who wants to vote on that, I am going to say no to, and the reason is that there is nothing to vote on. **Nobody inherits me.** A vote would be a way of pretending it is a thing the room owns, and it is not. If you want to discuss the rule we can discuss the rule, and I will lose that argument too if I lose it."
+"Anybody here who wants to vote on that, I am going to say no to, and the reason is that there is nothing to vote on. **Nobody inherits me.** A vote would be a way of pretending it is a thing the room owns, and it is not. If you want to discuss the rule we can discuss the rule, and I will lose that argument too."
 
-Nobody took it up. Inez Sato wrote *no vote taken*, and Mara Okafor sat down, and the room did not applaud, because it never does.
+Nobody took it up. Inez Sato wrote *no vote taken*, Mara Okafor sat down, and the room did not applaud, because it never does.
 
 
 ---
@@ -55,7 +55,7 @@ Nobody spoke.
 
 "Three men went to a building in another city in October. On Monday two of them went back. What they found is a book, a piece of paper, a date, a woman who signed a line about a piece of equipment at four minutes past four in the morning, a rectangle cut off that page with a blade, and a review in two thousand and eleven that put *not applicable* in a box about the field, in a unit's block, with no name on it.
 
-"**That is the discovery, and I have not said the year, and I want that written down, because I have wanted to say it out loud since Wednesday, nobody in this room stopped me, and I stopped myself, and that is the first time in nine weeks I have wanted to say a thing out loud and not said it.**"
+"**That is the discovery, and I have not said the year, and I want that written down, because I have wanted to say it out loud since Wednesday, nobody in this room stopped me, and I stopped myself, and that is the first time in nine weeks I have wanted to say a thing and not said it.**"
 
 ---
 
@@ -71,7 +71,7 @@ Lena Mir said, "That is good work, Emil," and Baros went red to the ears and sat
 
 ---
 
-And then Tarin Voss, who had been standing by the door with his coat on, said the question.
+And then Tarin Voss, standing by the door with his coat on, said the question.
 
 "Does this make us the people who find things." He was not asking Elias Rook. "Not whether it is right. Whether it is going to be what we are. In a year somebody is going to write a sentence about this district and the sentence is going to have a noun in it, and if we go on doing this the noun is going to be *records*, and there is a version of that sentence a family gets turned out on, and I do not know how many of us it takes before the sentence is true."
 
@@ -87,7 +87,7 @@ She sat down, and nobody answered her, and she has never in her life required on
 
 Elias Rook stood at the back with his back to the wall, because a man in a room that wants a sentence about him should not be handing the room his face, and he said the thing he had come to say, and it was one sentence.
 
-"We are not going to publish it. The reason is one sentence. **A document that cannot be used is still a document that has been read, and four people have read it, and a fifth person's name is on a line in it.**" He stopped there on purpose. "That is the whole reason. It is not the Office and it is not a tactic, and I am not asking you to protect me from anything. If you want to publish it I will carry the boxes out myself tonight and I will not say one word against it."
+"We are not going to publish it. The reason is one sentence. **A document that cannot be used is still a document that has been read, and four people have read it, and a fifth person's name is on a line in it.**" He stopped there on purpose. "That is the whole reason. It is not the Office and it is not a tactic, and I am not asking you to protect me from anything. If you want to publish it I will carry the boxes out myself tonight and say nothing against it."
 
 "You will not," Inez Sato said, "because you have not read the rule you are standing in front of."
 
@@ -105,16 +105,16 @@ Inez Sato wrote for about eleven seconds and read it out loud, because she reads
 
 "**No answer given.** Dated, with my name on it, and anybody who wants to say something about it can say it at seven tomorrow and not tonight."
 
-She wrote it, and it is on the wall in chalk, and it is the third thing under the clerk's fourth column that nobody in this building owns.
+She wrote it, and it is on the wall in chalk, and it is the third thing under the clerk's fourth column that nobody here owns.
 
 ---
 
 And the thing Elias Rook understood at about twenty past eight, standing at the back of his own front room, was that a wall is not a wall because it is safe. It is a wall because somebody decided what goes on it.
 
-In the fourth week they worked out how to keep a record that could not be impounded, and they did it by writing twenty-eight lines in chalk that nobody owns, and every one of those lines was somebody's decision. They have a store that consolidated, a line in a movement book nobody can explain, four sheets in nineteen hands, a copy on a library shelf in a county the Office does not have a building in, and now a discovery, and by Friday there will be a description of all of it written by somebody who was not in the room, and it will use the word *records*, and Tarin Voss is going to be right, and none of that required anybody to decide anything.
+In the fourth week they worked out how to keep a record that could not be impounded, and they did it by writing twenty-eight lines in chalk that nobody owns, and every one of those lines was somebody's decision. They have a store that consolidated, a line in a movement book nobody can explain, four sheets in nineteen hands, a copy on a library shelf in a county the Office does not have a building in, and now a discovery, and by Friday there will be a description of all of it written by somebody who was not in the room, and it will use the word *records*, and Tarin Voss is going to be right, and not one line of any of it required anybody to decide anything.
 
-**The description started on its own. It has been running since a clerk in an orange jacket wrote a fourth column on this wall on the thirty-seventh day and did not sign it, and it did not need anybody to decide to start it.** That is the part he got wrong on Monday in a store room, and it took a pencil and a Tuesday and a nine-year-old's board to get it out of him.
+**Which is the sentence he heard come out of his own mouth and did not like, and it took a pencil and a Tuesday and a nine-year-old's board to get the rest of it out of him:** the description started on its own. It has been running since a clerk in an orange jacket wrote a fourth column on this wall on the thirty-seventh day and did not sign it, and it did not need anybody to decide to start it. That is the part he got wrong on Monday in a store room, when he believed that because a name was not in anything at all, the page was safe.
 
 He said it to Joon Park at the door on his way out, and Joon Park wrote it down and added nothing.
 
-Outside, the seal stood, the eleven meters was a length with a day on it, a man behind a wall inside it was fifty-nine days in and unwritten at his own request, and in four days a Deputy Director is going to decide what to do with the best thing any of them has found, and he will do it correctly.
+Outside, the seal stood, the eleven meters was a length with a day on it, a man behind a wall inside it was fifty-nine days in and unwritten at his own request, and tomorrow a Deputy Director is going to answer that question, and he is going to answer it correctly.

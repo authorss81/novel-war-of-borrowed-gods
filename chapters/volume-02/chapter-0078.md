@@ -86,4 +86,4 @@ He has spent nine weeks being extremely careful about who he is owed something b
 
 ---
 
-At half past nine on Thursday night the hall on Ash Street had four dark hours two hours off and Petar Lisk was reading the board, and there were three questions on it and none of them had been answered, and on a table in the front room there was a tin with a rubber band round it twice and a notebook in it with six words in Joon Park's handwriting that nobody in that building was ever going to be able to use, and about two inches by one of nothing at all.
+At half past nine on Thursday night the hall on Ash Street had four dark hours two hours off and Petar Lisk was reading the board, and there were three questions on it and none of them had been answered, and on a table in the front room there was a tin with a rubber band round it twice and a notebook in it with six words in Elias Rook's handwriting that nobody in that building was ever going to be able to use, and about two inches by one of nothing at all.

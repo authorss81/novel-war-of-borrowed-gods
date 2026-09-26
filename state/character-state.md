@@ -321,7 +321,7 @@
 ## Nathan Rusk, Deputy Director, 59
 
 - **Seven true things, one procedural kindness, and the seventh is the only one anybody can hold.** The 2011 annotation goes in his report as a fact with a date and not as a finding, and he said so out loud before he did it, and he said it was worth less than the other six. **The Office's answer to a 2011 annotation is a process, the process is the answer, and the process has no author, and he said out loud that this is what an institution is for.** He is correct about the shape being a printed box, and about the design being good, and neither is a concession.
-- **The third sitting is fixed for Thursday the nineteenth of November 2042, at ten in the morning, in the inquiry room.** He moved it out of October, said he chose the date because it is the near end of the team's own request, and minuted that he chose it and that he would have refused the date in October if asked.
+- **The third sitting is fixed for Wednesday the nineteenth of November 2042, at ten in the morning, in the inquiry room.** He moved it out of October, said he chose the date because it is the near end of the team's own request, and minuted that he chose it and that he would have refused the date in October if asked.
 - **He said to Tomas Vale that believing the truth is better for you is the most dangerous belief a man can hold in an inquiry**, and he was not softened, and he does not manage anybody, and he says out loud what he is going to do before he does it.
 
 ## Rufus Aitken, 51

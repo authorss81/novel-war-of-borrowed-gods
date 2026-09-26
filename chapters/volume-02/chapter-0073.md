@@ -92,4 +92,4 @@ At about two o'clock he understood that there was nothing in the building that n
 
 He did not enjoy finding that out. He noticed, at about two, that he had been looking at the front door every twenty minutes since ten, and that the bus from Cordell came in at ten past two and forty minutes, and that he was glad, and that the gladness was the exact shape of the thing he had said out loud in the front room on Friday about enjoying being the right one. He wrote the date under it and shut the notebook.
 
-What was on the shelf in Cordell was five bound volumes of paper, standing on a shelf since the cart of the twenty-thirty-nine, and nobody had ever asked for them, and there was nothing on any form anywhere that said somebody should have.
+Five bound volumes of paper were standing on a shelf in Cordell that nobody had ever asked for, and the thumb that had found them had come off the line, and the next bus out of this city was on Sunday morning, and he had looked that up twice and told nobody either time.

@@ -2,7 +2,7 @@
 
 The hall had been running without him most weeks since the collapse and it said so, and it said it in the first thirty seconds, and it did not say it unkindly.
 
-Elias Rook came up the ramp at ten past five on the Saturday, the sixty-third day, and four people were doing a job in the front room and two of them did not look up, and Petar Lisk, who is nine and who reads the board at seven every morning, walked past him with a hand lamp under his arm and said, without stopping, "You were in Cordell on Sunday and Monday. That is two days out of the last ten, and I counted, and I am not counting Saturday because Mr. Park went and you did not, and that is a different thing, and I have written the two things separately."
+Elias Rook came up the ramp at ten past five on the Saturday, the sixty-third day, and four people were doing a job in the front room and two of them did not look up, and Petar Lisk, who is nine and who reads the board at seven every morning, walked past him with a hand lamp under his arm and said, without stopping, "You were in Cordell on Sunday and Monday and on Thursday as well. That is three days out of the last ten, and I counted, and I am not counting Saturday because Mr. Park went and you did not, and that is a different thing, and I have written the two things separately."
 
 "Who counted?"
 
@@ -18,7 +18,7 @@ Lena Mir was on the round. There were four carded draws and they were signed in 
 
 ---
 
-There was a meeting at seven because Inez Sato had written a line on the pad, and the line said *the thing we found, what we are doing with it, and the record, seven o'clock*.
+There was a meeting at seven because Inez Sato had written a line on the pad, and the line said *the thing we found, what is written down and in whose hand, seven o'clock*, and under it in a different pen she had added *we decided on Friday where it goes. Tonight is what it says.*
 
 Nineteen people came. Elias Rook stood at the back with his back to the wall, and the tin was on the table with the band round it twice, and the wall behind him had the clerk's fourth column, and nineteen hands' worth of sheets underneath it, and Nadi Bell's sentence about two different kinds of safe, and three lines of things with no answers on them, and Petar's line about a book in another city.
 
@@ -26,7 +26,7 @@ Nineteen people came. Elias Rook stood at the back with his back to the wall, an
 
 Joon Park put his hand on the notebook and did not open it.
 
-"I want to say something and I want it said out loud and I want it to be cheap this time, and I am not going to know for about a week whether it is cheap. **I am not writing what anybody thinks it means.** That is the fifth time I have said that in nine weeks, and the second time it has cost me nothing, and the first time it cost me nothing I noticed it and I did not decide what to do about having noticed it, and I have now noticed twice and I am telling the room, because a refusal that has stopped costing anything is not a refusal any more, it is a habit, and a habit is the thing where a practice goes to die without anybody voting on it."
+"I want to say something and I want it said out loud and I want it to be cheap this time, and I am not going to know for about a week whether it is cheap. **I am not writing what anybody thinks it means.** That is the sixth time I have said that in nine weeks, and the second time it has cost me nothing, and the first time it cost me nothing I noticed it and I did not decide what to do about having noticed it, and I have now noticed twice and I am telling the room, because a refusal that has stopped costing anything is not a refusal any more, it is a habit, and a habit is the thing where a practice goes to die without anybody voting on it."
 
 Nobody said anything, and he said the other half of it.
 
@@ -44,7 +44,7 @@ Elias Rook said it and Joon Park wrote it, and nobody argued, and the reason nob
 
 "Read it out," Inez Sato said.
 
-Joon Park read it out. It is nineteen lines long and it is a description and not a conclusion, and the last line of it is *no name of any person appears on the page or in this account*, and when he had finished, Lena Mir said, "That is well done, Mr. Park," and he said thank you, and meant it, and she has never said that to anybody in that building before and she has not said it since.
+Joon Park read it out. It is two pages and nineteen lines long and it is a description and not a conclusion, and the last line of it is *no name of any person appears on the page or in this account*, and when he had finished, Lena Mir said, "That is well done, Mr. Park," and he said thank you, and meant it, and it was the second time she had said it to anybody in that building, and the first was to a functionary on Tuesday who went red to the ears, and she is not a woman who says a thing twice to the same man.
 
 ---
 
