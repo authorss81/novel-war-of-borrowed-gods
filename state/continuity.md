@@ -963,3 +963,111 @@ Every lock holds. **Zero interface notices spent** and the volume's two remain i
 - **Elias Rook ends Volume 02 at Stage 1: First Witness**, having been told by a Rescue Service form that he is not a field technician this month, having carried a shoebox up a ramp in one hand, having not asked anybody for a promise and not been asked for one, and having had a thing arrive that is not a loss and finding out that there is no procedure for that either. **The envelope to Nell is unsent. The road is sealed. He is not on the lip and never will be.**
 - **Named Thread begins in Volume 03.** The series table assigns it to Volumes 02 and 03; **Volume 02 deliberately did not take it and that decision is recorded in `outline/volume-02.md` and must not be retrofitted into a Volume 02 chapter.**
 - **Volume 03 is fixed by `outline/series.md` and `outline/ending.md` and is not the writer's to draft.** A city pilot uses a future engineer's load-reading gift to save a district from a planned demolition, the prediction is accurate, and the pilot chooses which residents stay on the official map. **A future Mara refuses to lend her hands and the refusal is consistent with her boundaries and is not a random outage.** The volume closes on Elias exposing the pilot through patient testimony, recovered logs and a failed evacuation the central plan had hidden, and on the Choir's first public leader arguing that a single chosen future is kinder than the uncertainty.
+
+---
+
+# Volume 03 continuity — PROPOSED CANON, recorded 2026-09-26 by the Volume 03 outline phase
+
+**Everything below is a proposal made by `outline/volume-03.md` and recorded here BEFORE any Volume 03 prose exists, as the assignment requires. A writer may use a fact from this section freely. A writer may not use a fact that is not here, and may not change one that is. Anything Volume 03 needs that is not in this section goes into this section first and then into the batch cards, in that order.**
+
+## The calendar, fixed and derived
+
+**Day zero — the collapse — is Saturday the sixth of September 2042. Chapter 100 is Friday, day eighty-three, the twenty-eighth of November 2042. Chapter 101 is Saturday, day eighty-four, the twenty-ninth of November 2042.** Volume 03 runs **day 84 to day 133, Saturday the twenty-ninth of November 2042 to Saturday the seventeenth of January 2043.** **The conversion is: a day number is a chapter number less seventeen. Chapter 101 is day 84; Chapter 125 is day 108; Chapter 150 is day 133.** Every weekday below was derived from the collapse Saturday and not chosen, and the table was machine-checked against a real 2042 calendar when it was written.
+
+| Chapters | Days | Weekdays |
+| --- | --- | --- |
+| 101–110 | 84–93 | Sat 29 Nov · Sun 30 Nov · Mon 1 Dec · Tue 2 Dec · Wed 3 Dec · Thu 4 Dec · Fri 5 Dec · Sat 6 Dec · Sun 7 Dec · Mon 8 Dec |
+| 111–120 | 94–103 | Tue 9 Dec · Wed 10 Dec · Thu 11 Dec · Fri 12 Dec · Sat 13 Dec · Sun 14 Dec · Mon 15 Dec · Tue 16 Dec · Wed 17 Dec · Thu 18 Dec |
+| 121–130 | 104–113 | Fri 19 Dec · Sat 20 Dec · Sun 21 Dec · Mon 22 Dec · **Tue 23 Dec (125, the volume midpoint)** · Wed 24 Dec · Thu 25 Dec · Fri 26 Dec · Sat 27 Dec · Sun 28 Dec |
+| 131–140 | 114–123 | Mon 29 Dec · Tue 30 Dec · Wed 31 Dec · Thu 1 Jan · Fri 2 Jan · Sat 3 Jan · Sun 4 Jan · Mon 5 Jan · Tue 6 Jan · Wed 7 Jan |
+| 141–150 | 124–133 | Thu 8 Jan · Fri 9 Jan · Sat 10 Jan · Sun 11 Jan · Mon 12 Jan · Tue 13 Jan · Wed 14 Jan · Thu 15 Jan · **Fri 16 Jan (149)** · Sat 17 Jan |
+
+**The volume's midpoint is CHAPTER 125, which is day 108, Tuesday the twenty-third of December.** Volume 02's midpoint was Chapter 75 at day 58; the two must never be confused.
+
+**The working week is load-bearing.** The Havenport Tidal Board and the Bellwether cell's public counter are **closed on Saturdays and Sundays.** The works yard runs six days and the Saturday shift is when the program's own people are most visible. The depot on the far bank runs **Tuesdays and Fridays at 06:30** and the next Tuesday slot after day 84 is **day 87**, and the Friday slot has been gone since October. **No chapter may put a hearing, a counter, a determination or an office on a day it does not open.**
+
+## The counters, and the rule that is standing whether anybody likes it or not
+
+**A counter is always the chapter's own day number minus its own start day, and no figure may be copied forward from a state file. This volume caught five copied-forward counters in one pass in Chapters 93 to 97 and that is the standing argument for the rule.**
+
+- **Cliff Marner came up a corridor on a board at 20:20 on day 30**, Monday the sixth of October 2042. **His counter is the chapter's day number less thirty.** 54 in Chapter 101 · 63 in Chapter 110 · 73 in Chapter 120 · 78 in Chapter 125 · 83 in Chapter 130 · 93 in Chapter 140 · 103 in Chapter 150.
+- **Della Marner filed on day 0** and has been at a regional family-reception desk in Cordell ever since. **Her counter is the chapter's own day number.** 84 in Chapter 101 · 108 in Chapter 125 · 133 in Chapter 150.
+- **The man behind the wall came this way on day 0. His counter is the chapter's own day number.** 84 in Chapter 101 · 108 in Chapter 125 · 133 in Chapter 150.
+- **Prefer naming the day over printing a numeral:** *since he came up on the thirtieth*, *since the sixth of September*. A drift-prone figure is worse than a sentence.
+- **Four figures that are not counters and may not drift:** the hall's headcount does not move — **twenty-two resident cards and twenty-eight people, four dark hours a night** — and nothing in Volume 03 adds a household to Ash Street; **Joon Park's custody schedule has twenty-two items and nothing may be renumbered**; the works board's model says **1,140 addresses and 2,900 residents**; the Retention Schedule has **697 rows, 412 retained and 285 transitional, and forty-four addresses inside the September band and outside the December one.**
+
+## Tidegate, the works, and the program
+
+- **The district: Tidegate**, on the west bank of the Tannery Cut, about two miles from the Cinder Quarter and **eleven minutes on a bus.** Four walk-up blocks, a strip of low workshops along the cut, a boatyard, a community health center, a school on Marden Row, Cutbank Row, Sallow Court, a works yard on the north side with a canteen and a survey office, and **Postridge and Co., newsagents and post office, 2 Cutbank Row**, which has a counter, a queue and a nail. **1,140 addresses inside the alignment area and 2,900 residents on the works board's own 2039 model.** The model has been adjusted twice and is a model and the board knows it.
+- **The demolition: the Fourth Stage Tidal Defense**, a sea-wall alignment. The board's flood model puts 1.4 m of water in Tidegate on a once-in-sixty-year surge and the ground along the chosen line is soft and cheap to build on. **The Havenport Tidal Board, three commissioners, statutory, frightened and competent, did not choose Tidegate out of cruelty. It chose Tidegate because the ground is soft there and a flood model is a flood model.**
+- **The program: the Bellwether Pilot Program**, regional, running **a Bellwether pilot cell in Tidegate** in two rooms above a shop, under a **pilot authorization signed by Director Sable Arden.** `Bellwether` is canon from `bible/terminology.md`: the early name for the One-Future Choir's public pilot cells, each of which selected one safer district outcome. **It is a political and bureaucratic label and not a faction, and Volume 03 does not explain the Choir.**
+- **Tidegate is designated on day 87, Tuesday the second of December 2042.** The designation is signed by the Director, it is correct, it is what makes the pilot lawful, **and it activates a line in a form that says Tomas Vale is not available as a structural authority on a designated site.** Nobody barred him. He barred himself in November, in a room, in his own words, and asked for it to go in a box with a form in it. **He is not consulted about Tidegate by anybody, in writing or out of it, and does not ask to be.**
+- **The securing band** is a measurement: the margin inside which the ground carries, given by a load reading. **The September reading is dated the eleventh of September 2042. The December reading is later. The band has moved. Forty-four addresses were inside the September band and outside the December one, and every one of the forty-four is classified `TRANSITIONAL` on a schedule dated the second of December 2042.**
+- **The Retention Schedule.** A program reference, a date, **697 rows.** Columns: **address, structure, occupancy class, status.** `OCCUPANCY CLASS` is a **building attribute.** A two-room flat is `PARTIAL` whether one person or five live in it. **There is no column a person goes in, there never has been one, and nobody had to decide anything for a person to be absent from it.** **412 `RETAINED`, 285 `TRANSITIONAL`.** A `TRANSITIONAL` address is not counted in the retained district, and a district that is not counted carries no obligation to rehouse anybody. **The schedule's own footnote, in italics, four lines long, says the band is indicative and the schedule is the operative document.**
+- **The clearance of the ninth of November 2042, at 3–27 Sallow Court.** The clearance record is **one line and reads `clearance complete, no outstanding`.** **Four people died.** The block was inside the September band and the December band says it is outside it, and the clearance was run correctly on the reading available at the time. **The four are recoverable only from a margin in a pencil in a kitchen, and there is no second copy.**
+- **The cell's verification log** is held regionally, not by the district. **Requested by Joon Park on day 90, Friday the fifth of December 2042. Near end day 118, Friday the second of January 2043. Far end day 132, Friday the sixteenth of January 2043, which is Chapter 149.** The request is a public records request: **four to six weeks, anonymous by design, and it is for the verification log and not for the clearance record and not for the works' shift book, and the team does not yet know there are three different books.** The far end is the last business day of the volume and the log that arrives is the document the Tidal Board's determination rests on.
+- **The fifth institutional pattern of this volume is a field that is not for *when*.** A schedule that records a state has no version history, because no field on it is for when it changed, and a form with no field for when it changed cannot be asked whether it was right on the day it was written. **This is Hollis Vane's observation, in his own words, in Chapter 134, and it is the volume's technical hinge. It may not be stated by a narrator, by Elias, or by anybody else.**
+- **The program's headings for a gift the panel still names `Still Hand` are `SECURED SUBJECT` and `SUBJECT HELD`.** A printer's face is what an institution wrote about one: Chapter 100's sentence, arriving in a form.
+
+## The three interface notices in Volume 03, and no others
+
+**None of Volume 02's three notices carries over. At most one notice in any chapter. The volume carries exactly three.**
+
+| Chapter | Day and date | Notice |
+| --- | --- | --- |
+| 113 | day 96, Thursday 11 December | `Loan offered: Tomas Vale, nineteen years ahead`. `Gift name: Load Reader`. Accepted in the same chapter. |
+| 125 | day 108, Tuesday 23 December | `Loan offered: Mara Okafor, twenty-one years ahead`. `Gift name: Still Hand`. **Refused**, with a reason, in a room, before it was acted on. The volume midpoint. |
+| 134 | day 117, Thursday 1 January | **A boundary only.** Elias asks the thread to repeat it and the panel returns the boundary and nothing else. |
+
+**The first is not in the first chapter and not in Batch 0001. Batch 0001 carries zero notices of any kind.**
+
+## The gifts, the panels, and the boundaries
+
+- **Load Reader — a future Tomas Vale.** *Reads the path force will take through a damaged structure. It reveals direction and stress, not a magical repair.* Already on the record in `bible/power-system.md` and `bible/terminology.md`. **It cannot repair, cannot predict a collapse, cannot be carried out of a room, and cannot tell you how many people are on a street.** The panel's own fields, fixed:
+  - **Want, in his words:** the works are moving and the reading is the only thing standing between a district and a hole in the ground, and he will not have it be said that the method failed because it did not fail. *Give it the season. I am not asking for the district.*
+  - **Boundary, stated once:** **the reading is mine to give; the list of who is on it is not.** He will say where force goes. He will not draw a line with people behind it, and he will not know that he has, and the program asks its questions carefully enough that the answer never shows him what he is drawing.
+  - **Return, which is a request for a fact and not a favor:** *tell me, out loud, in a room, whether the line moved after I gave it to you.*
+  - **His cost to him:** in his branch the reading arrives eleven days later than it does here and four people are in the November clearance who are not in it here, and he has been carrying that for twenty years and does not say so. **The volume finds it out from a schedule and not from him.**
+- **Still Hand — a future Mara Okafor, twenty-one years ahead.** Already on the record from Volume 01's first loan. The Chapter 125 panel, in the approved shape:
+```text
+Loan offered: Mara Okafor, twenty-one years ahead
+Gift name: Still Hand
+Gift: Keep one living body from failing while another person carries or repairs it.
+Boundary: Do not use my hand on anybody who is on a list. Do not use my hand to make a schedule come out right.
+Return: When the last one is out of the building, and you say out loud that it is the last one.
+```
+  - **The refusal is a refusal.** It is consistent with three of her four standing refusals already on the page: *no predicted outcome, no number and no category, anywhere in any document*; *she will not write a rule, only a decision*; and the *estimated survival window* box she filled with a sentence because a technical term in a box reads as a finding. **The Retention Schedule is a document with a category in it, about people, prepared before anybody was asked.**
+  - **Her answer to the one question Elias is entitled to ask, in her own words, before the answer:** *You have written down what happens to them before you have asked me, and I am not going to put my hands into a plan that already knows. I have spent twenty-one years refusing to write a rule and only ever writing a decision, and a decision is about one person at a time, and there are two hundred and eighty-five addresses on that page and I have not met one of them.*
+  - **It costs eleven people in the January clearance, and the refusal is not the villain of that, and Elias is.** The present Mara does not consent for her and does not defend her, and says out loud that she is not entitled to be angry at a future version of herself and is not going to be grateful to her either. *Nobody inherits me.*
+- **No third lender. No second thread. No new mechanic and no new species. Stage 2, Named Thread, is the only stage change in the volume and it is earned across Chapters 113–134.** Its cost is paid in full: the thread is a **proximity**, so Elias knows where a future man is offering; and in **Chapter 134 the most innocent possible use of the new ability — asking a lender to repeat a boundary — moves the band two streets, and forty-four addresses change class, and the schedule does not, because a schedule records a state.** Nobody caused it and the damage is recorded by a form that is right about itself.
+
+## New people
+
+**None is a faction, a lender, or a future self except where stated.**
+
+- **Tobias Ferrand, 52**, Regional Director of the Bellwether Pilot Program. A duty flood officer in 2027, 2031 and 2036. **The volume's antagonist. Competent, warm in a room, not a villain, and he says the number out loud: two hundred and eighty-five addresses, twice, and that he signed the schedule and will sign it again.** **He has never read Tomas Vale's eight pages and nobody connects the two by anything but resemblance.**
+- **Selwyn Anum, 41**, the cell's method officer. **He drafted the footnote.** He believes a measurement should be reduced to an operational document, he did it correctly, and he cannot sleep.
+- **Ezinne Abioye, 71**, of 19 Cutbank Row, Tidegate, forty-four years. Classified `PARTIAL` in a two-room flat. **Not a household, not angry, and not wanting anything.** Her sentence: *they are not putting me anywhere. They are putting my address somewhere, and I am at the address.*
+- **Winifred Alagoa, 63**, Tidegate, the address keeper. **Has kept a sheet of addresses in her own hand since 2031 because the works board's list has been wrong twice. 1,163 addresses against the board's 1,140. Four dead people are written in the margin in a different pencil.** She does not know that what she has is a movement record and says so when she is told, and she does not use the word.
+- **Nerys Hobbs, 47**, resident engineer for the works. **Will not say a thing in a corridor that she would say in a room, and will not sign a structure she cannot account for.**
+- **Nev Peart, 51**, works foreman. Nineteen years of a shift book in his own hand. **The reason he keeps it is not that the terminal refuses corrections — the terminal takes corrections — it is that the terminal cannot show what it said before.**
+- **Ivor Harkness, 68**, Harkness Yard, boat repair on the Tannery Cut.
+- **Rhoda Mistry, 47**, clinic manager, Tidegate Community Health.
+- **Marged Prosser, 55**, Tidegate. Lost her son in the 2039 outfall. Chairs a parents' group. **The constituency, and she is right about most of it.**
+- **The Havenport Tidal Board**, three commissioners, **unnamed in Batch 0001 and not to be named in any batch without a scene that earns it.**
+- **The three branch survivors**, who arrive on **Sunday the eleventh of January 2043, day 127, with no interface notice of any kind:** **Emrys Vaughan, 41**, who is legally married in this branch to **Ceri Vaughan** and who uses the name **Bronwen** for a woman in a register who exists and whom he has never met; **Marek Drzewicki, 19**, whose father **Piotr Drzewicki, 54** is alive in this branch, lives eleven minutes away, and cannot be made; and **Sabina Hough, 63**, whose other-branch son is, in this branch, her brother's son, **Declan Hough, 31**, who is in the room. **Volume 03 does not ask any of the three what they want. That is Volume 06's question and may not be taken here.** Volume 03's only question to them is *what is your name and what is your address*, and it is refused to be anything more.
+
+## New facts about Elias's standing position
+
+- **The Rescue Service notice of the twenty-seventh of November said *this month*. The month was November.** A Rescue Service letter dated the twenty-eighth of November 2042 states that the suspension of the forty-first day **has run its stated term** and restores him to ordinary field duty **from Monday the first of December 2042**, with **the three endorsement revocations unchanged and irreversible.** **No Volume 03 chapter may treat the restoration as a gift, may apologize for it, may restore an endorsement, and may not turn the sentence into a demotion he is fighting.**
+- **The depot's Friday certification moves to Thursdays from the ninth of January 2043 and the letter says the slots will not be held twice.** The Friday slot has been gone since October. **The Tuesday 06:30 slot costs him an hour of sleep a week for the rest of his life and the volume does not fix it.**
+- **The volume's relationship milestone is a practice and not a feeling, and it is Chapter 122:** before a gift, tell the other one — not the gift, *that you are going to ask* — with a four-minute rule that makes silence mean no. **Nothing romantic happens. No future version of either of them promises them anything. The word *faster* is not used anywhere in Volume 03.**
+- **The volume's one permitted beat carrying the paid answer is conduct and not speech:** in **Chapter 142**, Winifred Alagoa refuses to hand her 2031 sheet to a program officer for "verification," in a doorway, to two people, and gives a reason that is about her street. **Joon Park is not present and does not record it, and nobody in the chapter says the word, and no chapter restates the Chapter 86 answer.**
+
+## The volume's closing question
+
+**WHO IS INSIDE A LINE THAT WAS DRAWN ON A DIFFERENT DAY? — AND WHO SIGNS THE SCHEDULE?**
+
+**It is not on a wall.** It is written in the back of a school exercise book, bought for two dollars, on a page with a sum on the other side, in the hand of a woman of sixty-three who says she is not writing it for a record and is writing it because she cannot sleep and there is nowhere else to put it. **Nobody takes anything off a wall, and the three questions on Ash Street stay exactly where they are.**
+
+**The Volume 04 question, and the series' first named political opponent:** the Choir's first public leader argues that a single chosen future is kinder than this uncertainty, and his argument attracts people who have already lost too much to wait. **The word `Choir` is spoken for the first time in this manuscript in Chapter 148, once, by Ferrand, and the movement's structure, membership, origin and history are not explained in this volume.**
