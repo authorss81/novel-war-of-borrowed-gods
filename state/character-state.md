@@ -896,3 +896,82 @@
 - **The 1998 working log stayed shut.** It came off the top shelf on Boxing Day and went back on Sunday 28 December and did not come down in this batch. A name went on Petar's second list and no box was opened.
 - **The three questions on the wall are not taken down, added to or answered; the second half of the oldest is still a bracket with nothing under it; the nineteenth of November is still the only date; nobody builds another wall.**
 - **No Tidegate address was read out in the front room in this batch, nothing from the district left the building, and the works' notice was read out on Sunday 28 December and the notice of 31 December has not been read out in the room and does not need to be, because it is on a nail and a woman is reading it on a Saturday.**
+
+# Character State After Chapter 150
+
+**Volume 03 is complete at 150 chapters. This is the state the volume hands to the volume-close phase and to Volume 04. It is a summary of Chapters 141–150 only; the earlier sections of this file are untouched and still govern everything before them.**
+
+## Elias Rook
+
+- **Thirty-five. Named Thread, unchanged, and the volume's three interface notices are all spent — 113 accepted, 125 refused, 134 a boundary and nothing else. There was no fourth and none was invented. `Stage 2` appears nowhere in the narration.**
+- **No gift is used in Chapters 141–150, and the thread is felt three times — once on Rennard Street on 8 January, once under Rennard on 13 January, once in a room in which it is off — and all three times it comes back with nothing in it to carry.** That is the whole of the permitted use of a limit in this batch and it is the same limit three times.
+- **The two times on the inside back cover of the notebook are never mentioned in any of the ten chapters, and nobody in any room asks him about the morning of 1 January.** The question he asked the boundary to be repeated is still a thing only he knows the shape of, and the volume does not resolve it, rescale it, explain it or forecast it, and nobody in this volume calls anything a cause.
+- **He asked a woman in a room on 23 December to put her hands on eleven people, and eleven people were hurt on 8 January. He says in a room on Ash Street that he is the only person who has done anything wrong in this, and Mara Okafor tells him the sentence is correct and does not add to it, and nobody takes it off him and nobody absolves him.**
+- **On 8 January he is nine feet from a scaffold and catches a child. On 10 January he goes down seven treads backwards in front of an eighty-two-year-old woman with a lamp in his right hand. On 13 January he is a pair of hands for nine hours, learns no names, reads nothing, and his right shoulder goes.** His left hand is gone in every scene and it is a working limitation and not a symbol: it is in his coat, it is on the back of it, it holds nothing, and he pins every sheet with his right forearm.
+- **He lost the argument in a hall on the fifteenth with about two hundred people in it, and the document on the sixteenth, and he is the man who put the microphone down on a chair because holding a folder in front of his chest would have been a sentence.** His answer to Ferrand is true and is not enough and the volume says so.
+- **Conduct carries it, again, and each costs him:** he does not ask a third question of a branch survivor; he stops himself in a room in front of three people and says so; he does not write down what happened in a doorway on a Saturday morning; he does not ask Winifred Alagoa for the exercise book; he asks for two names and is given two and does not ask for the other two; he does not put a page of forty-four addresses next to anything in this batch; and he leaves a length of four-foot paper on a nail alone.
+- **The depot**: the Tuesday 06:30 slot is unchanged and the Friday hose certification has moved to Thursdays by a letter of 9 January that gives nothing else and takes nothing away. **The arithmetic is done out loud and gets the right answer: an hour and ten minutes a Tuesday, sixty hours and forty minutes a year, two days and thirteen hours, one day for every calendar year and a half.** The run is over at twenty-four riding days and £132 and is not restarted.
+
+## Mara Okafor
+
+- **Thirty-three. Advisership revoked 27 November stays revoked. Four standing refusals intact. She is the moral point of nothing in this batch.**
+- **On 8 January she is out on Rennard Street at five past twelve and does the thing she is for for about two hours, and is the most competent person on that street the whole of the time.** On 6 January evening she tells nineteen people in a room that his sentence about the eleven is correct and that she is not going to add to it. **She is in the hall on the fifteenth and says nothing at all.** Her Marden Row round is not mentioned in this batch and is not the moral point of anything in it.
+
+## Joon Park
+
+- **Twenty-four. Custody schedule twenty-two items, unchanged, and he takes it out of his coat in no chapter of this batch.** He says on a bus that he does not think she will say yes. **He is in the shop at number six during the doorway beat, does not come out of it, does not ask a follow-up question and does not write it down, and neither does Elias.** He sits on a chair outside number six for three hours on the twelfth with a pen cap on and says the difference between a question about a page and a question about a want, and refuses to be the one who writes the second kind down. **He does not say the far end of the records request in any of the ten chapters, and nobody in any room asks him about either date, including Elias.**
+- **He says the only we-do-not-know-that in the volume's last batch and he says it about a finding in four years that nobody knows, and he names his own sheet of twenty-two lines as the reason he can say it.**
+
+## Nerys Hobbs
+
+- **Forty-seven. She shuts a daylight operation at twenty-six minutes past eleven on 8 January and writes the reason on the works' stop sheet in her own hand, which she has not done since 2036.**
+- **On 13 January she reads the band herself, with the works' own level, tape and steel pin, over three days, every figure in her own hand, and she will not touch the reader and will not be in a room with the output.** What she asks the cell for is a flatbed, a driver and the fuel, in writing, as a vehicle and nothing else. **The reading is used for what it is, by somebody else, and the gift is not used at all.** She stands under a half-out stair by lamplight, stops the works for eleven minutes at five o'clock when a wheel goes on the verge, and says she has said the word NIGHT out loud twice in six days and has not once said the other one. **Three of four lines signed as of Chapter 150 and one is blank.** The booking runs to Thursday 5 February and after that the board has to come back for money.
+- **She has not said the volume's central distinction and may not, and does not.**
+
+## Nev Peart
+
+- **Fifty-one, nineteen years, and the hinge is spent, once, in his own mouth, at Chapter 141: the terminal takes a correction, it holds the old figure and the new one and the man and the hour, and it cannot show what it said at ten past six this morning, because nobody built it to be asked what it said yesterday.**
+- **The reason nine of the eleven were on Rennard Street is his, and it is not a defense: a works card carries a name, a night, a floor and a stair and has no field for a street, so the eleven could not be located from the works' own record at all.** He knew two of them were on Marlow Street and told nobody.
+- He prints five conditions on his own board, two of which are other men's, and gives up the low-loader because the driver will not take the soft road. He asks his crew what they would rather do instead of what they can do. He writes *carried throughout* into the shift book against his own name and not Elias's — once in nineteen years — and says Hobbs stopped the works on a Tuesday and he stopped it on a Wednesday morning with a lorry on a soft road, and that neither happened in a corridor and both are in writing. He says he is going to hand the shift book in in February. **By 17 January a street is written on the back of each of the eleven cards in his own hand, which is the first time in nineteen years a works card has carried one, and no form asked for it.**
+
+## Selwyn Anum, forty-one
+
+- **Produces the cell's day book at Chapter 141 — a hardback with one ruled line a day on a shelf behind the counter, not indexed, not sent to the region, no form, nobody signs it — and says he is the method officer and has never been asked to write in it.**
+- **At Chapter 149 he reads four words in a margin of the verification log and refuses to put them in front of a board, because he wants a second occasion in writing that somebody signed and does not have one, and he says so in a room while he is in it.** He lets the page-two footnote be withdrawn without scratching anything out and lets the minute go by. **He still has not slept properly since 29 November and has still not said the volume's central distinction.**
+
+## Sable Arden, fifty-eight, and Nathan Rusk, fifty-nine
+
+- **Sable Arden appears once in Volume 03, at Chapter 147, and says her sentence once: I authorized a method. I have been reading a list as if it were the method for four months because the list was working.** She says she chose the district because the ground was soft. **She is stopped, not forgiven: the conversion is hers, it is stopped by a one-line letter dated 14 January, and the method and the authorization are not withdrawn.** She does not ask to be a hero about the determination.
+- **Nathan Rusk appears once, at Chapter 147, and says two things and no others: a pilot is by definition a thing that can be stopped; stopping it is not a finding against anybody and the finding against anybody is in four years' time.**
+- **Nobody else in Volume 03 is named as a political opponent, and `Choir` is spoken once in the whole manuscript, by Ferrand, in a hall, at Chapter 148.**
+
+## Tobias Ferrand, fifty-two
+
+- **Appears once in this batch, in person, in a hall of about two hundred people, and says the word `Choir` once and is not corrected by his own program.** He says two hundred and eighty-five twice and does not apologize for it, gives the 2031 school gym, says that a single chosen future is kinder and that this is not a trick, asks Elias the question Elias cannot answer, refuses to guess at a determination that is not his instrument, and closes by saying the two things he is worried about are that he might be wrong and that they might be right. **Every figure in his mouth is a recorded one. About two hundred people believe him and the volume does not unmake that.**
+
+## Winifred Alagoa, sixty-three, of 22 Cutbank Row
+
+- **Is asked first at Chapter 142 and says yes in a small way: two of the four names, the two a person on that row can still say out loud. The other two stay in the margin.** She reads all four out loud once in her own kitchen and neither man writes anything down.
+- **The volume's one permitted carrying-beat is hers and it is spent: she refuses a verification card in her own doorway, to two people, on a reason about her street, with Joon Park in the shop opposite and not coming out, and nobody says the word and nobody writes it down.** She says the sheet is on her table and is going to stay on her table.
+- **She puts two of the four of the ninth of November onto four feet of paper in a different pencil from the other hundred and eighty-nine, counts a hundred and ninety-one names on a Thursday night with a shopkeeper's pencil, and says it will be wrong by nine by Tuesday.** She writes the volume's question in the back of a school exercise book she bought for two dollars with her own money, and says she cannot sleep and there is nowhere else to put it, and that it is not going on the wall at Ash Street and it is not going on the nail at the newsagent. **She is not thanked and does not want to be.**
+
+## New people in this batch
+
+- **Garnet Okpara, about fifty**, nineteen years at the district counter, correct all the way through because every document in front of him is valid. He puts a receipt in a folder of his own with the date on it, and uses a column blank since 1939 eleven times in nineteen years, and says he has been sorry about what a book will hold since 2004.
+- **Piotr Drzewicki, 54**, whose son cannot be made into him. **Declan Hough, 31**, whose mother is his aunt. **Emrys Vaughan, 41 · Marek Drzewicki, 19 · Sabina Hough, 63 · Ceri Vaughan**, named in a register and never met, and **Bronwen**, named in Emrys's mouth twice on a pavement and once again in Chapter 147. **None of the three was asked what they want and the volume refuses to be anything more than a name and an address.**
+- **T. Ayodele**, a program officer in the cell, named once in the day book's line for 8 January and nowhere else, and no later chapter may supply anything about her.
+- **Rosalind Treloar, 61, chair · Aurelio Bexley, 54 · Nadia Kerr, 45**, the three Havenport Tidal Board commissioners, named for the first and only time at Chapter 149 because a determination earns it.
+- **Doy**, a member of Peart's crew, about thirty, who says no to a lamp. **The board's surveyor remains unnamed**, as he has been since Chapter 116.
+- **Emrys Vaughan, 41 · Marek Drzewicki, 19 · Sabina Hough, 63 · Ceri Vaughan · Bronwen** are canon from `outline/volume-03.md` and are now on the page. **The three branch survivors are not asked what they want anywhere in Volume 03 and Volume 06's question is not taken.**
+
+## Those not in this batch
+
+- **Tomas Vale** is not asked, not consulted, does not appear, and is not named in any of the ten chapters. **The eight pages are a method and not evidence and are not in any proceeding.**
+- **Tarin Voss** is not found. **Perpetua Oyelaran** is not named. **Halla Dren** is not asked again. **Sector 4C, nine, 2011, `K-7Q` and the 1998 page** are untouched. **The 1998 working log stayed shut.** **The three questions on the Ash Street wall are not taken down, added to or answered, the bracket is empty, the nineteenth of November is still the only date, the wall is full, and nobody has taken anything off a wall and nobody is going to.**
+- **No romance happens, no future version of either of them promises anything, and nobody inherits anybody.**
+
+## The hall, and the people in it
+
+- **Twenty-two resident cards and twenty-eight people, four dark hours from midnight, and the headcount does not move in this batch.** Nineteen people are in the front room at half past six on 8 January, which is a room and not a count.
+- **The three questions on the wall are not taken down, added to or answered. The second half of the oldest is still a bracket with nothing under it. The nineteenth of November is still the only date. There is no room on the wall and there is not going to be a second wall.** The four minutes and the lamp vote are in Petar Lisk's book on the page after 22 November and not on the board, and they are not in this batch.
+- **No Tidegate address is read out in the front room, nothing from the district leaves the building, and the four-inch length of paper at 2 Cutbank Row is not the hall's and does not come to it.**
