@@ -58,7 +58,7 @@ At about half past five the crew walked Rennard and Murrow together, two men sid
 
 Nerys Hobbs signed it at about ten past seven on the morning of Sunday the eleventh of January, on the second of the four lines, with the date and the hour, and the barriers had been down for half an hour.
 
-"Two of four," she said, when he looked at it. "The seventeenth is a Tuesday in seven days and I will sign that one at about half past six on the Wednesday morning because I have not walked a street in advance in my life and I am not starting in January."
+"Two of four," she said, when he looked at it. "The seventeenth is a Saturday and I will sign that one at about half past six on the Sunday morning because I have not walked a street in advance in my life and I am not starting in January."
 
 "Is the stair the reason you are here tonight."
 

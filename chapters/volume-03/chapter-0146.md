@@ -8,7 +8,7 @@ She had the terminal off in the survey office and had turned it off herself on F
 
 ---
 
-The band has been off Rennard and off Cutbank Row since the first of January and it went back the way it came in September, and the program has said in writing that it is not issuing another schedule against that reference, and the Retention Schedule of the second of December is still the operative document and is now eleven days past the point where anybody in this district could honestly work from it, and there are two streets in this district that it describes as retained and that the works is going to empty this week.
+The band has been off Rennard and off Cutbank Row since the first of January and it went back the way it came in September, and the program has said in writing that it is not issuing another schedule against that reference, and the Retention Schedule of the second of December is still the operative document and is forty-two days old, and it describes two streets in this district as retained, and the works emptied the first of them last Saturday night and is going to empty the other one on Saturday night.
 
 She did it in three days with a level and a tape and a steel pin driven into the verge at the low end of Rennard, and she did it in public, and she wrote every figure in her own hand on a works sheet with her own name against it, and she would not let a clerk type it, and she would not let the program do any of it.
 
@@ -22,7 +22,7 @@ The soft road was the reason the works had stopped on the eighth, and the soft r
 
 At about eleven o'clock she drove the pin into the verge at the low end of Rennard, put the level on it, took a staff reading at four points along the line, and wrote four numbers on the sheet. Then she did the same on Cutbank Row, and then she walked the whole alignment end to end, which took her an hour and twenty minutes, and came back and put the level away and did not say a word to anybody for about ten minutes.
 
-"It agrees," she said. "That is all I am going to say today and I am going to say it exactly once and then I am going to do the job. The edge on both of those streets is where their ground is and it has not moved since Friday the first of January, and the ground on the verge where that tower went over on Thursday is two foot lower than it was in September, and the two foot is not the band and it is not the program and it is a drainage cut that somebody made in 2039 for a fence post and filled in badly, and I have a photograph of it in a drawer and I have not shown it to anybody because nobody has asked me for a photograph."
+"It agrees," she said. "That is all I am going to say today and I am going to say it exactly once and then I am going to do the job. The edge on both of those streets is where their ground is and it has not moved since Thursday the first of January, and the ground on the verge where that tower went over on Thursday is two foot lower than it was in September, and the two foot is not the band and it is not the program and it is a drainage cut that somebody made in 2039 for a fence post and filled in badly, and I have a photograph of it in a drawer and I have not shown it to anybody because nobody has asked me for a photograph."
 
 "Then the works can go ahead," Peart said.
 
@@ -30,9 +30,9 @@ At about eleven o'clock she drove the pin into the verge at the low end of Renna
 
 ---
 
-At about one o'clock the crew of five started on twenty-two to thirty-two Rennard with a ladder and no vehicle, and Elias Rook carried things from the bottom of that ladder for nine hours in a row, and that was the whole of what he did, and nobody asked him to do anything else and nobody told him he was doing it well.
+At about one o'clock the crew of five started on twenty-two to thirty-two Rennard with a ladder and no vehicle. It was not a night and it was not a clearance and it was not on any sheet with a date on it. It was the day block, the make safe, internal stair, first-floor access, the second row of a list that came out of a car on Thursday morning, and she had stopped it at twenty-six minutes past eleven, and it was five days late, and what came off that street in daylight was what a crew of five could not get down it in the dark. And Elias Rook carried things from the bottom of that ladder for nine hours in a row, and that was the whole of what he did, and nobody asked him to do anything else and nobody told him he was doing it well.
 
-He carried a mattress, a chest of drawers, a television set that had belonged to somebody, a board, a lamp, a bag of clothes, a folded pram, and a jar of tools, and he carried them with his right hand and his right shoulder and the flat of his right forearm underneath, from a first-floor door at twenty-six along a landing that a crew had cleared of doors and down to a flatbed at the bottom of the road, and he went up and down and up and down until his right shoulder had stopped taking instructions, and he did not go up any stair that anybody was on and he did not go into any room and he did not learn a single name, and the thread was on under that street for the whole of the ninth hour and gave him nothing at all, which was what it did, and which was by then the only fact about it he was entitled to.
+He carried a mattress, a tea chest, a television set that had belonged to somebody, a board, a lamp, a bag of clothes, a folded pram, and a jar of tools, and he carried them with his right hand and his right shoulder and the flat of his right forearm underneath, from a first-floor door at twenty-six along a landing that a crew had cleared of doors and down to a flatbed at the bottom of the road, and he went up and down and up and down until his right shoulder had stopped taking instructions, and he did not go up any stair that anybody was on and he did not go into any room and he did not learn a single name, and the thread was on under that street for the whole of the ninth hour and gave him nothing at all, which was what it did, and which was by then the only fact about it he was entitled to.
 
 At about four o'clock a man of about sixty-three at the top of the ladder said, "You are the one with the lamp," and Elias Rook said yes, and the man said, "You carried a door frame for two hours on the sixth," and Elias Rook said yes, and the man said, "That was Marlow," and then went back down the ladder and did not say anything else, and that was the whole of the acknowledgment and it was correct and it was not a document and it would not be in any file in any building in this city.
 
@@ -40,15 +40,15 @@ At about five o'clock Nerys Hobbs stopped the works for eleven minutes because t
 
 ---
 
-At half past six she signed the third of the four lines at about half past six in the morning on the Wednesday, with the hour on it, and put the sheet in the tray and did not say anything about it.
+At about half past six in the morning on the Wednesday she signed the works' own day sheet for Tuesday — her own hand, the date, the hour, the eleven minutes, and the word *stopped* against it — and put it in the tray and did not say anything about it. The third of the four ruled lines on her own sheet was blank and it stayed blank, because it is not a line about a night that has not been walked.
 
 Peart had the kettle on the bench in the survey office and the shift book under the rubber band where it had been for nineteen years, and it was open, and he was writing in it, and he did not shut it when Elias Rook came in, which was the first time.
 
-"Thursday," Peart said. "You are not on it and neither is Mrs Okafor and neither is a woman from a regional office who has not been to this district since 2039. I have got four names on this page and one of them is sixty-three years old and one of them has a bad shoulder and I have written *carried throughout* against my own name and not yours, because that is what I can attest to and not the other thing."
+"Tuesday," Peart said. "You are not on it and neither is Mrs Okafor and neither is a woman from a regional office who has not been to this district since 2039. I have got four names on this page and one of them is sixty-three years old and one of them has a bad shoulder and I have written *carried throughout* against my own name and not yours, because that is what I can attest to and not the other thing."
 
 "Carried throughout," Elias Rook said.
 
-"It is the only phrase in that book that has ever been about a person who is not one of my five," Peart said, "and I have used it once in nineteen years, and I would like it noticed, and I would also like everybody in this building to understand that the woman of forty-seven stopped the works on a Tuesday and signed three lines and I stopped it on a Wednesday in the morning with a lorry on a soft road, and neither of those two things happened in a corridor and both of them are in writing."
+"It is the only phrase in that book that has ever been about a person who is not one of my five," Peart said, "and I have used it once in nineteen years, and I would like it noticed, and I would also like everybody in this building to understand that the woman of forty-seven stopped the works on a Tuesday and signed two lines and I wrote down this morning on this page that I could not put a man in a coat on a sheet, and neither of those two things happened in a corridor and both of them are in writing."
 
 He shut the book and put the band back over the corner of it.
 

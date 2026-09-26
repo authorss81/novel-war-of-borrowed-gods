@@ -92,7 +92,7 @@ The woman went down the stairs and across the road and into the shop at number s
 
 There is one more thing about the ninth of January and it is in an envelope and it cost nothing.
 
-The depot runs Tuesdays and Fridays at six thirty in the morning. That is on the notice and it was on the notice on the twenty-seventh of November and it is the notice as it stands now, and the Friday half is an inventory half, and it has been empty in his week since the seventh of November when he was late for it once and could not get it back, and nobody has taken it off the notice and nobody has ever said so to him out loud.
+The depot runs Tuesdays and Fridays at six thirty in the morning. That is on the notice and it was on the notice on the twenty-seventh of November and it is the notice as it stands now, and the Friday half is an inventory half, and it has been empty in his week since the twenty-first of November, which is the last Friday it ran, and the one before that he was late for and could not get back, and nobody has taken it off the notice and nobody has ever said so to him out loud.
 
 The letter came on the Friday, in the same hand as every other letter the depot has ever sent him, and it is one paragraph.
 
@@ -106,7 +106,7 @@ any other entitlement of the holder.
 R. Dunleavy, supervisor
 ```
 
-"Fourteen January is a Thursday," Elias Rook said, to the yard at about four o'clock in the afternoon, in a voice that got carried. "So from next week the hose is on the Thursday and I have the Tuesday, and the Friday that is left is the inventory and I have not had the inventory since October, and nothing in that says my name."
+"Fourteen January is a Wednesday," Elias Rook said, to the yard at about four o'clock in the afternoon, in a voice that got carried. "So it is from the fifteenth that the hose is on the Thursday and I have the Tuesday, and the Friday that is left is the inventory and I have not had the inventory since the twenty-first of November, and nothing in that says my name."
 
 "It does not say your name," Peart said. "It does not say anybody's name. It is a slot moving because a man in an office has decided the hose goes on the Thursday, and that is the ninth letter that depot has sent anybody in this district in a year and not one of them has ever been about anybody in particular."
 

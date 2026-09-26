@@ -1,6 +1,6 @@
 # Chapter 150 — The Nail And The Back Of A School Exercise Book
 
-Cliff Marner was one hundred and three days out of the ground. Della Marner was one hundred and thirty-three days at a family-reception desk in Cordell. The man behind the wall was one hundred and thirty-three days in, and Elias Rook was on the far side of the cut at ten past six on Saturday morning, the seventeenth of January, because the depot on the far bank runs Tuesdays and Fridays at half past six and the Friday hose certification had moved to Thursdays on the ninth of January by a letter that said the slots would not be held twice, and it gave him nothing else and it took nothing away, and the Tuesday was the same Tuesday it had been since the end of October.
+Cliff Marner was one hundred and three days out of the ground. Della Marner was one hundred and thirty-three days at a family-reception desk in Cordell. The man behind the wall was one hundred and thirty-three days in, and Elias Rook was on the far side of the cut at ten past six on Saturday morning, the seventeenth of January, on a day the depot does not run. The depot on the far bank runs Tuesdays and Fridays at half past six, the Friday hose certification had moved to Thursdays on the ninth of January by a letter that said the slots would not be held twice and said nothing whatever about the days, and there is no Saturday on any notice in that yard; R. Dunleavy was in there with the gauge out, and neither man said one word about it. The letter gave him nothing else and it took nothing away, and the Tuesday was the same Tuesday it had been since the end of October.
 
 R. Dunleavy did not do the talking part of it. The needle went up and stayed up and he wrote two figures in a book in his own hand and turned the book round so the page faced the man who had brought the sheet, and the left hand pinned it and the right hand took the pen off him when it was done.
 
@@ -18,9 +18,9 @@ He did the arithmetic out loud on the wall by the boatyard on the far side of th
 
 The man with the paint did not look up and said, "Sixty hours is a bit over two days."
 
-"Sixty hours and forty minutes is two days and a bit over twelve hours," Elias Rook said. "So it is two days and thirteen hours a year, which is one day for every calendar year and a half, and the letter that moved the hose to the Thursday has not given me the Thursday, and the Friday that is left is the inventory and I have not had the inventory since October, so the answer is two days and thirteen hours a year for the rest of whatever this is, and I have got the arithmetic right twice, and I am going to stop."
+"Sixty hours and forty minutes is two days and a bit over twelve hours," Elias Rook said. "So it is two days and thirteen hours a year, which is one day for every calendar year and a half, and the letter that moved the hose to the Thursday has not given me the Thursday, and the Friday that is left is the inventory and I have not had the inventory since the twenty-first of November, so the answer is two days and thirteen hours a year for the rest of whatever this is, and I have got the arithmetic right twice, and I am going to stop."
 
-He had the 11 at ten past eight and the fare was the fare and the run was over at twenty-four days and a hundred and thirty-two pounds in November and had not been restarted and was not going to be.
+He had the 11 at ten past eight and the fare was the fare and the run was over at twenty-four days and a hundred and thirty-two pounds in December and had not been restarted and was not going to be.
 
 ---
 
@@ -34,7 +34,7 @@ Mrs Postridge is about sixty and she has run the post office and the newsagent a
 
 "More than two hundred lines and about forty of them still blank," Elias Rook said, from about eight feet away, and did not go closer.
 
-"A hundred and ninety-one names in the fourth column," Alagoa said, from the other end of the pavement. "I counted them on Thursday night at about half past ten with a shopkeeper's pencil and I am not going to be the one who is correct, so take that as a number somebody put in a room, and it will be wrong by nine by Tuesday and that is how it should be."
+"A hundred and ninety-one names in the fourth column," Alagoa said, from the other end of the pavement. "I counted them on Friday night at about half past ten with a shopkeeper's pencil and I am not going to be the one who is correct, so take that as a number somebody put in a room, and it will be wrong by nine by Tuesday and that is how it should be."
 
 "Then why is that one in a different pencil."
 
@@ -46,7 +46,9 @@ There are two of the four on it. They are on the rows for eleven and nineteen Sa
 
 "They are the four," Elias Rook said out loud, to a pavement on a Saturday morning, and stopped, and understood that he was not going to say anything else about it in this district, ever, and that the reason was not a rule and had never been a rule and was a woman in a doorway on Friday saying *it is not about your office*.
 
-A determination came out of the board on Friday and the schedule of the second of December is withdrawn, and the block that is being emptied tonight at nineteen thirty is fourteen to twenty-two Cutbank Row and thirty-one Cutbank Row, and thirty-one is a woman of seventy-nine who has been on that row forty-six years and is called by her husband's name by everybody including the post office, and she came out of number thirty-one at about half past ten in the morning to look at the nail, and looked at it for a while from about four feet away, and went in.
+A determination came out of the board on Friday and the schedule of the second of December is withdrawn, and the block that is being emptied tonight is fourteen to twenty-two Cutbank Row and thirty-one Cutbank Row, and thirty-one is a woman of seventy-nine who has been on that row forty-six years and is called by her husband's name by everybody including the post office, and she came out of number thirty-one at about half past ten in the morning to look at the nail, and looked at it for a while from about four feet away, and went in.
+
+The block starts at fourteen and it ends at twenty-two, and twenty-two is the flat over the shop that sells door furniture, and the woman who lives in it has known since the sheets went round the shops in December that her own front door is inside a line somebody else drew, and she has not said so to anybody, and there is no form in this city that asks a person whether they are inside one, and she was on the row at about ten o'clock this morning while three people nailed a length of paper to a wall above the counter at number two, and she did not say one word about any of it, and nobody asked her, because since November not one person in this district has asked her a question she had not offered the answer to first.
 
 ---
 

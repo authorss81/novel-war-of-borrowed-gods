@@ -39,11 +39,12 @@ The room above number six was free from three. Selwyn Anum came at a quarter pas
 
 "The day book," Anum said, and got it off the shelf behind the counter, under a stack of binders, and did not open it on the table. "It is ours. It is not the verification log and it is not the counter log and it is not a works record, and I have been in this cell nine weeks and had to be told by a man of thirty-four in a corridor that we keep one. It is not on an index, it does not go to the region, and I have never been asked to write in it, which is how I know it has not been kept since August."
 
-It went to four o'clock and it was read out in the room. It is a hardback book with one ruled line a day, written by whoever is on duty, in that person's own hand, at the end of the day, and it is not a form and nobody signs it. The line for the eighth of January is in a woman's small upright hand:
+It went to four o'clock, it was read out in the room, and the method officer's August went with it. It is a hardback book with one ruled line a day, written by whoever is on duty, in that person's own hand, at the end of the shift, and it is not a form and nobody signs it. The line for the eighth of January is in a woman's small upright hand:
 
 ```
-8 JAN — 05:45 counter, Tallow. 08:05 task sheet to works, Rennard day block,
-per OP/1 row 2, no time on it, T. Ayodele. 11:20 incident works crew Rennard,
+8 JAN — 08:05 task sheet to works, Rennard day block,
+per OP/1 row 2, no time on it, T. Ayodele. 09:12 counter open, Tallow,
+nothing said. 11:20 incident works crew Rennard,
 11 persons hurt, works form in. 14:30 Rook in the room. Nothing sent anywhere.
 ```
 
@@ -65,7 +66,7 @@ He turned the book round and put one finger on the top line of the page.
 
 He shut it and put the band back over the corner.
 
-"There is a woman at the health center with eleven names on the back of a discharge list and I have got eleven cards in a wallet in a drawer in the canteen," Peart said. "They are the same eleven. I have known that since the twenty-eighth of December, which is eleven days ago, and in eleven days I have not put the two things on one table once, and here is the reason and it is not a good one. My eleven cards have got a name and a night and a floor and a stair on them and they have not got a street on them, because there is no field on the card for a street. So this morning, when a woman in a good coat handed a foreman a piece of paper that said RENNARD, there was not one thing in this building I could have done with the eleven except the two I already knew were on Marlow Street and had told nobody." He looked at his own hands. "Nine of them were on that street this morning and I did not know and I could not have known, and that is not a defense and I am not going to stand in this yard and make it into one. It is a line on a card."
+"There is a woman at the health center with eleven names on the back of a discharge list and I have got eleven cards in a wallet in a drawer in the canteen," Peart said. "They are the same eleven. I have known that since the twenty-eighth of December, which is eleven days ago, and in eleven days I have not put the two things on one table once, and here is the reason and it is not a good one. My eleven cards have got a name, a night, a floor and a stair, and no street, because there is no field on the card for a street. So this morning, when a woman in a good coat handed a foreman a sheet that said RENNARD, there was not one thing in this building I could have done with the eleven except the two I already knew were on Marlow Street and had told nobody." He looked at his own hands. "Nine of them were on that street this morning and I did not know and I could not have known, and that is not a defense and I am not going to stand in this yard and make it into one. It is a line on a card."
 
 ---
 

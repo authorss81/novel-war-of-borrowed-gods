@@ -4,7 +4,7 @@ Cliff Marner was one hundred and one days out of the ground. Della Marner was on
 
 There was a sheet of paper on a trestle by the door.
 
-It was two feet long and it was not ruled and it had four columns drawn on it in pencil, and about forty people had already written on it in about forty different hands, and the first column was the address and the fourth column was empty on every single line, and somebody had written a heading over the fourth column in capitals and underlined it twice, and the heading was a name.
+It was four feet long and it was not ruled and it had four columns drawn on it in pencil, and a hundred and fifty people had already written on it in a hundred and fifty different hands, and the first column was the address and the fourth column was empty on every single line, and somebody had written a heading over the fourth column in capitals and underlined it twice, and the heading was a name.
 
 ---
 

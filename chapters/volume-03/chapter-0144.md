@@ -40,11 +40,11 @@ Winifred Alagoa had come out of the newsagent at half past ten and had been stan
 
 "Then what am I going to do with them."
 
-"Nothing, today, because it is a Sunday," Alagoa said. "That is the actual answer and it is why I came out. There is nowhere in this city I could take those three people this morning. Not the board, not the office at number six, not the clinic, not the church hall, and the newsagent shuts at one and Mrs Postridge does not do this. So they are three people standing at the end of my road in the cold with nowhere to be sent, and you have two names and an address each, and if you write them down and take them somewhere on Monday then that is the correct arrangement and it is an arrangement with a day on it."
+"Nothing, today, because it is a Sunday," Alagoa said. "That is the actual answer and it is why I came out. There is nowhere in this city I could take those three people this morning. Not the board, not the office at number six, not the clinic, not the church hall, and the newsagent shuts at one and Mrs Postridge does not do this. So they are three people standing at the end of my road in the cold with nowhere to be sent, and you have a name and an address each, and if you write them down and take them somewhere on Monday then that is the correct arrangement and it is an arrangement with a day on it."
 
 "You have not asked them anything either."
 
-"I have not asked them anything at all," Alagoa said, "and I have been in this street for eleven years and it is the hardest thing I do every week of my life and I do it at a bollard on a Saturday with fifteen people standing about who are not asking me anything either."
+"I have not asked them anything at all," Alagoa said, "and I have been in this street for thirty-eight years and it is the hardest thing I do every week of my life and I do it at a bollard on a Saturday with fifteen people standing about who are not asking me anything either."
 
 ---
 
@@ -82,7 +82,7 @@ Declan Hough, thirty-one, came down the row at about ten past eleven with a car 
 
 Nobody said anything for about a minute, on a pavement, on a Sunday.
 
-Elias Rook wrote two words on the back of his hand under the three addresses. He did not ask anything else, and he did not go to the counter at number six, because the counter at number six was shut behind a locked door and it was a Sunday and it was a Saturday in three weeks that the street would be emptied and there was nowhere in this city to put three people on a Sunday.
+Elias Rook wrote two words on the back of his hand under the three addresses. He did not ask anything else, and he did not go to the counter at number six, because the counter at number six was shut behind a locked door and it was a Sunday and it was a Saturday this week that the street would be emptied and there was nowhere in this city to put three people on a Sunday.
 
 He walked them to the newsagent, which was open until one, and Mrs Postridge let them stand inside out of the wind on the strength of nothing at all, and nobody explained them, and Mrs Postridge did not ask.
 
